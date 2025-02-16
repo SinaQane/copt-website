@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Details</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <script defer src="script.js"></script>
+</head>
+<body class="bg-light">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">Course Portal</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="courses.html">Courses</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <div class="container mt-5">
+        <h1 id="course-title" class="text-center"></h1>
+        <h3 class="mt-4">Videos</h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Video</th>
+                    <th>Topic</th>
+                    <th>Name</th>
+                    <th>Supplementary Video</th>
+                    <th>Alternative Supplementary Video</th>
+                    <th>Prerequisite</th>
+                    <th>Comments</th>
+                    <th>Resources</th>
+                    <th>References</th>
+                </tr>
+            </thead>
+            <tbody id="video-list">
+                <!-- Dynamic Video Data Will Be Inserted Here by script.js -->
+            </tbody>
+        </table>
+        <a href="courses.html" class="btn btn-secondary mt-4">Back to Courses</a>
+    </div>
+    
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const courseId = urlParams.get('id');
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                const course = data.Courses.find(c => c["Course Id"] == courseId);
+                if (course) {
+                    document.getElementById("course-title").innerText = course["Course Name"];
+                    const videoList = document.getElementById('video-list');
+                    const relatedContent = data.Content.filter(c => c.Course == courseId);
+                    relatedContent.forEach(content => {
+                        const video = data.Videos.find(v => v["Video Id"] == content.Video);
+                        const supplementaryVideo = data.Videos.find(v => v["Video Id"] == content["Supplementary Video"]);
+                        const alternativeVideo = data.Videos.find(v => v["Video Id"] == content["Alternative Supplementary Video"]);
+                        const prerequisite = data.Videos.find(v => v["Video Id"] == content["Prerequisite"]);
+                        const resources = data.Files.find(f => f["File Id"] == content["Resources"]);
+
+                        const row = document.createElement('tr');
+                        row.innerHTML = `
+                            <td>${video ? `<a href="${video["Video Link"]}" target="_blank">${video["Video Name"]}</a>` : "N/A"}</td>
+                            <td>${content["Topic"] || "N/A"}</td>
+                            <td>${video ? video["Video Name"] : "N/A"}</td>
+                            <td>${supplementaryVideo ? `<a href="${supplementaryVideo["Video Link"]}" target="_blank">${supplementaryVideo["Video Name"]}</a>` : "N/A"}</td>
+                            <td>${alternativeVideo ? `<a href="${alternativeVideo["Video Link"]}" target="_blank">${alternativeVideo["Video Name"]}</a>` : "N/A"}</td>
+                            <td>${prerequisite ? `<a href="${prerequisite["Video Link"]}" target="_blank">${prerequisite["Video Name"]}</a>` : "N/A"}</td>
+                            <td>${content["Comments"] || "N/A"}</td>
+                            <td>${resources ? `<a href="${resources["File Link"]}" target="_blank">${resources["File Name"]}</a>` : "N/A"}</td>
+                            <td>${content["References"] || "N/A"}</td>
+                        `;
+                        videoList.appendChild(row);
+                    });
+                } else {
+                    document.body.innerHTML = '<div class="container mt-5 text-center"><h2>Course Not Found</h2><a href="courses.html" class="btn btn-secondary">Back to Courses</a></div>';
+                }
+            })
+            .catch(error => console.error('Error loading course details:', error));
+    </script>
+</body>
+</html>

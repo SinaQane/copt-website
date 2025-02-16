@@ -1,0 +1,3271 @@
+{
+    "Courses": [
+        {
+            "Course Id": 1,
+            "Course Name": "\u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc \u0645\u06cc\u0646\u06cc\u0645\u0627\u0644"
+        },
+        {
+            "Course Id": 2,
+            "Course Name": "\u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc"
+        },
+        {
+            "Course Id": 3,
+            "Course Name": "\u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc \u0645\u0641\u0635\u0644"
+        },
+        {
+            "Course Id": 4,
+            "Course Name": "\u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u0631\u0648\u06cc \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627 \u0648 \u062a\u0648\u0627\u0628"
+        },
+        {
+            "Course Id": 5,
+            "Course Name": "\u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627 \u0648 \u0628\u0631\u0634\u200c\u0647\u0627"
+        },
+        {
+            "Course Id": 6,
+            "Course Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0642\u0631\u06cc\u0628\u06cc"
+        },
+        {
+            "Course Id": 7,
+            "Course Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u06af\u0631\u0627\u0641 \u0648 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f"
+        },
+        {
+            "Course Id": 8,
+            "Course Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0635\u0627\u062f\u0641\u06cc"
+        }
+    ],
+    "Videos": [
+        {
+            "Video Id": 1,
+            "Video Name": "N/A",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 2,
+            "Video Name": "copt  Introduction",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 3,
+            "Video Name": "copt002 online 00_11_25 polyhedral practice",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 4,
+            "Video Name": "copt 992 Session01",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 5,
+            "Video Name": "copt  Flows, Paths, Cuts",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 6,
+            "Video Name": "copt002 online 00_12_07 flows, cuts",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 7,
+            "Video Name": "copt  Proving Integrality of Polyhedra _trimmed",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 8,
+            "Video Name": "copt002 online 00_12_09",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 9,
+            "Video Name": "copt  TU 1 (00:00--47:00)",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 10,
+            "Video Name": "copt002 online 00_12_21 integer farkas lemma",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 11,
+            "Video Name": "copt 992 Session06",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 12,
+            "Video Name": "copt  TU 2  (23:25--57:35)",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 13,
+            "Video Name": "copt  Uncrossing",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 14,
+            "Video Name": "copt002 online 01_01_15 uncrossing",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 15,
+            "Video Name": "copt 992 Session07",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 16,
+            "Video Name": "copt  Primal Dual",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 17,
+            "Video Name": "copt002 online 01_01_29 hungarian",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 18,
+            "Video Name": "copt online 99_08_25 bipartite matching",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 19,
+            "Video Name": "copt  LP",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 20,
+            "Video Name": "copt online 99_07_06 Farkas lemma variants",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 21,
+            "Video Name": "copt992  2 Polyhedron",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 22,
+            "Video Name": "copt 992 Session02",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 23,
+            "Video Name": "copt online 99_07_08 polyhedra dimension",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 24,
+            "Video Name": "copt992  3 Faces & Facets",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 25,
+            "Video Name": "copt 992 Session03",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 26,
+            "Video Name": "copt online 99_07_13 facets",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 27,
+            "Video Name": "copt  Modeling 1",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 28,
+            "Video Name": "copt002 online 00_11_30 modeling 1",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 29,
+            "Video Name": "copt  Modeling 2",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 30,
+            "Video Name": "copt002 online 00_12_02 subtour dual, clutter blocker, qstab stab",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 31,
+            "Video Name": "copt  Polyhedral Combinatorics",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 32,
+            "Video Name": "copt online 99_07_22 matching polytope facets",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 33,
+            "Video Name": "copt  TU 1",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 34,
+            "Video Name": "copt online 99_07_27 TU examples",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 35,
+            "Video Name": "copt  TU 2",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 36,
+            "Video Name": "copt online 99_07_29 more TU examples",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 37,
+            "Video Name": "copt  TDI",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 38,
+            "Video Name": "copt002 online 01_01_20 TDI",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 39,
+            "Video Name": "copt Submodular Flow",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 40,
+            "Video Name": "copt online 99_08_18  Splitting Off, Submodular Flow  (From 6:20 to 34:30)",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 41,
+            "Video Name": "copt002 online 01_01_22 submodular flow",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 42,
+            "Video Name": "copt  Cardinality Nonbipartite Matching",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 43,
+            "Video Name": "copt online nonbipartite matching",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 44,
+            "Video Name": "copt  Weighted Nonbipartite Matching",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 45,
+            "Video Name": "copt online 99_09_04 weighted nonbipartite matching",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 46,
+            "Video Name": "copt Iterative MBDST",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 47,
+            "Video Name": "copt Splitting Off",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 48,
+            "Video Name": "copt MA ordering",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 49,
+            "Video Name": "copt online MA ordering, forest decomposition",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 50,
+            "Video Name": "copt Gomory-Hu Trees",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 51,
+            "Video Name": "copt 992 Session17",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 52,
+            "Video Name": "copt002 online 01_02_17 tsp 1",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 53,
+            "Video Name": "copt002 online 01_02_19 tsp 2",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 54,
+            "Video Name": "William_Cook___Information_Computation_Optimization...__[q8nQTNvCrjE]_[tag22]",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 55,
+            "Video Name": "copt002 online 01_02_26 tsp 3",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 56,
+            "Video Name": "copt Matroid 1 Fundamentals, Examples, Greedy Algorithm",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 57,
+            "Video Name": "copt 992 Session18",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 58,
+            "Video Name": "copt Matroid 2 Other Axioms",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 59,
+            "Video Name": "copt 992 Session19",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 60,
+            "Video Name": "copt Matroid 6 Matroid Intersection",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 61,
+            "Video Name": "copt 992 Session25",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 62,
+            "Video Name": "copt Submodular 1 Introduction",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 63,
+            "Video Name": "copt002 online 01_03_07 submodular 1",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 64,
+            "Video Name": "copt Submodular 2 Maximization",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 65,
+            "Video Name": "copt002 online 01_03_14 submodular 2",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 66,
+            "Video Name": "copt  Minkowski Weyl",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 67,
+            "Video Name": "copt  Faces",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 68,
+            "Video Name": "copt  Vertices",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 69,
+            "Video Name": "copt online 99_07_15 Caratheodory",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 70,
+            "Video Name": "copt  Matching Polytope",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 71,
+            "Video Name": "copt002 online 00_12_15 matching polytope",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 72,
+            "Video Name": "copt  Cunningham-Marsh",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 73,
+            "Video Name": "copt Min Cost Flow 1 Basic Concepts and Algorithms",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 74,
+            "Video Name": "copt 992 Session12",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 75,
+            "Video Name": "copt  T-Join",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 76,
+            "Video Name": "copt Approx Primal-Dual 1 Steiner Forst",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 77,
+            "Video Name": "copt online Approx Primal-Dual 1 set cover primal-dual",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 78,
+            "Video Name": "copt Rounding Prize-Collecting Steiner Tree",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 79,
+            "Video Name": "copt Cuts and Metrics 1  Multiway Cut",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 80,
+            "Video Name": "copt Cuts and Metrics online 1 node multiway cut",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 81,
+            "Video Name": "copt  Perfect Graphs 1",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 82,
+            "Video Name": "copt  Perfect Graphs 2 PGT",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 83,
+            "Video Name": "copt002 online 01_02_24 T-cut",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 84,
+            "Video Name": "copt002 online 01_02_31 tsp 4",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 85,
+            "Video Name": "copt Matroid 3 Duality, Operations",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 86,
+            "Video Name": "copt Matroid 5 Matroid Polytopes",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 87,
+            "Video Name": "copt Matroid 8 Cardinality Matroid Intersection Algorithm",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 88,
+            "Video Name": "copt Matroid 10 Matroid Union",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 89,
+            "Video Name": "copt Submodular 3 Polymatroids",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 90,
+            "Video Name": "copt002 online 01_03_16 submodular 3",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 91,
+            "Video Name": "copt Submodular 4 Continuous Extensions",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 92,
+            "Video Name": "copt 992 Session20",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 93,
+            "Video Name": "copt 992 Session21",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 94,
+            "Video Name": "copt 992 Session22",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 95,
+            "Video Name": "copt Matroid 4 Connectivity",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 96,
+            "Video Name": "copt 992 Session23",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 97,
+            "Video Name": "copt Matroid 7 Matroid Intersection Polytope",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 98,
+            "Video Name": "copt Matroid 9 Weighted Matroid Intersection Algorithm",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 99,
+            "Video Name": "copt 992 Session26",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 100,
+            "Video Name": "copt Submodular 5 Continuous Greedy",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 101,
+            "Video Name": "algorithm session 13",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 102,
+            "Video Name": "algorithm session 14",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 103,
+            "Video Name": "algorithm session 15",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 104,
+            "Video Name": "algorithm session 16",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 105,
+            "Video Name": "copt Flows, Paths, Cuts",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 106,
+            "Video Name": "copt Introduction",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 107,
+            "Video Name": "copt Cactus Representation",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 108,
+            "Video Name": "copt 992 Session16",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 109,
+            "Video Name": "copt Primal Dual",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 110,
+            "Video Name": "copt Min Cost Flow 2 Polynomial Algorithms",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 111,
+            "Video Name": "copt 992 Session13",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 112,
+            "Video Name": "copt Min Cost Flow 3 Strongly Polynomial Algorithms",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 113,
+            "Video Name": "copt 992 Session14",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 114,
+            "Video Name": "copt Multicommodity Flow 1  Introduction",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 115,
+            "Video Name": "copt Multicommodity Flow 2  Planar Graphs",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 116,
+            "Video Name": "copt Multicommodity Flow 3  Garg-Konemann",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 117,
+            "Video Name": "copt Multicommodity Flow online Garg-Konemann",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 118,
+            "Video Name": "copt Multicommodity Flow 4  Awerbuch-Leighton",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 119,
+            "Video Name": "algorithm session Approx Greedy",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 120,
+            "Video Name": "algorithm session Approx PTAS",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 121,
+            "Video Name": "algorithm session Local Search",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 122,
+            "Video Name": "algorithm session Approx LP",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 123,
+            "Video Name": "copt Approx Primal-Dual 2 Facility Location",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 124,
+            "Video Name": "copt online Approx Primal-Dual 2 facility location variants",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 125,
+            "Video Name": "copt online 99_09_18 facility location primal-dual",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 126,
+            "Video Name": "copt Approx Primal-Dual 3 k-median",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 127,
+            "Video Name": "copt online Approx Primal-Dual 3 dual fitting set cover 2",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 128,
+            "Video Name": "copt Rounding Max-SAT",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 129,
+            "Video Name": "copt Rounding Facility Location",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 130,
+            "Video Name": "copt online pipage rounding",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 131,
+            "Video Name": "copt Iterative online 2  iterative",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 132,
+            "Video Name": "copt Iterative online 1  generalized assignment",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 133,
+            "Video Name": "copt Iterative Rounding Survivable Network Design",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 134,
+            "Video Name": "copt Iterative Randomized Rounding Steiner Tree",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 135,
+            "Video Name": "algorithm session MWU Experts",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 136,
+            "Video Name": "copt Multicommodity Flow 1  Introduction (up to 10:46)",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 137,
+            "Video Name": "copt Cuts and Metrics 2 Multicut",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 138,
+            "Video Name": "copt Cuts and Metrics 3 Tree Metrics",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 139,
+            "Video Name": "copt Cuts and Metrics online 2 buy at bulk",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 140,
+            "Video Name": "algorithm session 3",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 141,
+            "Video Name": "algorithm session 4",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 142,
+            "Video Name": "algorithm TA session 2",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 143,
+            "Video Name": "algorithm session 6 (up to 50:00)",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 144,
+            "Video Name": "algorithm session 10",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 145,
+            "Video Name": "algorithm session 11",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 146,
+            "Video Name": "algorithm session 12",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 147,
+            "Video Name": "algorithm session MST Advanced",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 148,
+            "Video Name": "algorithm session Randomized (60:00-end)",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 149,
+            "Video Name": "algorithm session Spanner",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 150,
+            "Video Name": "algorithm session Treewidth",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 151,
+            "Video Name": "algorithm session Randomized",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 152,
+            "Video Name": "algorithm session Markov Chebyshev",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 153,
+            "Video Name": "algorithm session Chernoff",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 154,
+            "Video Name": "algorithm session Polynomials",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 155,
+            "Video Name": "algorithm session Polling Transitive Closure v2",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 156,
+            "Video Name": "algorithm session Counting Generation",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 157,
+            "Video Name": "algorithm session Isolating",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 158,
+            "Video Name": "algorithm session Online",
+            "Video Link": ""
+        },
+        {
+            "Video Id": 159,
+            "Video Name": "algorithm session Streaming",
+            "Video Link": ""
+        }
+    ],
+    "Files": [
+        {
+            "File Id": 1,
+            "File Name": "N/A",
+            "File Link": ""
+        },{
+            "File Id": 2,
+            "File Name": "Prerequisite",
+            "File Link": ""
+        },
+        {
+            "File Id": 3,
+            "File Name": "\u062a\u062e\u062a\u0647 \u062c\u0644\u0633\u0627\u062a TSP",
+            "File Link": ""
+        },
+        {
+            "File Id": 4,
+            "File Name": "cook et al.  TSP",
+            "File Link": ""
+        },
+        {
+            "File Id": 5,
+            "File Name": "board - copt Multicommodity Flow 1, 2, 3, 4",
+            "File Link": ""
+        },
+        {
+            "File Id": 6,
+            "File Name": "board - copt Multicommodity Flow online Garg-Konemann",
+            "File Link": ""
+        }
+    ],
+    "Content": [
+        {
+            "Content Id": 1,
+            "Course": 1,
+            "Video": 2,
+            "Topic": "",
+            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u0627\u06cc \u0628\u0631 \u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc",
+            "Supplementary Video": 3,
+            "Alternative Supplementary Video": 4,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 2,
+            "Course": 1,
+            "Video": 5,
+            "Topic": "",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u060c \u0645\u0633\u06cc\u0631\u0647\u0627\u060c \u0628\u0631\u0634\u200c\u0647\u0627: \u0645\u062f\u0644\u200c\u0633\u0627\u0632\u06cc \u0648 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Supplementary Video": 6,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 3,
+            "Course": 1,
+            "Video": 7,
+            "Topic": "",
+            "Name": "\u0627\u062b\u0628\u0627\u062a \u0635\u062d\u06cc\u062d \u0628\u0648\u062f\u0646 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
+            "Supplementary Video": 8,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 4,
+            "Course": 1,
+            "Video": 9,
+            "Topic": "",
+            "Name": "\u0645\u0627\u062a\u0631\u06cc\u0633\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062a\u06a9\u200c\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Supplementary Video": 10,
+            "Alternative Supplementary Video": 11,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 5,
+            "Course": 1,
+            "Video": 12,
+            "Topic": "",
+            "Name": "\u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0644\u0627\u06cc\u0647\u200c\u0627\u06cc \u0648 \u0628\u062f\u0648\u0646 \u062a\u0642\u0627\u0637\u0639",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 6,
+            "Course": 1,
+            "Video": 13,
+            "Topic": "",
+            "Name": "\u062a\u0642\u0627\u0637\u0639\u200c\u0632\u062f\u0627\u06cc\u06cc",
+            "Supplementary Video": 14,
+            "Alternative Supplementary Video": 15,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 7,
+            "Course": 1,
+            "Video": 16,
+            "Topic": "",
+            "Name": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646",
+            "Supplementary Video": 17,
+            "Alternative Supplementary Video": 18,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 8,
+            "Course": 2,
+            "Video": 2,
+            "Topic": "\u0645\u0642\u062f\u0645\u0647",
+            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u0627\u06cc \u0628\u0631 \u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc",
+            "Supplementary Video": 3,
+            "Alternative Supplementary Video": 4,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 9,
+            "Course": 2,
+            "Video": 19,
+            "Topic": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc \u0648 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
+            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u200c\u0627\u06cc \u0628\u0631 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Supplementary Video": 20,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 2,
+            "References": ""
+        },
+        {
+            "Content Id": 10,
+            "Course": 2,
+            "Video": 21,
+            "Topic": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc \u0648 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
+            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627: \u062a\u0648\u0635\u06cc\u0641\u200c\u0647\u0627\u06cc \u0645\u0639\u0627\u062f\u0644",
+            "Supplementary Video": 22,
+            "Alternative Supplementary Video": 23,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 11,
+            "Course": 2,
+            "Video": 24,
+            "Topic": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc \u0648 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
+            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627: \u0648\u062c\u0647\u200c\u0647\u0627",
+            "Supplementary Video": 25,
+            "Alternative Supplementary Video": 26,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 12,
+            "Course": 2,
+            "Video": 27,
+            "Topic": "\u0645\u062f\u0644 \u0633\u0627\u0632\u06cc",
+            "Name": "\u0645\u062f\u0644\u200c \u0633\u0627\u0632\u06cc \u06f1",
+            "Supplementary Video": 28,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 13,
+            "Course": 2,
+            "Video": 29,
+            "Topic": "\u0645\u062f\u0644 \u0633\u0627\u0632\u06cc",
+            "Name": "\u0645\u062f\u0644\u200c \u0633\u0627\u0632\u06cc \u06f2 ",
+            "Supplementary Video": 30,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 14,
+            "Course": 2,
+            "Video": 5,
+            "Topic": "\u0645\u062f\u0644 \u0633\u0627\u0632\u06cc",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u060c \u0645\u0633\u06cc\u0631\u0647\u0627\u060c \u0628\u0631\u0634\u200c\u0647\u0627: \u0645\u062f\u0644\u200c\u0633\u0627\u0632\u06cc \u0648 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Supplementary Video": 6,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 15,
+            "Course": 2,
+            "Video": 31,
+            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
+            "Name": "\u0627\u062b\u0628\u0627\u062a \u0635\u062d\u06cc\u062d \u0628\u0648\u062f\u0646 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
+            "Supplementary Video": 8,
+            "Alternative Supplementary Video": 32,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 16,
+            "Course": 2,
+            "Video": 33,
+            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
+            "Name": "\u0645\u0627\u062a\u0631\u06cc\u0633\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062a\u06a9\u200c\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Supplementary Video": 34,
+            "Alternative Supplementary Video": 11,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 17,
+            "Course": 2,
+            "Video": 35,
+            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
+            "Name": "\u0645\u0627\u062a\u0631\u06cc\u0633\u200c\u0647\u0627\u06cc \u0634\u0628\u06a9\u0647\u200c\u0627\u06cc\u060c \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0644\u0627\u06cc\u0647\u200c\u0627\u06cc \u0648 \u0628\u062f\u0648\u0646 \u062a\u0642\u0627\u0637\u0639",
+            "Supplementary Video": 36,
+            "Alternative Supplementary Video": 10,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 18,
+            "Course": 2,
+            "Video": 13,
+            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
+            "Name": "\u062a\u0642\u0627\u0637\u0639\u200c\u0632\u062f\u0627\u06cc\u06cc",
+            "Supplementary Video": 14,
+            "Alternative Supplementary Video": 15,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 19,
+            "Course": 2,
+            "Video": 37,
+            "Topic": "\u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062f\u0648\u06af\u0627\u0646-\u0635\u062d\u06cc\u062d",
+            "Name": "\u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062f\u0648\u06af\u0627\u0646-\u0635\u062d\u06cc\u062d",
+            "Supplementary Video": 38,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 20,
+            "Course": 2,
+            "Video": 39,
+            "Topic": "\u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062f\u0648\u06af\u0627\u0646-\u0635\u062d\u06cc\u062d",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u06cc \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Supplementary Video": 40,
+            "Alternative Supplementary Video": 41,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 21,
+            "Course": 2,
+            "Video": 16,
+            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Name": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646",
+            "Supplementary Video": 17,
+            "Alternative Supplementary Video": 18,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 22,
+            "Course": 2,
+            "Video": 42,
+            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Name": "\u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc \u0628\u062f\u0648\u0646 \u0648\u0632\u0646",
+            "Supplementary Video": 43,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 23,
+            "Course": 2,
+            "Video": 44,
+            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Name": "\u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631 \u062f\u0648\u0628\u062e\u0634\u06cc \u0648\u0632\u0646\u200c\u062f\u0627\u0631",
+            "Supplementary Video": 45,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 24,
+            "Course": 2,
+            "Video": 46,
+            "Topic": "\u0631\u0648\u0634 \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631",
+            "Name": "\u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631\u060c \u062f\u0631\u062e\u062a \u0641\u0631\u0627\u06af\u06cc\u0631 \u062f\u0631\u062c\u0647-\u0645\u062d\u062f\u0648\u062f \u06a9\u0645\u06cc\u0646\u0647",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 25,
+            "Course": 2,
+            "Video": 47,
+            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627",
+            "Name": "\u062a\u06a9\u0646\u06cc\u06a9 \u0634\u06a9\u0627\u0641\u062a\u0646",
+            "Supplementary Video": 40,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 26,
+            "Course": 2,
+            "Video": 48,
+            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627",
+            "Name": "\u0628\u0631\u0634\u200c\u0647\u0627\u06cc \u06a9\u0645\u06cc\u0646\u0647 \u0633\u0631\u0627\u0633\u0631\u06cc \u0648 \u062a\u0631\u062a\u06cc\u0628 \u0645\u062c\u0627\u0648\u0631\u062a-\u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Supplementary Video": 49,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 27,
+            "Course": 2,
+            "Video": 50,
+            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627",
+            "Name": "\u062f\u0631\u062e\u062a \u06af\u0648\u0645\u0648\u0631\u06cc-\u0647\u0648",
+            "Supplementary Video": 51,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 28,
+            "Course": 2,
+            "Video": 52,
+            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
+            "Name": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062f\u0642\u06cc\u0642 \u0648 \u062a\u0642\u0631\u06cc\u0628\u06cc \u06a9\u0644\u0627\u0633\u06cc\u06a9",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 3,
+            "References": ""
+        },
+        {
+            "Content Id": 29,
+            "Course": 2,
+            "Video": 53,
+            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u062a\u0642\u0631\u06cc\u0628\u06cc \u0628\u0631\u0627\u06cc \u062a\u06cc\u200c\u0627\u0633\u200c\u067e\u06cc \u062c\u0647\u062a\u200c\u062f\u0627\u0631\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062c\u0633\u062a\u062c\u0648\u06cc \u0645\u062d\u0644\u06cc",
+            "Supplementary Video": 54,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 4,
+            "References": ""
+        },
+        {
+            "Content Id": 30,
+            "Course": 2,
+            "Video": 55,
+            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
+            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc \u062a\u06cc\u200c\u0627\u0633\u200c\u067e\u06cc\u060c \u0646\u0627\u0645\u0633\u0627\u0648\u06cc\u200c\u0647\u0627\u06cc \u0634\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 31,
+            "Course": 2,
+            "Video": 56,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627: \u0645\u0642\u062f\u0645\u0627\u062a \u0648 \u062a\u0639\u0627\u0631\u06cc\u0641\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u062d\u0631\u06cc\u0635\u0627\u0646\u0647",
+            "Supplementary Video": 57,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 32,
+            "Course": 2,
+            "Video": 58,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u062a\u0639\u0627\u0631\u06cc\u0641 \u0645\u0639\u0627\u062f\u0644",
+            "Supplementary Video": 59,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 33,
+            "Course": 2,
+            "Video": 60,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 61,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 34,
+            "Course": 2,
+            "Video": 62,
+            "Topic": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Name": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc: \u0645\u0642\u062f\u0645\u0627\u062a \u0648 \u062a\u0639\u0627\u0631\u06cc\u0641",
+            "Supplementary Video": 63,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 35,
+            "Course": 2,
+            "Video": 64,
+            "Topic": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Name": "\u0628\u06cc\u0634\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Supplementary Video": 65,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 36,
+            "Course": 3,
+            "Video": 2,
+            "Topic": "\u0645\u0642\u062f\u0645\u0647",
+            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u0627\u06cc \u0628\u0631 \u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc",
+            "Supplementary Video": 3,
+            "Alternative Supplementary Video": 4,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 37,
+            "Course": 3,
+            "Video": 19,
+            "Topic": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc \u0648 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
+            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u200c\u0627\u06cc \u0628\u0631 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Supplementary Video": 20,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 38,
+            "Course": 3,
+            "Video": 66,
+            "Topic": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc \u0648 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
+            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627: \u062a\u0648\u0635\u06cc\u0641\u200c\u0647\u0627\u06cc \u0645\u0639\u0627\u062f\u0644",
+            "Supplementary Video": 23,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 39,
+            "Course": 3,
+            "Video": 67,
+            "Topic": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc \u0648 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
+            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627: \u0648\u062c\u0647\u200c\u0647\u0627",
+            "Supplementary Video": 26,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 40,
+            "Course": 3,
+            "Video": 68,
+            "Topic": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc \u0648 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
+            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u200c\u0647\u0627: \u0631\u0623\u0633\u200c\u0647\u0627",
+            "Supplementary Video": 69,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 41,
+            "Course": 3,
+            "Video": 27,
+            "Topic": "\u0645\u062f\u0644 \u0633\u0627\u0632\u06cc",
+            "Name": "\u0645\u062f\u0644\u200c \u0633\u0627\u0632\u06cc \u06f1",
+            "Supplementary Video": 28,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 42,
+            "Course": 3,
+            "Video": 29,
+            "Topic": "\u0645\u062f\u0644 \u0633\u0627\u0632\u06cc",
+            "Name": "\u0645\u062f\u0644\u200c \u0633\u0627\u0632\u06cc \u06f2 ",
+            "Supplementary Video": 30,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 43,
+            "Course": 3,
+            "Video": 5,
+            "Topic": "\u0645\u062f\u0644 \u0633\u0627\u0632\u06cc",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u060c \u0645\u0633\u06cc\u0631\u0647\u0627\u060c \u0628\u0631\u0634\u200c\u0647\u0627: \u0645\u062f\u0644\u200c\u0633\u0627\u0632\u06cc \u0648 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Supplementary Video": 6,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 44,
+            "Course": 3,
+            "Video": 31,
+            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
+            "Name": "\u0627\u062b\u0628\u0627\u062a \u0635\u062d\u06cc\u062d \u0628\u0648\u062f\u0646 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
+            "Supplementary Video": 8,
+            "Alternative Supplementary Video": 32,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 45,
+            "Course": 3,
+            "Video": 70,
+            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
+            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c \u062a\u0637\u0627\u0628\u0642\u200c\u0647\u0627 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Supplementary Video": 71,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 46,
+            "Course": 3,
+            "Video": 33,
+            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
+            "Name": "\u0645\u0627\u062a\u0631\u06cc\u0633\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062a\u06a9\u200c\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Supplementary Video": 34,
+            "Alternative Supplementary Video": 11,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 47,
+            "Course": 3,
+            "Video": 35,
+            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
+            "Name": "\u0645\u0627\u062a\u0631\u06cc\u0633\u200c\u0647\u0627\u06cc \u0634\u0628\u06a9\u0647\u200c\u0627\u06cc\u060c \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0644\u0627\u06cc\u0647\u200c\u0627\u06cc \u0648 \u0628\u062f\u0648\u0646 \u062a\u0642\u0627\u0637\u0639",
+            "Supplementary Video": 36,
+            "Alternative Supplementary Video": 10,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 48,
+            "Course": 3,
+            "Video": 13,
+            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
+            "Name": "\u062a\u0642\u0627\u0637\u0639\u200c\u0632\u062f\u0627\u06cc\u06cc",
+            "Supplementary Video": 14,
+            "Alternative Supplementary Video": 15,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 49,
+            "Course": 3,
+            "Video": 37,
+            "Topic": "\u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062f\u0648\u06af\u0627\u0646-\u0635\u062d\u06cc\u062d",
+            "Name": "\u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062f\u0648\u06af\u0627\u0646-\u0635\u062d\u06cc\u062d",
+            "Supplementary Video": 38,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 50,
+            "Course": 3,
+            "Video": 72,
+            "Topic": "\u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062f\u0648\u06af\u0627\u0646-\u0635\u062d\u06cc\u062d",
+            "Name": "\u0641\u0631\u0645\u0648\u0644 \u06a9\u0627\u0646\u06cc\u0646\u06af\u0647\u0627\u0645-\u0645\u0627\u0631\u0634",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 51,
+            "Course": 3,
+            "Video": 39,
+            "Topic": "\u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062f\u0648\u06af\u0627\u0646-\u0635\u062d\u06cc\u062d",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u06cc \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Supplementary Video": 40,
+            "Alternative Supplementary Video": 41,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 52,
+            "Course": 3,
+            "Video": 16,
+            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Name": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646",
+            "Supplementary Video": 17,
+            "Alternative Supplementary Video": 18,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 53,
+            "Course": 3,
+            "Video": 73,
+            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647",
+            "Supplementary Video": 74,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 54,
+            "Course": 3,
+            "Video": 42,
+            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Name": "\u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc \u0628\u062f\u0648\u0646 \u0648\u0632\u0646",
+            "Supplementary Video": 43,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 55,
+            "Course": 3,
+            "Video": 44,
+            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Name": "\u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631 \u062f\u0648\u0628\u062e\u0634\u06cc \u0648\u0632\u0646\u200c\u062f\u0627\u0631",
+            "Supplementary Video": 45,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 56,
+            "Course": 3,
+            "Video": 75,
+            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Name": "T-Join",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 57,
+            "Course": 3,
+            "Video": 76,
+            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0642\u0631\u06cc\u0628\u06cc: \u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646\u060c \u062c\u0646\u06af\u0644 \u0627\u0634\u062a\u0627\u06cc\u0646\u0631",
+            "Supplementary Video": 77,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 58,
+            "Course": 3,
+            "Video": 78,
+            "Topic": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0642\u0631\u06cc\u0628\u06cc: \u062f\u0631\u062e\u062a \u0627\u0634\u062a\u0627\u06cc\u0646\u0631 \u062c\u0627\u06cc\u0632\u0647-\u062c\u0645\u0639\u200c\u06a9\u0646",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 59,
+            "Course": 3,
+            "Video": 79,
+            "Topic": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0642\u0631\u06cc\u0628\u06cc: \u0628\u0631\u0634 \u0686\u0646\u062f\u0637\u0631\u0641\u0647",
+            "Supplementary Video": 80,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 60,
+            "Course": 3,
+            "Video": 46,
+            "Topic": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646",
+            "Name": "\u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631\u060c \u062f\u0631\u062e\u062a \u0641\u0631\u0627\u06af\u06cc\u0631 \u062f\u0631\u062c\u0647-\u0645\u062d\u062f\u0648\u062f \u06a9\u0645\u06cc\u0646\u0647",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 61,
+            "Course": 3,
+            "Video": 47,
+            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627",
+            "Name": "\u062a\u06a9\u0646\u06cc\u06a9 \u0634\u06a9\u0627\u0641\u062a\u0646",
+            "Supplementary Video": 40,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 62,
+            "Course": 3,
+            "Video": 48,
+            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627",
+            "Name": "\u0628\u0631\u0634\u200c\u0647\u0627\u06cc \u06a9\u0645\u06cc\u0646\u0647 \u0633\u0631\u0627\u0633\u0631\u06cc \u0648 \u062a\u0631\u062a\u06cc\u0628 \u0645\u062c\u0627\u0648\u0631\u062a-\u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Supplementary Video": 49,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 63,
+            "Course": 3,
+            "Video": 50,
+            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627",
+            "Name": "\u062f\u0631\u062e\u062a \u06af\u0648\u0645\u0648\u0631\u06cc-\u0647\u0648",
+            "Supplementary Video": 51,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 64,
+            "Course": 3,
+            "Video": 81,
+            "Topic": "\u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u062a\u0627\u0645",
+            "Name": "\u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u062a\u0627\u0645",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 65,
+            "Course": 3,
+            "Video": 82,
+            "Topic": "\u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u062a\u0627\u0645",
+            "Name": "\u0642\u0636\u06cc\u0647 \u06af\u0631\u0627\u0641 \u062a\u0627\u0645",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 66,
+            "Course": 3,
+            "Video": 52,
+            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
+            "Name": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062f\u0642\u06cc\u0642 \u0648 \u062a\u0642\u0631\u06cc\u0628\u06cc \u06a9\u0644\u0627\u0633\u06cc\u06a9",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 3,
+            "References": ""
+        },
+        {
+            "Content Id": 67,
+            "Course": 3,
+            "Video": 53,
+            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u062a\u0642\u0631\u06cc\u0628\u06cc \u0628\u0631\u0627\u06cc \u062a\u06cc\u200c\u0627\u0633\u200c\u067e\u06cc \u062c\u0647\u062a\u200c\u062f\u0627\u0631\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062c\u0633\u062a\u062c\u0648\u06cc \u0645\u062d\u0644\u06cc",
+            "Supplementary Video": 54,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 4,
+            "References": ""
+        },
+        {
+            "Content Id": 68,
+            "Course": 3,
+            "Video": 83,
+            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
+            "Name": "\u0645\u0633\u0626\u0644\u0647 \u062a\u06cc\u200c-\u0628\u0631\u0634 \u0641\u0631\u062f \u06a9\u0645\u06cc\u0646\u0647",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 69,
+            "Course": 3,
+            "Video": 55,
+            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
+            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc \u062a\u06cc\u200c\u0627\u0633\u200c\u067e\u06cc\u060c \u0646\u0627\u0645\u0633\u0627\u0648\u06cc\u200c\u0647\u0627\u06cc \u0634\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 70,
+            "Course": 3,
+            "Video": 84,
+            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
+            "Name": "\u0646\u0627\u0645\u0633\u0627\u0648\u06cc\u200c\u0647\u0627\u06cc \u0634\u0627\u0646\u0647\u200c\u0627\u06cc\u060c \u0646\u0627\u0645\u0633\u0627\u0648\u06cc\u200c\u0647\u0627\u06cc \u063a\u0646\u0686\u0647\u200c\u0627\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 71,
+            "Course": 3,
+            "Video": 56,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627: \u0645\u0642\u062f\u0645\u0627\u062a \u0648 \u062a\u0639\u0627\u0631\u06cc\u0641\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u062d\u0631\u06cc\u0635\u0627\u0646\u0647",
+            "Supplementary Video": 57,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 72,
+            "Course": 3,
+            "Video": 58,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u062a\u0639\u0627\u0631\u06cc\u0641 \u0645\u0639\u0627\u062f\u0644",
+            "Supplementary Video": 59,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 73,
+            "Course": 3,
+            "Video": 85,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u062f\u0648\u06af\u0627\u0646\u06cc\u060c \u0627\u0639\u0645\u0627\u0644",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 74,
+            "Course": 3,
+            "Video": 86,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 75,
+            "Course": 3,
+            "Video": 60,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 61,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 76,
+            "Course": 3,
+            "Video": 87,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 77,
+            "Course": 3,
+            "Video": 88,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u0627\u062c\u062a\u0645\u0627\u0639 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 78,
+            "Course": 3,
+            "Video": 62,
+            "Topic": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Name": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc: \u0645\u0642\u062f\u0645\u0627\u062a \u0648 \u062a\u0639\u0627\u0631\u06cc\u0641",
+            "Supplementary Video": 63,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 79,
+            "Course": 3,
+            "Video": 64,
+            "Topic": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Name": "\u0628\u06cc\u0634\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Supplementary Video": 65,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 80,
+            "Course": 3,
+            "Video": 89,
+            "Topic": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Name": "\u067e\u0644\u06cc\u200c\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 90,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 81,
+            "Course": 3,
+            "Video": 91,
+            "Topic": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Name": "\u06af\u0633\u062a\u0631\u0634\u200c\u0647\u0627\u06cc \u067e\u06cc\u0648\u0633\u062a\u0647",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 82,
+            "Course": 4,
+            "Video": 56,
+            "Topic": "",
+            "Name": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627: \u0645\u0642\u062f\u0645\u0627\u062a \u0648 \u062a\u0639\u0627\u0631\u06cc\u0641\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u062d\u0631\u06cc\u0635\u0627\u0646\u0647",
+            "Supplementary Video": 57,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 83,
+            "Course": 4,
+            "Video": 58,
+            "Topic": "",
+            "Name": "\u062a\u0639\u0627\u0631\u06cc\u0641 \u0645\u0639\u0627\u062f\u0644",
+            "Supplementary Video": 59,
+            "Alternative Supplementary Video": 92,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 84,
+            "Course": 4,
+            "Video": 85,
+            "Topic": "",
+            "Name": "\u062f\u0648\u06af\u0627\u0646\u06cc\u060c \u0627\u0639\u0645\u0627\u0644",
+            "Supplementary Video": 93,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 85,
+            "Course": 4,
+            "Video": 94,
+            "Topic": "",
+            "Name": "\u0646\u0645\u0627\u06cc\u0634 \u0647\u0646\u062f\u0633\u06cc \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627\u06cc \u06a9\u0645\u200c\u0631\u062a\u0628\u0647",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 86,
+            "Course": 4,
+            "Video": 95,
+            "Topic": "",
+            "Name": "\u0647\u0645\u0628\u0646\u062f\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 87,
+            "Course": 4,
+            "Video": 96,
+            "Topic": "",
+            "Name": "\u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u0631\u0648\u06cc \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 88,
+            "Course": 4,
+            "Video": 86,
+            "Topic": "",
+            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 89,
+            "Course": 4,
+            "Video": 60,
+            "Topic": "",
+            "Name": "\u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 61,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 90,
+            "Course": 4,
+            "Video": 97,
+            "Topic": "",
+            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c \u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 91,
+            "Course": 4,
+            "Video": 87,
+            "Topic": "",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 92,
+            "Course": 4,
+            "Video": 98,
+            "Topic": "",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0648\u0632\u0646\u200c\u062f\u0627\u0631 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 93,
+            "Course": 4,
+            "Video": 88,
+            "Topic": "",
+            "Name": "\u0627\u062c\u062a\u0645\u0627\u0639 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 94,
+            "Course": 4,
+            "Video": 99,
+            "Topic": "",
+            "Name": "\u0628\u0627\u0632\u06cc \u0634\u0627\u0646\u0648\u0646",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 95,
+            "Course": 4,
+            "Video": 62,
+            "Topic": "",
+            "Name": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc: \u0645\u0642\u062f\u0645\u0627\u062a \u0648 \u062a\u0639\u0627\u0631\u06cc\u0641",
+            "Supplementary Video": 63,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 96,
+            "Course": 4,
+            "Video": 64,
+            "Topic": "",
+            "Name": "\u0628\u06cc\u0634\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Supplementary Video": 65,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 97,
+            "Course": 4,
+            "Video": 89,
+            "Topic": "",
+            "Name": "\u067e\u0644\u06cc\u200c\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 90,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 98,
+            "Course": 4,
+            "Video": 91,
+            "Topic": "",
+            "Name": "\u06af\u0633\u062a\u0631\u0634\u200c\u0647\u0627\u06cc \u067e\u06cc\u0648\u0633\u062a\u0647",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 99,
+            "Course": 4,
+            "Video": 100,
+            "Topic": "",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u062d\u0631\u06cc\u0635\u0627\u0646\u0647 \u067e\u06cc\u0648\u0633\u062a\u0647",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 100,
+            "Course": 5,
+            "Video": 101,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647 \u06f1: \u062a\u0639\u0627\u0631\u06cc\u0641 \u0648 \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 101,
+            "Course": 5,
+            "Video": 102,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647 \u06f2: \u0646\u0633\u062e\u0647\u200c\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 \u0648 \u06a9\u0627\u0631\u0628\u0631\u062f\u0647\u0627\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 102,
+            "Course": 5,
+            "Video": 103,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647 \u06f3: \u06a9\u0627\u0631\u0628\u0631\u062f\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 103,
+            "Course": 5,
+            "Video": 104,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Name": "\u062a\u0637\u0627\u0628\u0642 \u0648\u0632\u0646\u200c\u062f\u0627\u0631 \u062f\u0631 \u06af\u0631\u0627\u0641 \u062f\u0648\u0628\u062e\u0634\u06cc\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 push-relabel",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 104,
+            "Course": 5,
+            "Video": 105,
+            "Topic": "\u0645\u062f\u0644\u200c\u0633\u0627\u0632\u06cc \u0648 \u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u060c \u0645\u0633\u06cc\u0631\u0647\u0627\u060c \u0628\u0631\u0634\u200c\u0647\u0627: \u0645\u062f\u0644\u200c\u0633\u0627\u0632\u06cc \u0648 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Supplementary Video": 6,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 106,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 105,
+            "Course": 5,
+            "Video": 47,
+            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
+            "Name": "\u062a\u06a9\u0646\u06cc\u06a9 \u0634\u06a9\u0627\u0641\u062a\u0646",
+            "Supplementary Video": 40,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 106,
+            "Course": 5,
+            "Video": 48,
+            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
+            "Name": "\u0628\u0631\u0634\u200c\u0647\u0627\u06cc \u06a9\u0645\u06cc\u0646\u0647 \u0633\u0631\u0627\u0633\u0631\u06cc \u0648 \u062a\u0631\u062a\u06cc\u0628 \u0645\u062c\u0627\u0648\u0631\u062a-\u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Supplementary Video": 49,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 107,
+            "Course": 5,
+            "Video": 107,
+            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
+            "Name": "\u0646\u0645\u0627\u06cc\u0634 \u06a9\u0627\u06a9\u062a\u0648\u0633\u06cc",
+            "Supplementary Video": 108,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 108,
+            "Course": 5,
+            "Video": 50,
+            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
+            "Name": "\u062f\u0631\u062e\u062a \u06af\u0648\u0645\u0648\u0631\u06cc-\u0647\u0648",
+            "Supplementary Video": 51,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 109,
+            "Course": 5,
+            "Video": 73,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647 \u06f1: \u0645\u0641\u0627\u0647\u06cc\u0645 \u0645\u0642\u062f\u0645\u0627\u062a\u06cc",
+            "Supplementary Video": 74,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 109,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 110,
+            "Course": 5,
+            "Video": 110,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647 \u06f2: \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u0686\u0646\u062f\u062c\u0645\u0644\u0647\u200c\u0627\u06cc",
+            "Supplementary Video": 111,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 111,
+            "Course": 5,
+            "Video": 112,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647 \u06f3: \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u0642\u0648\u06cc\u0627\u064b \u0686\u0646\u062f\u062c\u0645\u0644\u0647\u200c\u0627\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 112,
+            "Course": 5,
+            "Video": 113,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647 \u06f4: \u0633\u06cc\u0645\u067e\u0644\u06a9\u0633 \u062c\u0631\u06cc\u0627\u0646",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Network Simplex",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 113,
+            "Course": 5,
+            "Video": 114,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc \u06f1: \u0645\u0642\u062f\u0645\u0627\u062a",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 5,
+            "References": ""
+        },
+        {
+            "Content Id": 114,
+            "Course": 5,
+            "Video": 115,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc \u06f2: \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0645\u0633\u0637\u062d",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 115,
+            "Course": 5,
+            "Video": 116,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc \u06f3: \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u06af\u0631\u06af-\u06a9\u0646\u0645\u0627\u0646",
+            "Supplementary Video": 117,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 6,
+            "References": ""
+        },
+        {
+            "Content Id": 116,
+            "Course": 5,
+            "Video": 118,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc \u06f4: \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0622\u0648\u0631\u0628\u0648\u062e-\u0644\u06cc\u062a\u0648\u0646",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 117,
+            "Course": 6,
+            "Video": 119,
+            "Topic": "\u0645\u0642\u062f\u0645\u0647",
+            "Name": "\u0631\u0648\u0634 \u062d\u0631\u06cc\u0635\u0627\u0646\u0647\u060c \u067e\u0648\u0634\u0634 \u0645\u062c\u0645\u0648\u0639\u0647\u200c\u0627\u06cc\u060c \u062a\u06cc\u200c\u0627\u0633\u200c\u067e\u06cc \u0648 \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u06f1.\u06f5 \u062a\u0642\u0631\u06cc\u0628",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 118,
+            "Course": 6,
+            "Video": 120,
+            "Topic": "\u0645\u0642\u062f\u0645\u0647",
+            "Name": "\u06af\u0631\u062f \u06a9\u0631\u062f\u0646 \u0648 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u067e\u0648\u06cc\u0627\u060c PTAS\u060c FPTAS",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 119,
+            "Course": 6,
+            "Video": 121,
+            "Topic": "\u0645\u0642\u062f\u0645\u0647",
+            "Name": "\u062c\u0633\u062a\u062c\u0648\u06cc \u0645\u062d\u0644\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 120,
+            "Course": 6,
+            "Video": 122,
+            "Topic": "\u0645\u0642\u062f\u0645\u0647",
+            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u0627\u06cc \u0628\u0631 \u0631\u0648\u0634\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional. Covered later.",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 121,
+            "Course": 6,
+            "Video": 76,
+            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646",
+            "Name": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646\u060c \u062c\u0646\u06af\u0644 \u0627\u0634\u062a\u0627\u06cc\u0646\u0631",
+            "Supplementary Video": 77,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 122,
+            "Course": 6,
+            "Video": 123,
+            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646",
+            "Name": "\u0645\u0633\u0626\u0644\u0647 \u0645\u06a9\u0627\u0646\u200c\u06cc\u0627\u0628\u06cc \u062a\u0633\u0647\u06cc\u0644\u0627\u062a",
+            "Supplementary Video": 124,
+            "Alternative Supplementary Video": 125,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 123,
+            "Course": 6,
+            "Video": 126,
+            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646",
+            "Name": "\u0645\u0633\u0626\u0644\u0647 k-\u0645\u06cc\u0627\u0646\u0647",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 124,
+            "Course": 6,
+            "Video": 127,
+            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646",
+            "Name": "\u0628\u0631\u0627\u0632\u0634 \u062f\u0648\u06af\u0627\u0646",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 125,
+            "Course": 6,
+            "Video": 128,
+            "Topic": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646",
+            "Name": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646\u060c \u0645\u0633\u0626\u0644\u0647 Max-SAT",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 126,
+            "Course": 6,
+            "Video": 78,
+            "Topic": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646",
+            "Name": "\u062f\u0631\u062e\u062a \u0627\u0634\u062a\u0627\u06cc\u0646\u0631 \u062c\u0627\u06cc\u0632\u0647-\u062c\u0645\u0639\u200c\u06a9\u0646",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 127,
+            "Course": 6,
+            "Video": 129,
+            "Topic": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646",
+            "Name": "\u06af\u0631\u062f \u06a9\u0631\u062f\u0646 \u0628\u0631\u0627\u06cc \u0645\u06a9\u0627\u0646\u200c\u06cc\u0627\u0628\u06cc \u062a\u0633\u0647\u06cc\u0644\u0627\u062a",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 128,
+            "Course": 6,
+            "Video": 130,
+            "Topic": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646",
+            "Name": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646 \u0644\u0648\u0644\u0647\u200c\u06a9\u0634\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 129,
+            "Course": 6,
+            "Video": 46,
+            "Topic": "\u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631",
+            "Name": "\u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631\u060c \u062f\u0631\u062e\u062a \u0641\u0631\u0627\u06af\u06cc\u0631 \u062f\u0631\u062c\u0647-\u0645\u062d\u062f\u0648\u062f \u06a9\u0645\u06cc\u0646\u0647",
+            "Supplementary Video": 131,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 130,
+            "Course": 6,
+            "Video": 132,
+            "Topic": "\u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631",
+            "Name": "\u0645\u0633\u0626\u0644\u0647 \u062a\u062e\u0635\u06cc\u0635 \u062a\u0639\u0645\u06cc\u0645\u200c\u06cc\u0627\u0641\u062a\u0647",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 131,
+            "Course": 6,
+            "Video": 133,
+            "Topic": "\u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631",
+            "Name": "\u0637\u0631\u0627\u062d\u06cc \u0634\u0628\u06a9\u0647 \u062a\u062d\u0645\u0644\u200c\u067e\u0630\u06cc\u0631 \u062e\u0637\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 132,
+            "Course": 6,
+            "Video": 134,
+            "Topic": "\u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631",
+            "Name": "\u06af\u0631\u062f \u06a9\u0631\u062f\u0646 \u062a\u06a9\u0631\u0627\u0631\u06cc \u062a\u0635\u0627\u062f\u0641\u06cc: \u062f\u0631\u062e\u062a \u0627\u0634\u062a\u0627\u06cc\u0646\u0631",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 133,
+            "Course": 6,
+            "Video": 135,
+            "Topic": "\u0628\u0647\u200c\u0631\u0648\u0632 \u0631\u0633\u0627\u0646\u06cc \u0636\u0631\u0628\u06cc \u0648\u0632\u0646\u200c\u0647\u0627 \u0648 \u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u06cc \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
+            "Name": "\u0628\u0647\u200c\u0631\u0648\u0632 \u0631\u0633\u0627\u0646\u06cc \u0636\u0631\u0628\u06cc \u0648\u0632\u0646\u200c\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 134,
+            "Course": 6,
+            "Video": 116,
+            "Topic": "\u0628\u0647\u200c\u0631\u0648\u0632 \u0631\u0633\u0627\u0646\u06cc \u0636\u0631\u0628\u06cc \u0648\u0632\u0646\u200c\u0647\u0627 \u0648 \u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u06cc \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc: \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u06af\u0631\u06af-\u06a9\u0646\u0645\u0627\u0646",
+            "Supplementary Video": 117,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 136,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 135,
+            "Course": 6,
+            "Video": 118,
+            "Topic": "\u0628\u0647\u200c\u0631\u0648\u0632 \u0631\u0633\u0627\u0646\u06cc \u0636\u0631\u0628\u06cc \u0648\u0632\u0646\u200c\u0647\u0627 \u0648 \u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u06cc \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc: \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0622\u0648\u0631\u0628\u0648\u062e-\u0644\u06cc\u062a\u0648\u0646",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 136,
+            "Course": 6,
+            "Video": 79,
+            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627 \u0648 \u0645\u062a\u0631\u06cc\u06a9\u200c\u0647\u0627",
+            "Name": "\u0628\u0631\u0634 \u0686\u0646\u062f\u0637\u0631\u0641\u0647",
+            "Supplementary Video": 80,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 137,
+            "Course": 6,
+            "Video": 137,
+            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627 \u0648 \u0645\u062a\u0631\u06cc\u06a9\u200c\u0647\u0627",
+            "Name": "\u0686\u0646\u062f-\u0628\u0631\u0634",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 138,
+            "Course": 6,
+            "Video": 138,
+            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627 \u0648 \u0645\u062a\u0631\u06cc\u06a9\u200c\u0647\u0627",
+            "Name": "\u0645\u062a\u0631\u06cc\u06a9\u200c\u0647\u0627\u06cc \u062f\u0631\u062e\u062a\u06cc",
+            "Supplementary Video": 139,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 139,
+            "Course": 7,
+            "Video": 140,
+            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0645\u0642\u062f\u0645\u0627\u062a\u06cc",
+            "Name": "\u062c\u0633\u062a\u062c\u0648\u06cc \u0627\u0648\u0644\u200c-\u0633\u0637\u062d",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 140,
+            "Course": 7,
+            "Video": 141,
+            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0645\u0642\u062f\u0645\u0627\u062a\u06cc",
+            "Name": "\u062c\u0633\u062a\u062c\u0648\u06cc \u0627\u0648\u0644\u200c-\u0639\u0645\u0642",
+            "Supplementary Video": 142,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 141,
+            "Course": 7,
+            "Video": 143,
+            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0645\u0642\u062f\u0645\u0627\u062a\u06cc",
+            "Name": "\u0632\u06cc\u0631\u062f\u0631\u062e\u062a \u0641\u0631\u0627\u06af\u06cc\u0631 \u06a9\u0645\u06cc\u0646\u0647",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 142,
+            "Course": 7,
+            "Video": 144,
+            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0645\u0642\u062f\u0645\u0627\u062a\u06cc",
+            "Name": "\u06a9\u0648\u062a\u0627\u0647\u062a\u0631\u06cc\u0646 \u0645\u0633\u06cc\u0631 \u06f1",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 143,
+            "Course": 7,
+            "Video": 145,
+            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0645\u0642\u062f\u0645\u0627\u062a\u06cc",
+            "Name": "\u06a9\u0648\u062a\u0627\u0647\u062a\u0631\u06cc\u0646 \u0645\u0633\u06cc\u0631 \u06f2",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 144,
+            "Course": 7,
+            "Video": 146,
+            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0648\u06cc\u0698\u0647",
+            "Name": "\u062f\u0648\u0631 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0645\u06cc\u0627\u0646\u06af\u06cc\u0646 \u0648\u0632\u0646 \u0648 \u062f\u0631\u062e\u062a \u06a9\u0645\u200c\u0639\u0645\u0642-\u0633\u0628\u06a9",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 145,
+            "Course": 7,
+            "Video": 147,
+            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0648\u06cc\u0698\u0647",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u0633\u0631\u06cc\u0639\u200c\u062a\u0631 \u0628\u0631\u0627\u06cc \u0645\u0633\u0626\u0644\u0647 \u0632\u06cc\u0631\u062f\u0631\u062e\u062a \u0641\u0631\u0627\u06af\u06cc\u0631 \u06a9\u0645\u06cc\u0646\u0647",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 146,
+            "Course": 7,
+            "Video": 42,
+            "Topic": "\u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Name": "\u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc \u0628\u062f\u0648\u0646 \u0648\u0632\u0646",
+            "Supplementary Video": 43,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 147,
+            "Course": 7,
+            "Video": 75,
+            "Topic": "\u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Name": "T-Join",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 148,
+            "Course": 7,
+            "Video": 101,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647 \u06f1: \u062a\u0639\u0627\u0631\u06cc\u0641 \u0648 \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 149,
+            "Course": 7,
+            "Video": 102,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647 \u06f2: \u0646\u0633\u062e\u0647\u200c\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 \u0648 \u06a9\u0627\u0631\u0628\u0631\u062f\u0647\u0627\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 150,
+            "Course": 7,
+            "Video": 103,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647 \u06f3: \u06a9\u0627\u0631\u0628\u0631\u062f\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 151,
+            "Course": 7,
+            "Video": 104,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Name": "\u062a\u0637\u0627\u0628\u0642 \u0648\u0632\u0646\u200c\u062f\u0627\u0631 \u062f\u0631 \u06af\u0631\u0627\u0641 \u062f\u0648\u0628\u062e\u0634\u06cc\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 push-relabel",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 152,
+            "Course": 7,
+            "Video": 47,
+            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
+            "Name": "\u062a\u06a9\u0646\u06cc\u06a9 \u0634\u06a9\u0627\u0641\u062a\u0646",
+            "Supplementary Video": 40,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 153,
+            "Course": 7,
+            "Video": 48,
+            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
+            "Name": "\u0628\u0631\u0634\u200c\u0647\u0627\u06cc \u06a9\u0645\u06cc\u0646\u0647 \u0633\u0631\u0627\u0633\u0631\u06cc \u0648 \u062a\u0631\u062a\u06cc\u0628 \u0645\u062c\u0627\u0648\u0631\u062a-\u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Supplementary Video": 49,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 154,
+            "Course": 7,
+            "Video": 148,
+            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0627\u0646\u0642\u0628\u0627\u0636 \u0628\u0627\u0632\u06af\u0634\u062a\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 155,
+            "Course": 7,
+            "Video": 107,
+            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
+            "Name": "\u0646\u0645\u0627\u06cc\u0634 \u06a9\u0627\u06a9\u062a\u0648\u0633\u06cc",
+            "Supplementary Video": 108,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 156,
+            "Course": 7,
+            "Video": 50,
+            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
+            "Name": "\u062f\u0631\u062e\u062a \u06af\u0648\u0645\u0648\u0631\u06cc-\u0647\u0648",
+            "Supplementary Video": 51,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 157,
+            "Course": 7,
+            "Video": 81,
+            "Topic": "\u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u062a\u0627\u0645",
+            "Name": "\u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u062a\u0627\u0645",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 158,
+            "Course": 7,
+            "Video": 114,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc : \u0645\u0642\u062f\u0645\u0627\u062a",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 5,
+            "References": ""
+        },
+        {
+            "Content Id": 159,
+            "Course": 7,
+            "Video": 115,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc : \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0645\u0633\u0637\u062d",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 160,
+            "Course": 7,
+            "Video": 118,
+            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
+            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc : \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0622\u0648\u0631\u0628\u0648\u062e-\u0644\u06cc\u062a\u0648\u0646",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 161,
+            "Course": 7,
+            "Video": 149,
+            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0648\u06cc\u0698\u0647",
+            "Name": "\u0641\u0634\u0631\u062f\u0647\u200c\u0633\u0627\u0632\u06cc \u06af\u0631\u0627\u0641",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 162,
+            "Course": 7,
+            "Video": 150,
+            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0648\u06cc\u0698\u0647",
+            "Name": "\u062a\u062c\u0632\u06cc\u0647 \u062f\u0631\u062e\u062a\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 163,
+            "Course": 7,
+            "Video": 56,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627: \u0645\u0642\u062f\u0645\u0627\u062a \u0648 \u062a\u0639\u0627\u0631\u06cc\u0641\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u062d\u0631\u06cc\u0635\u0627\u0646\u0647",
+            "Supplementary Video": 57,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 164,
+            "Course": 7,
+            "Video": 58,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u062a\u0639\u0627\u0631\u06cc\u0641 \u0645\u0639\u0627\u062f\u0644",
+            "Supplementary Video": 59,
+            "Alternative Supplementary Video": 92,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 165,
+            "Course": 7,
+            "Video": 96,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u0631\u0648\u06cc \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 166,
+            "Course": 7,
+            "Video": 60,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 61,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 167,
+            "Course": 7,
+            "Video": 87,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 168,
+            "Course": 7,
+            "Video": 98,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0648\u0632\u0646\u200c\u062f\u0627\u0631 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 169,
+            "Course": 7,
+            "Video": 99,
+            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "\u0628\u0627\u0632\u06cc \u0634\u0627\u0646\u0648\u0646",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "Optional",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 170,
+            "Course": 8,
+            "Video": 151,
+            "Topic": "",
+            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u0627\u06cc \u0628\u0631 \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0635\u0627\u062f\u0641\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 171,
+            "Course": 8,
+            "Video": 152,
+            "Topic": "",
+            "Name": "\u0646\u0627\u0645\u0633\u0627\u0648\u06cc\u200c\u0647\u0627\u06cc \u0645\u0627\u0631\u06a9\u0648\u0641 \u0648 \u0686\u0628\u06cc\u0634\u0641",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 172,
+            "Course": 8,
+            "Video": 153,
+            "Topic": "",
+            "Name": "\u0646\u0627\u0645\u0633\u0627\u0648\u06cc \u0686\u0631\u0646\u0648\u0641",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 173,
+            "Course": 8,
+            "Video": 154,
+            "Topic": "",
+            "Name": "\u06a9\u0627\u0631\u0628\u0631\u062f \u0686\u0646\u062f\u062c\u0645\u0644\u0647\u200c\u0627\u06cc\u200c\u0647\u0627 \u062f\u0631 \u0637\u0631\u0627\u062d\u06cc\u200c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 174,
+            "Course": 8,
+            "Video": 155,
+            "Topic": "",
+            "Name": "\u0646\u0645\u0648\u0646\u0647\u200c\u06af\u06cc\u0631\u06cc \u062a\u0635\u0627\u062f\u0641\u06cc \u0648 \u0645\u0633\u0626\u0644\u0647 \u0628\u0633\u062a\u0627\u0631 \u0645\u062a\u0639\u062f\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 175,
+            "Course": 8,
+            "Video": 156,
+            "Topic": "",
+            "Name": "\u0634\u0645\u0627\u0631\u0634 \u0648 \u0646\u0645\u0648\u0646\u0647\u200c\u06af\u06cc\u0631\u06cc \u062a\u0635\u0627\u062f\u0641\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 176,
+            "Course": 8,
+            "Video": 157,
+            "Topic": "",
+            "Name": "\u0634\u06a9\u0633\u062a\u0646 \u062a\u0642\u0627\u0631\u0646\u060c \u062c\u0648\u0627\u0628\u200c\u0647\u0627\u06cc \u06cc\u06a9\u062a\u0627\u060c \u0644\u0645 \u0627\u06cc\u0632\u0648\u0644\u0647\u200c\u0633\u0627\u0632\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 177,
+            "Course": 8,
+            "Video": 147,
+            "Topic": "",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u0633\u0631\u06cc\u0639\u200c\u062a\u0631 \u0628\u0631\u0627\u06cc \u0645\u0633\u0626\u0644\u0647 \u0632\u06cc\u0631\u062f\u0631\u062e\u062a \u0641\u0631\u0627\u06af\u06cc\u0631 \u06a9\u0645\u06cc\u0646\u0647",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 178,
+            "Course": 8,
+            "Video": 158,
+            "Topic": "",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u0628\u0631\u062e\u0637",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 179,
+            "Course": 8,
+            "Video": 159,
+            "Topic": "",
+            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062c\u0648\u06cc\u0628\u0627\u0631\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 180,
+            "Course": 8,
+            "Video": 122,
+            "Topic": "",
+            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u0627\u06cc \u0628\u0631 \u0631\u0648\u0634\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 181,
+            "Course": 8,
+            "Video": 128,
+            "Topic": "",
+            "Name": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646\u060c \u0645\u0633\u0626\u0644\u0647 Max-SAT",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 182,
+            "Course": 8,
+            "Video": 78,
+            "Topic": "",
+            "Name": "\u062f\u0631\u062e\u062a \u0627\u0634\u062a\u0627\u06cc\u0646\u0631 \u062c\u0627\u06cc\u0632\u0647-\u062c\u0645\u0639\u200c\u06a9\u0646",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 183,
+            "Course": 8,
+            "Video": 133,
+            "Topic": "",
+            "Name": "\u0637\u0631\u0627\u062d\u06cc \u0634\u0628\u06a9\u0647 \u062a\u062d\u0645\u0644\u200c\u067e\u0630\u06cc\u0631 \u062e\u0637\u0627",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 184,
+            "Course": 8,
+            "Video": 134,
+            "Topic": "",
+            "Name": "\u06af\u0631\u062f \u06a9\u0631\u062f\u0646 \u062a\u06a9\u0631\u0627\u0631\u06cc \u062a\u0635\u0627\u062f\u0641\u06cc: \u062f\u0631\u062e\u062a \u0627\u0634\u062a\u0627\u06cc\u0646\u0631",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 185,
+            "Course": 8,
+            "Video": 138,
+            "Topic": "",
+            "Name": "\u0645\u062a\u0631\u06cc\u06a9\u200c\u0647\u0627\u06cc \u062f\u0631\u062e\u062a\u06cc",
+            "Supplementary Video": 139,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        }
+    ]
+}

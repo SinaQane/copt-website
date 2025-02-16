@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Courses - Instructor's Portal</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <script defer src="script.js"></script>
+</head>
+<body class="bg-light">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">Course Portal</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="courses.html">Courses</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <div class="container mt-5">
+        <h1 class="text-center">Available Courses</h1>
+        <table class="table table-striped mt-4">
+            <thead>
+                <tr>
+                    <th>Course Name</th>
+                    <th>Details</th>
+                </tr>
+            </thead>
+            <tbody id="course-list">
+                <!-- Dynamic Course Data Will Be Inserted Here by script.js -->
+            </tbody>
+        </table>
+        <a href="index.html" class="btn btn-secondary mt-4">Back to Home</a>
+    </div>
+    
+    <script>
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                const courseList = document.getElementById('course-list');
+                data.Courses.forEach(course => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${course["Course Name"]}</td>
+                        <td><a href="course.html?id=${course["Course Id"]}" class="btn btn-info btn-sm">View Details</a></td>
+                    `;
+                    courseList.appendChild(row);
+                });
+            })
+            .catch(error => console.error('Error loading courses:', error));
+    </script>
+</body>
+</html>
