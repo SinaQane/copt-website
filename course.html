@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Course Details</title>
+    <title>Course Details - Morteza Alimi's Courses</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <script defer src="script.js"></script>
 </head>
 <body class="bg-light">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container">
-            <a class="navbar-brand" href="index.html">Course Portal</a>
+            <a class="navbar-brand" href="index.html">Morteza Alimi: Combinatorial Optimization Comprehensive Course</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -31,17 +31,13 @@
                 <tr>
                     <th>Video</th>
                     <th>Topic</th>
-                    <th>Name</th>
                     <th>Supplementary Video</th>
-                    <th>Alternative Supplementary Video</th>
                     <th>Prerequisite</th>
                     <th>Comments</th>
                     <th>Resources</th>
-                    <th>References</th>
                 </tr>
             </thead>
             <tbody id="video-list">
-                <!-- Dynamic Video Data Will Be Inserted Here by script.js -->
             </tbody>
         </table>
         <a href="courses.html" class="btn btn-secondary mt-4">Back to Courses</a>
@@ -67,15 +63,12 @@
 
                         const row = document.createElement('tr');
                         row.innerHTML = `
-                            <td>${video ? `<a href="${video["Video Link"]}" target="_blank">${video["Video Name"]}</a>` : "N/A"}</td>
-                            <td>${content["Topic"] || "N/A"}</td>
-                            <td>${video ? video["Video Name"] : "N/A"}</td>
-                            <td>${supplementaryVideo ? `<a href="${supplementaryVideo["Video Link"]}" target="_blank">${supplementaryVideo["Video Name"]}</a>` : "N/A"}</td>
-                            <td>${alternativeVideo ? `<a href="${alternativeVideo["Video Link"]}" target="_blank">${alternativeVideo["Video Name"]}</a>` : "N/A"}</td>
-                            <td>${prerequisite ? `<a href="${prerequisite["Video Link"]}" target="_blank">${prerequisite["Video Name"]}</a>` : "N/A"}</td>
-                            <td>${content["Comments"] || "N/A"}</td>
-                            <td>${resources ? `<a href="${resources["File Link"]}" target="_blank">${resources["File Name"]}</a>` : "N/A"}</td>
-                            <td>${content["References"] || "N/A"}</td>
+                            <td>${video ? `<a href="${video["Video Link"]}" target="_blank">${video["Video Name"]}</a>` : ""}</td>
+                            <td>${content["Topic"] || ""}</td>
+                            <td>${supplementaryVideo && supplementaryVideo["Video Link"] != "" ? ( alternativeVideo && alternativeVideo["Video Link"] != "" ? `<a href="${supplementaryVideo["Video Link"]}" target="_blank">${supplementaryVideo["Video Name"]}</a> - <a href=" - ${alternativeVideo["Video Link"]}" target="_blank">${alternativeVideo["Video Name"]}</a>` : `<a href="${supplementaryVideo["Video Link"]}" target="_blank">${supplementaryVideo["Video Name"]}</a>`) : ""}</td>
+                            <td>${prerequisite && prerequisite["Video Link"] != "" ? `<a href="${prerequisite["Video Link"]}" target="_blank">${prerequisite["Video Name"]}</a>` : ""}</td>
+                            <td>${content["Comments"] || ""}</td>
+                            <td>${resources && resources["File Link"] != "" ? `<a href="${resources["File Link"]}" target="_blank">${resources["File Name"]}</a>` : ""}</td>
                         `;
                         videoList.appendChild(row);
                     });

@@ -2,35 +2,35 @@
     "Courses": [
         {
             "Course Id": 1,
-            "Course Name": "\u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc \u0645\u06cc\u0646\u06cc\u0645\u0627\u0644"
+            "Course Name": "بهینه‌سازی ترکیبیاتی مینیمال"
         },
         {
             "Course Id": 2,
-            "Course Name": "\u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc"
+            "Course Name": "بهینه‌سازی ترکیبیاتی"
         },
         {
             "Course Id": 3,
-            "Course Name": "\u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc \u0645\u0641\u0635\u0644"
+            "Course Name": "بهینه‌سازی ترکیبیاتی مفصل"
         },
         {
             "Course Id": 4,
-            "Course Name": "\u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u0631\u0648\u06cc \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627 \u0648 \u062a\u0648\u0627\u0628"
+            "Course Name": "بهینه‌سازی روی ماترویدها و توابع زیرپیمانه‌ای"
         },
         {
             "Course Id": 5,
-            "Course Name": "\u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627 \u0648 \u0628\u0631\u0634\u200c\u0647\u0627"
+            "Course Name": "جریان‌ها و برش‌ها"
         },
         {
             "Course Id": 6,
-            "Course Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0642\u0631\u06cc\u0628\u06cc"
+            "Course Name": "الگوریتم‌های تقریبی"
         },
         {
             "Course Id": 7,
-            "Course Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u06af\u0631\u0627\u0641 \u0648 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f"
+            "Course Name": "الگوریتم‌های گراف و ماتروید"
         },
         {
             "Course Id": 8,
-            "Course Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0635\u0627\u062f\u0641\u06cc"
+            "Course Name": "الگوریتم‌های تصادفی"
         }
     ],
     "Videos": [
@@ -41,793 +41,828 @@
         },
         {
             "Video Id": 2,
-            "Video Name": "copt  Introduction",
-            "Video Link": ""
+            "Video Name": "copt Introduction",
+            "Video Link": "https://drive.google.com/file/d/1Cwo2xwf9z7Ou-hW80SrzWGUzCWx2QZ0_/view?usp=sharing"
         },
         {
             "Video Id": 3,
             "Video Name": "copt002 online 00_11_25 polyhedral practice",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/18FWET_q_6oplpFsbl4xJ1TJBZW3OdIkE/view?usp=sharing"
         },
         {
             "Video Id": 4,
-            "Video Name": "copt 992 Session01",
-            "Video Link": ""
+            "Video Name": "copt992 Session01",
+            "Video Link": "https://drive.google.com/file/d/1wPwu-1HVlraJgGmnYYjY53kklXMPcrq5/view?usp=sharing"
         },
         {
             "Video Id": 5,
-            "Video Name": "copt  Flows, Paths, Cuts",
-            "Video Link": ""
+            "Video Name": "copt Flows, Paths, Cuts",
+            "Video Link": "https://drive.google.com/file/d/1KHXlyBHQuiI5Daly_-gsT30sgVIdjfx3/view?usp=sharing"
         },
         {
             "Video Id": 6,
             "Video Name": "copt002 online 00_12_07 flows, cuts",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1bVeJzP37UCcgH5P8OpnAU0I0NyrSNKli/view?usp=sharing"
         },
         {
             "Video Id": 7,
-            "Video Name": "copt  Proving Integrality of Polyhedra _trimmed",
-            "Video Link": ""
+            "Video Name": "copt Proving Integrality of Polyhedra _trimmed",
+            "Video Link": "https://drive.google.com/file/d/1_B4KWveEluesle-eDHyft-FTkJfqtZE6/view?usp=sharing"
         },
         {
             "Video Id": 8,
             "Video Name": "copt002 online 00_12_09",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1Xt-DtVNyh64zgyqC5YFl0_y1FnXCZnaM/view?usp=sharing"
         },
         {
             "Video Id": 9,
-            "Video Name": "copt  TU 1 (00:00--47:00)",
-            "Video Link": ""
+            "Video Name": "copt TU 1 (00:00--47:00)",
+            "Video Link": "https://drive.google.com/file/d/1LPoIlYIaPmaeqNT2mZD6-BCTOVgaw2-s/view?usp=sharing"
         },
         {
             "Video Id": 10,
             "Video Name": "copt002 online 00_12_21 integer farkas lemma",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1j4ebhyTssf7pVUL8WzsEunbkYkh94PLq/view?usp=sharing"
         },
         {
             "Video Id": 11,
-            "Video Name": "copt 992 Session06",
-            "Video Link": ""
+            "Video Name": "copt992 Session06",
+            "Video Link": "https://drive.google.com/file/d/1HqfzMoH71YfXrHFESSr6w-XfzZ43hKkc/view?usp=sharing"
         },
         {
             "Video Id": 12,
-            "Video Name": "copt  TU 2  (23:25--57:35)",
-            "Video Link": ""
+            "Video Name": "copt TU 2 (23:25--57:35)",
+            "Video Link": "https://drive.google.com/file/d/1RIrbH2VN1UOzlptDSv9Mw1V5u4HxekcC/view?usp=sharing"
         },
         {
             "Video Id": 13,
-            "Video Name": "copt  Uncrossing",
-            "Video Link": ""
+            "Video Name": "copt Uncrossing",
+            "Video Link": "https://drive.google.com/file/d/1paDbrl1LHLXCqHYnhYq6AAFWSOO-5IwD/view?usp=sharing"
         },
         {
             "Video Id": 14,
             "Video Name": "copt002 online 01_01_15 uncrossing",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1vuN0vEFfwga9qEuf18wri01dI7-3tBJ2/view?usp=sharing"
         },
         {
             "Video Id": 15,
-            "Video Name": "copt 992 Session07",
-            "Video Link": ""
+            "Video Name": "copt992 Session07",
+            "Video Link": "https://drive.google.com/file/d/1sLmDaYPE7KlXKfRRX6ET7r_adYWeyCZw/view?usp=sharing"
         },
         {
             "Video Id": 16,
-            "Video Name": "copt  Primal Dual",
-            "Video Link": ""
+            "Video Name": "copt Primal Dual",
+            "Video Link": "https://drive.google.com/file/d/1VmuwmIcN6U0C33rM2Iqv--1v-sC5J0P_/view?usp=sharing"
         },
         {
             "Video Id": 17,
             "Video Name": "copt002 online 01_01_29 hungarian",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1qnl8AZ7vZUopCBjVpZHtjzqOYKTDvbmW/view?usp=sharing"
         },
         {
             "Video Id": 18,
             "Video Name": "copt online 99_08_25 bipartite matching",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1kRdo-LIgCC4xpfXAZTaG1F9SK9sxWqOJ/view?usp=sharing"
         },
         {
             "Video Id": 19,
-            "Video Name": "copt  LP",
-            "Video Link": ""
+            "Video Name": "copt LP",
+            "Video Link": "https://drive.google.com/file/d/1N0voOjQg7d9UH1zdoXW68dqonG-f6p-S/view?usp=sharing"
         },
         {
             "Video Id": 20,
             "Video Name": "copt online 99_07_06 Farkas lemma variants",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1dALJJS2Pbog1fayM_KDtvECq4sfqx0OZ/view?usp=sharing"
         },
         {
             "Video Id": 21,
-            "Video Name": "copt992  2 Polyhedron",
-            "Video Link": ""
+            "Video Name": "copt992 2 Polyhedron",
+            "Video Link": "https://drive.google.com/file/d/1tNznz8Rrm9GpC3WYwKIKqZ-MJ9Lq-wbQ/view?usp=sharing"
         },
         {
             "Video Id": 22,
-            "Video Name": "copt 992 Session02",
-            "Video Link": ""
+            "Video Name": "copt992 Session02",
+            "Video Link": "https://drive.google.com/file/d/1_w9nn9tx7dn6Kz3H8Z-OHR8ao-tjaYYL/view?usp=sharing"
         },
         {
             "Video Id": 23,
             "Video Name": "copt online 99_07_08 polyhedra dimension",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/16T0cdeQPiRi-kJf-Bi8HQiBv9dzmnOcP/view?usp=sharing"
         },
         {
             "Video Id": 24,
-            "Video Name": "copt992  3 Faces & Facets",
-            "Video Link": ""
+            "Video Name": "copt992 3 Faces & Facets",
+            "Video Link": "https://drive.google.com/file/d/1dBgV6hw6mLS7Tbe-HghPPiRL8ZuQQxJm/view?usp=sharing"
         },
         {
             "Video Id": 25,
-            "Video Name": "copt 992 Session03",
-            "Video Link": ""
+            "Video Name": "copt992 Session03",
+            "Video Link": "https://drive.google.com/file/d/19K6G80dwBgtQg-9vncXzNKUjCDzbjSPx/view?usp=sharing"
         },
         {
             "Video Id": 26,
             "Video Name": "copt online 99_07_13 facets",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1IbG5iwfeij9drKSLKJWpc7GbOdS_FyLb/view?usp=sharing"
         },
         {
             "Video Id": 27,
-            "Video Name": "copt  Modeling 1",
-            "Video Link": ""
+            "Video Name": "copt Modeling 1",
+            "Video Link": "https://drive.google.com/file/d/1ebxHfRb8r3Jvu8XkE_Xn2PxL49RqRGDF/view?usp=sharing"
         },
         {
             "Video Id": 28,
             "Video Name": "copt002 online 00_11_30 modeling 1",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/13GCwGUhu-EUx8ImHh8OesCkWdna80uD_/view?usp=sharing"
         },
         {
             "Video Id": 29,
-            "Video Name": "copt  Modeling 2",
-            "Video Link": ""
+            "Video Name": "copt Modeling 2",
+            "Video Link": "https://drive.google.com/file/d/1-82sXEZx1DfidaVH_sjtQfjQhX-Q88z6/view?usp=sharing"
         },
         {
             "Video Id": 30,
             "Video Name": "copt002 online 00_12_02 subtour dual, clutter blocker, qstab stab",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1lQJiF70h0fLIElFLXTaASGEp094YpWkp/view?usp=sharing"
         },
         {
             "Video Id": 31,
-            "Video Name": "copt  Polyhedral Combinatorics",
-            "Video Link": ""
+            "Video Name": "copt Polyhedral Combinatorics",
+            "Video Link": "https://drive.google.com/file/d/1xDujvxKr7K4Ah-e4JeEUc4X5Iu4n3RdX/view?usp=sharing"
         },
         {
             "Video Id": 32,
             "Video Name": "copt online 99_07_22 matching polytope facets",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/16Dl3kqUkG1sZXVf0WmyaVEtnxsfBOVbt/view?usp=sharing"
         },
         {
             "Video Id": 33,
-            "Video Name": "copt  TU 1",
-            "Video Link": ""
+            "Video Name": "copt TU 1",
+            "Video Link": "https://drive.google.com/file/d/1LPoIlYIaPmaeqNT2mZD6-BCTOVgaw2-s/view?usp=sharing"
         },
         {
             "Video Id": 34,
             "Video Name": "copt online 99_07_27 TU examples",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1TVZ-tmg8hr09UiM4-4JZ-uE4sBbbwqBQ/view?usp=sharing"
         },
         {
             "Video Id": 35,
-            "Video Name": "copt  TU 2",
-            "Video Link": ""
+            "Video Name": "copt TU 2",
+            "Video Link": "https://drive.google.com/file/d/1RIrbH2VN1UOzlptDSv9Mw1V5u4HxekcC/view?usp=sharing"
         },
         {
             "Video Id": 36,
             "Video Name": "copt online 99_07_29 more TU examples",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1ZE5jdF2fXDs_DskIQox0YDsJU9hq6rQu/view?usp=sharing"
         },
         {
             "Video Id": 37,
-            "Video Name": "copt  TDI",
-            "Video Link": ""
+            "Video Name": "copt TDI",
+            "Video Link": "https://drive.google.com/file/d/1Wdec9UyxCvwlaqq3M3ifk2pEjclr3FtI/view?usp=sharing"
         },
         {
             "Video Id": 38,
             "Video Name": "copt002 online 01_01_20 TDI",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1MFTEX14NjqP-17gBrPkAB3jasdHgnLim/view?usp=sharing"
         },
         {
             "Video Id": 39,
             "Video Name": "copt Submodular Flow",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1EFIPDYIgTnmuuH2b7SwqvACH9ryfRk-r/view?usp=sharing"
         },
         {
             "Video Id": 40,
-            "Video Name": "copt online 99_08_18  Splitting Off, Submodular Flow  (From 6:20 to 34:30)",
-            "Video Link": ""
+            "Video Name": "copt online 99_08_18 Splitting Off, Submodular Flow (From 6:20 to 34:30)",
+            "Video Link": "https://drive.google.com/file/d/1v5EU3OYfXcQxJpWbaOS5SkOxZVmdYCZc/view?usp=sharing"
         },
         {
             "Video Id": 41,
             "Video Name": "copt002 online 01_01_22 submodular flow",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1CMeZliOmxrVVCSdoRHXdMzVPpaEhzg5r/view?usp=sharing"
         },
         {
             "Video Id": 42,
-            "Video Name": "copt  Cardinality Nonbipartite Matching",
-            "Video Link": ""
+            "Video Name": "copt Cardinality Nonbipartite Matching",
+            "Video Link": "https://drive.google.com/file/d/1mRFQ_5nwI_T9B1DkEDFx9-CFX1D_tlV4/view?usp=sharing"
         },
         {
             "Video Id": 43,
             "Video Name": "copt online nonbipartite matching",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/10VG5JEjTDJF4qDVMm0mzPFEEl7cRujE7/view?usp=sharing"
         },
         {
             "Video Id": 44,
-            "Video Name": "copt  Weighted Nonbipartite Matching",
-            "Video Link": ""
+            "Video Name": "copt Weighted Nonbipartite Matching",
+            "Video Link": "https://drive.google.com/file/d/1_P521PJ7bjQfZH9S48MMvUY1jCKgs3E0/view?usp=sharing"
         },
         {
             "Video Id": 45,
             "Video Name": "copt online 99_09_04 weighted nonbipartite matching",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1_B_AA75miL8gCV8Qxga4lIVQQiixios_/view?usp=sharing"
         },
         {
             "Video Id": 46,
             "Video Name": "copt Iterative MBDST",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1VeHxbd4GHs2kWtcmGw8J5uUErZXl0JLB/view?usp=sharing"
         },
         {
             "Video Id": 47,
             "Video Name": "copt Splitting Off",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1eHC1QwsCWL7KTHvRWScNqDNYUu0DV4dZ/view?usp=sharing"
         },
         {
             "Video Id": 48,
             "Video Name": "copt MA ordering",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/170U6NlMFOJUdirf0phEs6AXGyZvv2FPi/view?usp=sharing"
         },
         {
             "Video Id": 49,
             "Video Name": "copt online MA ordering, forest decomposition",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1ypNUDYAVeFXLLuxP146eApCGmeB961Y2/view?usp=sharing"
         },
         {
             "Video Id": 50,
             "Video Name": "copt Gomory-Hu Trees",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1tU82H49ctHOD3BiXWU1D_l0w6-hDa_vS/view?usp=sharing"
         },
         {
             "Video Id": 51,
-            "Video Name": "copt 992 Session17",
-            "Video Link": ""
+            "Video Name": "copt992 Session17",
+            "Video Link": "https://drive.google.com/file/d/1jg4WjdUObFANmVmFDtD_WFAqadDvlrhi/view?usp=sharing"
         },
         {
             "Video Id": 52,
             "Video Name": "copt002 online 01_02_17 tsp 1",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1q1Ez3ndOmhg54tnxNhWPEe8RJ_cMyFoS/view?usp=sharing"
         },
         {
             "Video Id": 53,
             "Video Name": "copt002 online 01_02_19 tsp 2",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1iJm63RafIWWmvpa8zQ0eh7YS2J8wYaiM/view?usp=sharing"
         },
         {
             "Video Id": 54,
             "Video Name": "William_Cook___Information_Computation_Optimization...__[q8nQTNvCrjE]_[tag22]",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1Dfw54fHpZItoJBEqzjz21EgCdAzoE_fJ/view?usp=sharing"
         },
         {
             "Video Id": 55,
             "Video Name": "copt002 online 01_02_26 tsp 3",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1MeTJTRsKMELA2xqWDvq5vuaJCGq6CTfe/view?usp=sharing"
         },
         {
             "Video Id": 56,
             "Video Name": "copt Matroid 1 Fundamentals, Examples, Greedy Algorithm",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1CdsQ3NePBhWcphlHxSRdd4uY47mkUc2G/view?usp=sharing"
         },
         {
             "Video Id": 57,
-            "Video Name": "copt 992 Session18",
-            "Video Link": ""
+            "Video Name": "copt992 Session18",
+            "Video Link": "https://drive.google.com/file/d/11jnOfGoroz_t5UUWsv13XyK6IVJTIVBU/view?usp=sharing"
         },
         {
             "Video Id": 58,
             "Video Name": "copt Matroid 2 Other Axioms",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1ZpRE7JxuFJIf5fRdWcjufK_kgNs6cY9S/view?usp=sharing"
         },
         {
             "Video Id": 59,
-            "Video Name": "copt 992 Session19",
-            "Video Link": ""
+            "Video Name": "copt992 Session19",
+            "Video Link": "https://drive.google.com/file/d/1Ddaqm4U23VX-XBMHUNdllfuJUv0iTECz/view?usp=sharing"
         },
         {
             "Video Id": 60,
             "Video Name": "copt Matroid 6 Matroid Intersection",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1MRl_Cae_ncFE_y1bbTTe0jPq97cd7QO4/view?usp=sharing"
         },
         {
             "Video Id": 61,
-            "Video Name": "copt 992 Session25",
-            "Video Link": ""
+            "Video Name": "copt992 Session25",
+            "Video Link": "https://drive.google.com/file/d/1zdbupDiIJlgWV9iMIE9Y0E3aQBQZxclm/view?usp=sharing"
         },
         {
             "Video Id": 62,
             "Video Name": "copt Submodular 1 Introduction",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/15wr-yVLwKqDl-cONI5cUAJTbmbyhevfW/view?usp=sharing"
         },
         {
             "Video Id": 63,
             "Video Name": "copt002 online 01_03_07 submodular 1",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1ZDFo1AUGR6MKKz9mYZyqU1mvK1PG7W19/view?usp=sharing"
         },
         {
             "Video Id": 64,
             "Video Name": "copt Submodular 2 Maximization",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1x99O98Yt9fTp7asnOuimEUZJ9O5Xjm9e/view?usp=sharing"
         },
         {
             "Video Id": 65,
             "Video Name": "copt002 online 01_03_14 submodular 2",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1oAA7-dOh7hjictDgtlEBDktH39AV3h_d/view?usp=sharing"
         },
         {
             "Video Id": 66,
-            "Video Name": "copt  Minkowski Weyl",
-            "Video Link": ""
+            "Video Name": "copt Minkowski Weyl",
+            "Video Link": "https://drive.google.com/file/d/1i_49YhldYd_TbV1EFebbfqJXTTItdkpT/view?usp=sharing"
         },
         {
             "Video Id": 67,
-            "Video Name": "copt  Faces",
-            "Video Link": ""
+            "Video Name": "copt Faces",
+            "Video Link": "https://drive.google.com/file/d/1asBF3Vwv_156TEbX4poTvvcbCN7oSYUl/view?usp=sharing"
         },
         {
             "Video Id": 68,
-            "Video Name": "copt  Vertices",
-            "Video Link": ""
+            "Video Name": "copt Vertices",
+            "Video Link": "https://drive.google.com/file/d/1OpccJAZhYCB34V88R6GwRGtJX3BhXYYb/view?usp=sharing"
         },
         {
             "Video Id": 69,
             "Video Name": "copt online 99_07_15 Caratheodory",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1Be5BcXOJjXIQEMO5rapBMi52OiEhaXRb/view?usp=sharing"
         },
         {
             "Video Id": 70,
-            "Video Name": "copt  Matching Polytope",
-            "Video Link": ""
+            "Video Name": "copt Matching Polytope",
+            "Video Link": "https://drive.google.com/file/d/1D3oLVxprYjgZnqJGZ-sRgDgWTA_WqCBK/view?usp=sharing"
         },
         {
             "Video Id": 71,
             "Video Name": "copt002 online 00_12_15 matching polytope",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1G2_8ZWBj9y0W-jtPfWqHQYQRne6bnsVM/view?usp=sharing"
         },
         {
             "Video Id": 72,
-            "Video Name": "copt  Cunningham-Marsh",
-            "Video Link": ""
+            "Video Name": "copt Cunningham-Marsh",
+            "Video Link": "https://drive.google.com/file/d/1q1mMCoXBv_Qd-ampsxOlK3lGZYbSKQ6K/view?usp=sharing"
         },
         {
             "Video Id": 73,
             "Video Name": "copt Min Cost Flow 1 Basic Concepts and Algorithms",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1huenpdbtaQ3zTtlLJGOPSNVHJdK4k7YX/view?usp=sharing"
         },
         {
             "Video Id": 74,
-            "Video Name": "copt 992 Session12",
-            "Video Link": ""
+            "Video Name": "copt992 Session12",
+            "Video Link": "https://drive.google.com/file/d/1FPUG9wHhWwSmfdS0Qwh1dVCPWVtlEz_T/view?usp=sharing"
         },
         {
             "Video Id": 75,
-            "Video Name": "copt  T-Join",
-            "Video Link": ""
+            "Video Name": "copt T-Join",
+            "Video Link": "https://drive.google.com/file/d/1jbjc6AWmnlvZQwNbJa4ZJQVsB0QxfuPt/view?usp=sharing"
         },
         {
             "Video Id": 76,
             "Video Name": "copt Approx Primal-Dual 1 Steiner Forst",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1LCEqKzuNjm0ebJcWyqzQ5eEZhlxBrN5a/view?usp=sharing"
         },
         {
             "Video Id": 77,
             "Video Name": "copt online Approx Primal-Dual 1 set cover primal-dual",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1Hxt_2hpMbtq1eLBxyvHOrzkFZzVsLmbw/view?usp=sharing"
         },
         {
             "Video Id": 78,
             "Video Name": "copt Rounding Prize-Collecting Steiner Tree",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1ZIY_uWU68IApiQppxFtdozrd0T0g91z2/view?usp=sharing"
         },
         {
             "Video Id": 79,
-            "Video Name": "copt Cuts and Metrics 1  Multiway Cut",
-            "Video Link": ""
+            "Video Name": "copt Cuts and Metrics 1 Multiway Cut",
+            "Video Link": "https://drive.google.com/file/d/1A8NMBQ3PtW1OjQO8wFb1f_-q8B0S2CjC/view?usp=sharing"
         },
         {
             "Video Id": 80,
             "Video Name": "copt Cuts and Metrics online 1 node multiway cut",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/13Tapc8sYo5qQGmU_QYbt2FBJ3MEXasDD/view?usp=sharing"
         },
         {
             "Video Id": 81,
-            "Video Name": "copt  Perfect Graphs 1",
-            "Video Link": ""
+            "Video Name": "copt Perfect Graphs 1",
+            "Video Link": "https://drive.google.com/file/d/1FglPltOiO1912OyloGR0Inr4B9SnL9i5/view?usp=sharing"
         },
         {
             "Video Id": 82,
-            "Video Name": "copt  Perfect Graphs 2 PGT",
-            "Video Link": ""
+            "Video Name": "copt Perfect Graphs 2 PGT",
+            "Video Link": "https://drive.google.com/file/d/1hpgMLT0KtEHakAssLxvCbxLfBmKz64Ud/view?usp=sharing"
         },
         {
             "Video Id": 83,
             "Video Name": "copt002 online 01_02_24 T-cut",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1iNCsVTFzOKUiK5jFq5xIb1JOJoSRuao7/view?usp=sharing"
         },
         {
             "Video Id": 84,
             "Video Name": "copt002 online 01_02_31 tsp 4",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1oFRtG4hMrIuI_1yXM_BQo3RF0_sgwcZN/view?usp=sharing"
         },
         {
             "Video Id": 85,
             "Video Name": "copt Matroid 3 Duality, Operations",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1Hhnk4snqjzLyBC4dvskr7KV-KXxP_gw2/view?usp=sharing"
         },
         {
             "Video Id": 86,
             "Video Name": "copt Matroid 5 Matroid Polytopes",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1xMdwJazFekywvOSbWPPv7zbrJKHVjNql/view?usp=sharing"
         },
         {
             "Video Id": 87,
             "Video Name": "copt Matroid 8 Cardinality Matroid Intersection Algorithm",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1GCsiDDTXqLfAy9TK_9lBd8NfhVvka79v/view?usp=sharing"
         },
         {
             "Video Id": 88,
             "Video Name": "copt Matroid 10 Matroid Union",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/14rgktM5hsSs3xoItH9LxK9D65BrAh4Y6/view?usp=sharing"
         },
         {
             "Video Id": 89,
             "Video Name": "copt Submodular 3 Polymatroids",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1jq2aGvagZiiSLmlmTCkczZnE7hvosk0S/view?usp=sharing"
         },
         {
             "Video Id": 90,
             "Video Name": "copt002 online 01_03_16 submodular 3",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/17l1ZEa5OD36FP44fpa7lP8hnnT21nLyp/view?usp=sharing"
         },
         {
             "Video Id": 91,
             "Video Name": "copt Submodular 4 Continuous Extensions",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1ViHDtlR1yOpNlysvyq5TWtmx47MHCY55/view?usp=sharing"
         },
         {
             "Video Id": 92,
-            "Video Name": "copt 992 Session20",
-            "Video Link": ""
+            "Video Name": "copt992 Session20",
+            "Video Link": "https://drive.google.com/file/d/1Hj7o5ZWoV4JQK4wHbD6K6oPIntF2cLRu/view?usp=sharing"
         },
         {
             "Video Id": 93,
-            "Video Name": "copt 992 Session21",
-            "Video Link": ""
+            "Video Name": "copt992 Session21",
+            "Video Link": "https://drive.google.com/file/d/1r2WNfvAvJ9GleI44Ojpsz6aVBV_eiXxy/view?usp=sharing"
         },
         {
             "Video Id": 94,
-            "Video Name": "copt 992 Session22",
-            "Video Link": ""
+            "Video Name": "copt992 Session22",
+            "Video Link": "https://drive.google.com/file/d/1iYjhmaumJODPMGaM8vbeuuHlhLK-yD5-/view?usp=sharing"
         },
         {
             "Video Id": 95,
             "Video Name": "copt Matroid 4 Connectivity",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/13FnwXuLj3yW_b3GXpvmasI2dk1nIpNjg/view?usp=sharing"
         },
         {
             "Video Id": 96,
-            "Video Name": "copt 992 Session23",
-            "Video Link": ""
+            "Video Name": "copt992 Session23",
+            "Video Link": "https://drive.google.com/file/d/1Nw9pT4NHmBKGVKFviLlnQ6Uh-vogsbT4/view?usp=sharing"
         },
         {
             "Video Id": 97,
             "Video Name": "copt Matroid 7 Matroid Intersection Polytope",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1-nt32yBVP52zTxGO-pxlzSJKoMM2Qn0y/view?usp=sharing"
         },
         {
             "Video Id": 98,
             "Video Name": "copt Matroid 9 Weighted Matroid Intersection Algorithm",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1C8dBkSwFCuXh5n7dAiig70aY-PzwOQoJ/view?usp=sharing"
         },
         {
             "Video Id": 99,
-            "Video Name": "copt 992 Session26",
-            "Video Link": ""
+            "Video Name": "copt992 Session26",
+            "Video Link": "https://drive.google.com/file/d/1iP-y2B2pbaUP6Z9VGcmi7-ccGZflNlq9/view?usp=sharing"
         },
         {
             "Video Id": 100,
             "Video Name": "copt Submodular 5 Continuous Greedy",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1vl1u2Opl0eH1Bv2X-52rtjwzZe30hvUK/view?usp=sharing"
         },
         {
             "Video Id": 101,
             "Video Name": "algorithm session 13",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1fqmMYejff2pagh_kHH-B-Fr0THvsXpEb/view?usp=sharing"
         },
         {
             "Video Id": 102,
             "Video Name": "algorithm session 14",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1WHFjLizP3FF6Iw2iXuNthg-Ac1-1NQqf/view?usp=sharing"
         },
         {
             "Video Id": 103,
             "Video Name": "algorithm session 15",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/149GqSLvsnrKcnVEKPGg4scoOcEu-T85B/view?usp=sharing"
         },
         {
             "Video Id": 104,
             "Video Name": "algorithm session 16",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1DzvbTBOUGzyCd474qkJgFT3lXEM13GTi/view?usp=sharing"
         },
         {
             "Video Id": 105,
             "Video Name": "copt Flows, Paths, Cuts",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1KHXlyBHQuiI5Daly_-gsT30sgVIdjfx3/view?usp=sharing"
         },
         {
             "Video Id": 106,
             "Video Name": "copt Introduction",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1Cwo2xwf9z7Ou-hW80SrzWGUzCWx2QZ0_/view?usp=sharing"
         },
         {
             "Video Id": 107,
             "Video Name": "copt Cactus Representation",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1JrOxBoyEMvarHW0aQhckg7YECHGW1OgC/view?usp=sharing"
         },
         {
             "Video Id": 108,
-            "Video Name": "copt 992 Session16",
-            "Video Link": ""
+            "Video Name": "copt992 Session16",
+            "Video Link": "https://drive.google.com/file/d/1P19566wGJj-euXXP7upilfzl_blRC07g/view?usp=sharing"
         },
         {
             "Video Id": 109,
             "Video Name": "copt Primal Dual",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1VmuwmIcN6U0C33rM2Iqv--1v-sC5J0P_/view?usp=sharing"
         },
         {
             "Video Id": 110,
             "Video Name": "copt Min Cost Flow 2 Polynomial Algorithms",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1EZj-6-R3DduBoIX-1EFBCFo3vhGBLJK2/view?usp=sharing"
         },
         {
             "Video Id": 111,
-            "Video Name": "copt 992 Session13",
-            "Video Link": ""
+            "Video Name": "copt992 Session13",
+            "Video Link": "https://drive.google.com/file/d/1rVVqN7Y0EeQTMKdUboyQyikCYLSqcIeh/view?usp=sharing"
         },
         {
             "Video Id": 112,
             "Video Name": "copt Min Cost Flow 3 Strongly Polynomial Algorithms",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1wxJxprXv_y1Drm4gN_fl-3bLnMfQHI6x/view?usp=sharing"
         },
         {
             "Video Id": 113,
-            "Video Name": "copt 992 Session14",
-            "Video Link": ""
+            "Video Name": "copt992 Session14",
+            "Video Link": "https://drive.google.com/file/d/1rosobRuA1JOkz1_IRElYGuqU8Izbc4H0/view?usp=sharing"
         },
         {
             "Video Id": 114,
-            "Video Name": "copt Multicommodity Flow 1  Introduction",
-            "Video Link": ""
+            "Video Name": "copt Multicommodity Flow 1 Introduction",
+            "Video Link": "https://drive.google.com/file/d/1NB6VrXMPgqSAvggpfRJ0-gdl_QapAMH9/view?usp=sharing"
         },
         {
             "Video Id": 115,
-            "Video Name": "copt Multicommodity Flow 2  Planar Graphs",
-            "Video Link": ""
+            "Video Name": "copt Multicommodity Flow 2 Planar Graphs",
+            "Video Link": "https://drive.google.com/file/d/12qNl_6CkaTIOgH0Qi46eonTk7d-zhEMc/view?usp=sharing"
         },
         {
             "Video Id": 116,
-            "Video Name": "copt Multicommodity Flow 3  Garg-Konemann",
-            "Video Link": ""
+            "Video Name": "copt Multicommodity Flow 3 Garg-Konemann",
+            "Video Link": "https://drive.google.com/file/d/1qvzDdf3PYruOlr_Q5I5RmeMnMU5mkZru/view?usp=sharing"
         },
         {
             "Video Id": 117,
             "Video Name": "copt Multicommodity Flow online Garg-Konemann",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1jEYX7lXOB-QTPha14AWAKhh96DQTXHJx/view?usp=sharing"
         },
         {
             "Video Id": 118,
-            "Video Name": "copt Multicommodity Flow 4  Awerbuch-Leighton",
-            "Video Link": ""
+            "Video Name": "copt Multicommodity Flow 4 Awerbuch-Leighton",
+            "Video Link": "https://drive.google.com/file/d/1-vwdk8EwS9W9VFMAMiilYtfgYIIrl-iI/view?usp=sharing"
         },
         {
             "Video Id": 119,
             "Video Name": "algorithm session Approx Greedy",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1_MdU1Eqf2Xj1KqG8l9DxfoRyqe2QAckw/view?usp=sharing"
         },
         {
             "Video Id": 120,
             "Video Name": "algorithm session Approx PTAS",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1rmnT2qkqhzl7CfwQOZL7xKSTHoBNKrR8/view?usp=sharing"
         },
         {
             "Video Id": 121,
             "Video Name": "algorithm session Local Search",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1siIv9yalLkgnt6lJ7saA3_DCl_P_mRF4/view?usp=sharing"
         },
         {
             "Video Id": 122,
             "Video Name": "algorithm session Approx LP",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/18ZVHDmj2sz5XUvZni1hDfS3u8QdnM9TI/view?usp=sharing"
         },
         {
             "Video Id": 123,
             "Video Name": "copt Approx Primal-Dual 2 Facility Location",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1PgwH59kcw2pK6YQy_IaKaCCzntNzJuj4/view?usp=sharing"
         },
         {
             "Video Id": 124,
             "Video Name": "copt online Approx Primal-Dual 2 facility location variants",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/19DKBfKkTDrclXIwDmEHnQGDSob5tHNTu/view?usp=sharing"
         },
         {
             "Video Id": 125,
             "Video Name": "copt online 99_09_18 facility location primal-dual",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1sGD_D3UPzAwGKmJf0JbDOGGcePEGkmfK/view?usp=sharing"
         },
         {
             "Video Id": 126,
             "Video Name": "copt Approx Primal-Dual 3 k-median",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1YzRIWJN_BbyCmxpjxf7AqVx9g3uWt9b7/view?usp=sharing"
         },
         {
             "Video Id": 127,
             "Video Name": "copt online Approx Primal-Dual 3 dual fitting set cover 2",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1gs999QlySdtLzcuEKS1hTVmAFduOGGWK/view?usp=sharing"
         },
         {
             "Video Id": 128,
             "Video Name": "copt Rounding Max-SAT",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1alhFwEBWaOnxSZeX822Nm0rm8RKgp4Gx/view?usp=sharing"
         },
         {
             "Video Id": 129,
             "Video Name": "copt Rounding Facility Location",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1sq9rGZCxcutzAe4Kv7nw7JZj_vmlVFWz/view?usp=sharing"
         },
         {
             "Video Id": 130,
             "Video Name": "copt online pipage rounding",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1rr0YmZCvKHkFYPlNsiE1thy2TWEn8GZb/view?usp=sharing"
         },
         {
             "Video Id": 131,
-            "Video Name": "copt Iterative online 2  iterative",
-            "Video Link": ""
+            "Video Name": "copt Iterative online 2 iterative",
+            "Video Link": "https://drive.google.com/file/d/1GXNKJw6LSnCRq0DenJZ0Tbuj0ZCXwCHL/view?usp=sharing"
         },
         {
             "Video Id": 132,
-            "Video Name": "copt Iterative online 1  generalized assignment",
-            "Video Link": ""
+            "Video Name": "copt Iterative online 1 generalized assignment",
+            "Video Link": "https://drive.google.com/file/d/1XGjaC9wJTGuQtYG8uwJHGHpwUVgIXc17/view?usp=sharing"
         },
         {
             "Video Id": 133,
             "Video Name": "copt Iterative Rounding Survivable Network Design",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1eZbN3URVm-uLTb56VbbVny7gZNcmtcag/view?usp=sharing"
         },
         {
             "Video Id": 134,
-            "Video Name": "copt Iterative Randomized Rounding Steiner Tree",
-            "Video Link": ""
+            "Video Name": "copt Iterative 3 Randomized Rounding Steiner Tree",
+            "Video Link": "https://drive.google.com/file/d/1wqiX3DRRORvxoZf02dyhJLmDodpH7SiE/view?usp=sharing"
         },
         {
             "Video Id": 135,
             "Video Name": "algorithm session MWU Experts",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1ZKPSlp9KE_jTkH4jf8hPa6XrGhhwsx4d/view?usp=sharing"
         },
         {
             "Video Id": 136,
-            "Video Name": "copt Multicommodity Flow 1  Introduction (up to 10:46)",
-            "Video Link": ""
+            "Video Name": "copt Multicommodity Flow 1 Introduction (up to 10:46)",
+            "Video Link": "https://drive.google.com/file/d/1NB6VrXMPgqSAvggpfRJ0-gdl_QapAMH9/view?usp=sharing"
         },
         {
             "Video Id": 137,
             "Video Name": "copt Cuts and Metrics 2 Multicut",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1X1bzzMzTVlJtp5LFFwPBWAzdTvaC3x_j/view?usp=sharing"
         },
         {
             "Video Id": 138,
             "Video Name": "copt Cuts and Metrics 3 Tree Metrics",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1lPDgbSvnop7Byunb-mwifr_oE97PLmUB/view?usp=sharing"
         },
         {
             "Video Id": 139,
             "Video Name": "copt Cuts and Metrics online 2 buy at bulk",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1b4IIM9Q1J_3asRs21iutL_lGiC9H2EKZ/view?usp=sharing"
         },
         {
             "Video Id": 140,
             "Video Name": "algorithm session 3",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1AdaNQG70TrVzk_O43Bf6m6vllD20Y0aI/view?usp=sharing"
         },
         {
             "Video Id": 141,
             "Video Name": "algorithm session 4",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1FOobwl3f5G3KENCB349WFiodeRm6ODrD/view?usp=sharing"
         },
         {
             "Video Id": 142,
             "Video Name": "algorithm TA session 2",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1AkympRVJULbz3mlTDSgdZ-FnFVc4ovY2/view?usp=sharing"
         },
         {
             "Video Id": 143,
             "Video Name": "algorithm session 6 (up to 50:00)",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1T8n5lzO4QUivWDIODXHf3822LaOT-BNR/view?usp=sharing"
         },
         {
             "Video Id": 144,
             "Video Name": "algorithm session 10",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1PWfeJHoJ3QyDmvZ_cfr9HkLnV1vE_DYB/view?usp=sharing"
         },
         {
             "Video Id": 145,
             "Video Name": "algorithm session 11",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/13hKt-ff5Y9SSmwIQCiQMTjOzN5ynTOxv/view?usp=sharing"
         },
         {
             "Video Id": 146,
             "Video Name": "algorithm session 12",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1hMYMC6NMIuYdJj0McSljQRBratn_yG7N/view?usp=sharing"
         },
         {
             "Video Id": 147,
             "Video Name": "algorithm session MST Advanced",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1Xt79XwPgcQkUvK8LrHN7XfHTH8DULsVI/view?usp=sharing"
         },
         {
             "Video Id": 148,
             "Video Name": "algorithm session Randomized (60:00-end)",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1iDD4uW0KVaDdMp4PBHlRYYjFBrbDQN4m/view?usp=sharing"
         },
         {
             "Video Id": 149,
             "Video Name": "algorithm session Spanner",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1DlMALbag8tbyxx_p0dejuWHZfy9GVHTH/view?usp=sharing"
         },
         {
             "Video Id": 150,
             "Video Name": "algorithm session Treewidth",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1s_F9vicjrkLqU8PXbEuR1lyrr6hDixkn/view?usp=sharing"
         },
         {
             "Video Id": 151,
             "Video Name": "algorithm session Randomized",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1iDD4uW0KVaDdMp4PBHlRYYjFBrbDQN4m/view?usp=sharing"
         },
         {
             "Video Id": 152,
             "Video Name": "algorithm session Markov Chebyshev",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1VGA6ReyQnIMlVtRvfL3tlMCh3Gi3EkH_/view?usp=sharing"
         },
         {
             "Video Id": 153,
             "Video Name": "algorithm session Chernoff",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1-yF6w4wYyeMPFNLVs8jaPieBUnjexfms/view?usp=sharing"
         },
         {
             "Video Id": 154,
             "Video Name": "algorithm session Polynomials",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1sciiBDEMg23Sj4gYPm-dCTAdPYAWF5MY/view?usp=sharing"
         },
         {
             "Video Id": 155,
             "Video Name": "algorithm session Polling Transitive Closure v2",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1oUTPt-P1mxInEDQg9u2CWcSDXPImVD3y/view?usp=sharing"
         },
         {
             "Video Id": 156,
             "Video Name": "algorithm session Counting Generation",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1M8-ggHZVD16Rfl5Fi41EDOSPpSi7hztc/view?usp=sharing"
         },
         {
             "Video Id": 157,
             "Video Name": "algorithm session Isolating",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1O6dFdtWnaWs6ju8T46gee2-m0nGfLUur/view?usp=sharing"
         },
         {
             "Video Id": 158,
             "Video Name": "algorithm session Online",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1JjitjzNC2bF0Dg44ett1FKhzm6cwZZMQ/view?usp=sharing"
         },
         {
             "Video Id": 159,
             "Video Name": "algorithm session Streaming",
-            "Video Link": ""
+            "Video Link": "https://drive.google.com/file/d/1hRFJ7NC5ugGpwc1GaA9bixCRDp0DPxdz/view?usp=sharing"
+        },
+        {
+            "Video Id": 160,
+            "Video Name": "copt992 Session04",
+            "Video Link": "https://drive.google.com/file/d/1-wlVvZPJRaQ6_ds5yEy6ZYE6btvGLG_I/view?usp=sharing"
+        },
+        {
+            "Video Id": 161,
+            "Video Name": "copt992 Session05",
+            "Video Link": "https://drive.google.com/file/d/1eIvNf-KC9F2QGCwTx1HvlZY9YOFrcKLX/view?usp=sharing"
+        },
+        {
+            "Video Id": 162,
+            "Video Name": "copt992 Session08",
+            "Video Link": "https://drive.google.com/file/d/1hiFedsJsOoUWNz22uzNbiZoFBYCH1ICr/view?usp=sharing"
+        },
+        {
+            "Video Id": 163,
+            "Video Name": "copt992 Session09",
+            "Video Link": "https://drive.google.com/file/d/1u4j8YH1fIVpXANxl92cmUE_qNiEKh5OB/view?usp=sharing"
+        },
+        {
+            "Video Id": 164,
+            "Video Name": "copt992 Session10",
+            "Video Link": "https://drive.google.com/file/d/1YXmFCIUVqS0370APjxeVg1qIBSrVhXY_/view?usp=sharing"
+        },
+        {
+            "Video Id": 165,
+            "Video Name": "copt992 Session11",
+            "Video Link": "https://drive.google.com/file/d/1eJfIBqqQ5iLiY20K0iZ0ZKVZfci4C9Ll/view?usp=sharing"
+        },
+        {
+            "Video Id": 166,
+            "Video Name": "copt992 Session15",
+            "Video Link": "https://drive.google.com/file/d/1OG0RMny9fYzldSYR6DYrusw23o4lunJ2/view?usp=sharing"
         }
     ],
     "Files": [
@@ -835,30 +870,31 @@
             "File Id": 1,
             "File Name": "N/A",
             "File Link": ""
-        },{
+        },
+        {
             "File Id": 2,
             "File Name": "Prerequisite",
             "File Link": ""
         },
         {
             "File Id": 3,
-            "File Name": "\u062a\u062e\u062a\u0647 \u062c\u0644\u0633\u0627\u062a TSP",
-            "File Link": ""
+            "File Name": "تخته جلسات TSP",
+            "File Link": "https://drive.google.com/file/d/1GgdnT0LOSyw0MlpZL0not3bjkGMklOhT/view?usp=sharing"
         },
         {
             "File Id": 4,
-            "File Name": "cook et al.  TSP",
-            "File Link": ""
+            "File Name": "cook et al. TSP",
+            "File Link": "https://drive.google.com/file/d/1T9N8rCnU7UjWXF1ROhkX2RpD_5U6MOI1/view?usp=sharing"
         },
         {
             "File Id": 5,
             "File Name": "board - copt Multicommodity Flow 1, 2, 3, 4",
-            "File Link": ""
+            "File Link": "https://drive.google.com/file/d/1ZdzJtwivQwSrGXKsBq4BFZIghg2zZoS3/view?usp=sharing"
         },
         {
             "File Id": 6,
             "File Name": "board - copt Multicommodity Flow online Garg-Konemann",
-            "File Link": ""
+            "File Link": "https://drive.google.com/file/d/1wqdTa-7d1UI9BjjUH-v-9Ejjci5aL3Bn/view?usp=sharing"
         }
     ],
     "Content": [
@@ -867,7 +903,7 @@
             "Course": 1,
             "Video": 2,
             "Topic": "",
-            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u0627\u06cc \u0628\u0631 \u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc",
+            "Name": "مقدمه‌ای بر بهینه‌سازی ترکیبیاتی",
             "Supplementary Video": 3,
             "Alternative Supplementary Video": 4,
             "Prerequisite": 1,
@@ -880,7 +916,7 @@
             "Course": 1,
             "Video": 5,
             "Topic": "",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u060c \u0645\u0633\u06cc\u0631\u0647\u0627\u060c \u0628\u0631\u0634\u200c\u0647\u0627: \u0645\u062f\u0644\u200c\u0633\u0627\u0632\u06cc \u0648 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Name": "جریان‌ها، مسیرها، برش‌ها: مدل‌سازی و استفاده از برنامه‌ریزی خطی",
             "Supplementary Video": 6,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -893,7 +929,7 @@
             "Course": 1,
             "Video": 7,
             "Topic": "",
-            "Name": "\u0627\u062b\u0628\u0627\u062a \u0635\u062d\u06cc\u062d \u0628\u0648\u062f\u0646 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
+            "Name": "اثبات صحیح بودن چندوجهی‌ها",
             "Supplementary Video": 8,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -906,7 +942,7 @@
             "Course": 1,
             "Video": 9,
             "Topic": "",
-            "Name": "\u0645\u0627\u062a\u0631\u06cc\u0633\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062a\u06a9\u200c\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Name": "ماتریس‌های تماماً تک‌پیمانه‌ای",
             "Supplementary Video": 10,
             "Alternative Supplementary Video": 11,
             "Prerequisite": 1,
@@ -919,7 +955,7 @@
             "Course": 1,
             "Video": 12,
             "Topic": "",
-            "Name": "\u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0644\u0627\u06cc\u0647\u200c\u0627\u06cc \u0648 \u0628\u062f\u0648\u0646 \u062a\u0642\u0627\u0637\u0639",
+            "Name": "خانواده‌های لایه‌ای و بدون تقاطع",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -932,7 +968,7 @@
             "Course": 1,
             "Video": 13,
             "Topic": "",
-            "Name": "\u062a\u0642\u0627\u0637\u0639\u200c\u0632\u062f\u0627\u06cc\u06cc",
+            "Name": "تقاطع‌زدایی",
             "Supplementary Video": 14,
             "Alternative Supplementary Video": 15,
             "Prerequisite": 1,
@@ -945,7 +981,7 @@
             "Course": 1,
             "Video": 16,
             "Topic": "",
-            "Name": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646",
+            "Name": "روش اولیه-دوگان",
             "Supplementary Video": 17,
             "Alternative Supplementary Video": 18,
             "Prerequisite": 1,
@@ -957,8 +993,8 @@
             "Content Id": 8,
             "Course": 2,
             "Video": 2,
-            "Topic": "\u0645\u0642\u062f\u0645\u0647",
-            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u0627\u06cc \u0628\u0631 \u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc",
+            "Topic": "مقدمه",
+            "Name": "مقدمه‌ای بر بهینه‌سازی ترکیبیاتی",
             "Supplementary Video": 3,
             "Alternative Supplementary Video": 4,
             "Prerequisite": 1,
@@ -970,21 +1006,21 @@
             "Content Id": 9,
             "Course": 2,
             "Video": 19,
-            "Topic": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc \u0648 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
-            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u200c\u0627\u06cc \u0628\u0631 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Topic": "برنامه‌ریزی خطی و چندوجهی‌ها",
+            "Name": "مقدمه‌‌ای بر برنامه‌ریزی خطی",
             "Supplementary Video": 20,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
             "Comments": "",
-            "Resources": 2,
+            "Resources": 1,
             "References": ""
         },
         {
             "Content Id": 10,
             "Course": 2,
             "Video": 21,
-            "Topic": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc \u0648 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
-            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627: \u062a\u0648\u0635\u06cc\u0641\u200c\u0647\u0627\u06cc \u0645\u0639\u0627\u062f\u0644",
+            "Topic": "برنامه‌ریزی خطی و چندوجهی‌ها",
+            "Name": "چندوجهی‌ها: توصیف‌های معادل",
             "Supplementary Video": 22,
             "Alternative Supplementary Video": 23,
             "Prerequisite": 1,
@@ -996,8 +1032,8 @@
             "Content Id": 11,
             "Course": 2,
             "Video": 24,
-            "Topic": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc \u0648 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
-            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627: \u0648\u062c\u0647\u200c\u0647\u0627",
+            "Topic": "برنامه‌ریزی خطی و چندوجهی‌ها",
+            "Name": "چندوجهی‌ها: وجه‌ها",
             "Supplementary Video": 25,
             "Alternative Supplementary Video": 26,
             "Prerequisite": 1,
@@ -1009,8 +1045,8 @@
             "Content Id": 12,
             "Course": 2,
             "Video": 27,
-            "Topic": "\u0645\u062f\u0644 \u0633\u0627\u0632\u06cc",
-            "Name": "\u0645\u062f\u0644\u200c \u0633\u0627\u0632\u06cc \u06f1",
+            "Topic": "مدل سازی",
+            "Name": "مدل‌ سازی ۱",
             "Supplementary Video": 28,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1022,8 +1058,8 @@
             "Content Id": 13,
             "Course": 2,
             "Video": 29,
-            "Topic": "\u0645\u062f\u0644 \u0633\u0627\u0632\u06cc",
-            "Name": "\u0645\u062f\u0644\u200c \u0633\u0627\u0632\u06cc \u06f2 ",
+            "Topic": "مدل سازی",
+            "Name": "مدل‌ سازی ۲ ",
             "Supplementary Video": 30,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1035,8 +1071,8 @@
             "Content Id": 14,
             "Course": 2,
             "Video": 5,
-            "Topic": "\u0645\u062f\u0644 \u0633\u0627\u0632\u06cc",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u060c \u0645\u0633\u06cc\u0631\u0647\u0627\u060c \u0628\u0631\u0634\u200c\u0647\u0627: \u0645\u062f\u0644\u200c\u0633\u0627\u0632\u06cc \u0648 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Topic": "مدل سازی",
+            "Name": "جریان‌ها، مسیرها، برش‌ها: مدل‌سازی و استفاده از برنامه‌ریزی خطی",
             "Supplementary Video": 6,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1048,8 +1084,8 @@
             "Content Id": 15,
             "Course": 2,
             "Video": 31,
-            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
-            "Name": "\u0627\u062b\u0628\u0627\u062a \u0635\u062d\u06cc\u062d \u0628\u0648\u062f\u0646 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
+            "Topic": "چندوجهی‌های صحیح",
+            "Name": "اثبات صحیح بودن چندوجهی‌ها",
             "Supplementary Video": 8,
             "Alternative Supplementary Video": 32,
             "Prerequisite": 1,
@@ -1061,8 +1097,8 @@
             "Content Id": 16,
             "Course": 2,
             "Video": 33,
-            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
-            "Name": "\u0645\u0627\u062a\u0631\u06cc\u0633\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062a\u06a9\u200c\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Topic": "چندوجهی‌های صحیح",
+            "Name": "ماتریس‌های تماماً تک‌پیمانه‌ای",
             "Supplementary Video": 34,
             "Alternative Supplementary Video": 11,
             "Prerequisite": 1,
@@ -1074,8 +1110,8 @@
             "Content Id": 17,
             "Course": 2,
             "Video": 35,
-            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
-            "Name": "\u0645\u0627\u062a\u0631\u06cc\u0633\u200c\u0647\u0627\u06cc \u0634\u0628\u06a9\u0647\u200c\u0627\u06cc\u060c \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0644\u0627\u06cc\u0647\u200c\u0627\u06cc \u0648 \u0628\u062f\u0648\u0646 \u062a\u0642\u0627\u0637\u0639",
+            "Topic": "چندوجهی‌های صحیح",
+            "Name": "ماتریس‌های شبکه‌ای، خانواده‌های لایه‌ای و بدون تقاطع",
             "Supplementary Video": 36,
             "Alternative Supplementary Video": 10,
             "Prerequisite": 1,
@@ -1087,8 +1123,8 @@
             "Content Id": 18,
             "Course": 2,
             "Video": 13,
-            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
-            "Name": "\u062a\u0642\u0627\u0637\u0639\u200c\u0632\u062f\u0627\u06cc\u06cc",
+            "Topic": "چندوجهی‌های صحیح",
+            "Name": "تقاطع‌زدایی",
             "Supplementary Video": 14,
             "Alternative Supplementary Video": 15,
             "Prerequisite": 1,
@@ -1100,8 +1136,8 @@
             "Content Id": 19,
             "Course": 2,
             "Video": 37,
-            "Topic": "\u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062f\u0648\u06af\u0627\u0646-\u0635\u062d\u06cc\u062d",
-            "Name": "\u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062f\u0648\u06af\u0627\u0646-\u0635\u062d\u06cc\u062d",
+            "Topic": "سیستم‌های تماماً دوگان-صحیح",
+            "Name": "سیستم‌های تماماً دوگان-صحیح",
             "Supplementary Video": 38,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1113,8 +1149,8 @@
             "Content Id": 20,
             "Course": 2,
             "Video": 39,
-            "Topic": "\u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062f\u0648\u06af\u0627\u0646-\u0635\u062d\u06cc\u062d",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u06cc \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Topic": "سیستم‌های تماماً دوگان-صحیح",
+            "Name": "جریان‌های زیرپیمانه‌ای",
             "Supplementary Video": 40,
             "Alternative Supplementary Video": 41,
             "Prerequisite": 1,
@@ -1126,8 +1162,8 @@
             "Content Id": 21,
             "Course": 2,
             "Video": 16,
-            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
-            "Name": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646",
+            "Topic": "روش اولیه-دوگان و تطابق غیردوبخشی",
+            "Name": "روش اولیه-دوگان",
             "Supplementary Video": 17,
             "Alternative Supplementary Video": 18,
             "Prerequisite": 1,
@@ -1139,8 +1175,8 @@
             "Content Id": 22,
             "Course": 2,
             "Video": 42,
-            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
-            "Name": "\u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc \u0628\u062f\u0648\u0646 \u0648\u0632\u0646",
+            "Topic": "روش اولیه-دوگان و تطابق غیردوبخشی",
+            "Name": "تطابق غیردوبخشی بدون وزن",
             "Supplementary Video": 43,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1152,8 +1188,8 @@
             "Content Id": 23,
             "Course": 2,
             "Video": 44,
-            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
-            "Name": "\u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631 \u062f\u0648\u0628\u062e\u0634\u06cc \u0648\u0632\u0646\u200c\u062f\u0627\u0631",
+            "Topic": "روش اولیه-دوگان و تطابق غیردوبخشی",
+            "Name": "تطابق غیر دوبخشی وزن‌دار",
             "Supplementary Video": 45,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1165,8 +1201,8 @@
             "Content Id": 24,
             "Course": 2,
             "Video": 46,
-            "Topic": "\u0631\u0648\u0634 \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631",
-            "Name": "\u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631\u060c \u062f\u0631\u062e\u062a \u0641\u0631\u0627\u06af\u06cc\u0631 \u062f\u0631\u062c\u0647-\u0645\u062d\u062f\u0648\u062f \u06a9\u0645\u06cc\u0646\u0647",
+            "Topic": "روش مبتنی بر تکرار",
+            "Name": "روش‌های مبتنی بر تکرار، درخت فراگیر درجه-محدود کمینه",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1178,8 +1214,8 @@
             "Content Id": 25,
             "Course": 2,
             "Video": 47,
-            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627",
-            "Name": "\u062a\u06a9\u0646\u06cc\u06a9 \u0634\u06a9\u0627\u0641\u062a\u0646",
+            "Topic": "برش‌ها",
+            "Name": "تکنیک شکافتن",
             "Supplementary Video": 40,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1191,8 +1227,8 @@
             "Content Id": 26,
             "Course": 2,
             "Video": 48,
-            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627",
-            "Name": "\u0628\u0631\u0634\u200c\u0647\u0627\u06cc \u06a9\u0645\u06cc\u0646\u0647 \u0633\u0631\u0627\u0633\u0631\u06cc \u0648 \u062a\u0631\u062a\u06cc\u0628 \u0645\u062c\u0627\u0648\u0631\u062a-\u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Topic": "برش‌ها",
+            "Name": "برش‌های کمینه سراسری و ترتیب مجاورت-بیشینه",
             "Supplementary Video": 49,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1204,8 +1240,8 @@
             "Content Id": 27,
             "Course": 2,
             "Video": 50,
-            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627",
-            "Name": "\u062f\u0631\u062e\u062a \u06af\u0648\u0645\u0648\u0631\u06cc-\u0647\u0648",
+            "Topic": "برش‌ها",
+            "Name": "درخت گوموری-هو",
             "Supplementary Video": 51,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1217,8 +1253,8 @@
             "Content Id": 28,
             "Course": 2,
             "Video": 52,
-            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
-            "Name": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062f\u0642\u06cc\u0642 \u0648 \u062a\u0642\u0631\u06cc\u0628\u06cc \u06a9\u0644\u0627\u0633\u06cc\u06a9",
+            "Topic": "مسئله فروشنده دوره‌گرد",
+            "Name": "مسئله فروشنده دوره‌گرد، الگوریتم‌های دقیق و تقریبی کلاسیک",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1230,8 +1266,8 @@
             "Content Id": 29,
             "Course": 2,
             "Video": 53,
-            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u062a\u0642\u0631\u06cc\u0628\u06cc \u0628\u0631\u0627\u06cc \u062a\u06cc\u200c\u0627\u0633\u200c\u067e\u06cc \u062c\u0647\u062a\u200c\u062f\u0627\u0631\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062c\u0633\u062a\u062c\u0648\u06cc \u0645\u062d\u0644\u06cc",
+            "Topic": "مسئله فروشنده دوره‌گرد",
+            "Name": "الگوریتم تقریبی برای تی‌اس‌پی جهت‌دار، الگوریتم‌های جستجوی محلی",
             "Supplementary Video": 54,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1243,8 +1279,8 @@
             "Content Id": 30,
             "Course": 2,
             "Video": 55,
-            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
-            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc \u062a\u06cc\u200c\u0627\u0633\u200c\u067e\u06cc\u060c \u0646\u0627\u0645\u0633\u0627\u0648\u06cc\u200c\u0647\u0627\u06cc \u0634\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Topic": "مسئله فروشنده دوره‌گرد",
+            "Name": "چندوجهی تی‌اس‌پی، نامساوی‌های شانه‌ای",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1256,8 +1292,8 @@
             "Content Id": 31,
             "Course": 2,
             "Video": 56,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627: \u0645\u0642\u062f\u0645\u0627\u062a \u0648 \u062a\u0639\u0627\u0631\u06cc\u0641\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u062d\u0631\u06cc\u0635\u0627\u0646\u0647",
+            "Topic": "ماترویدها",
+            "Name": "ماترویدها: مقدمات و تعاریف، الگوریتم حریصانه",
             "Supplementary Video": 57,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1269,8 +1305,8 @@
             "Content Id": 32,
             "Course": 2,
             "Video": 58,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u062a\u0639\u0627\u0631\u06cc\u0641 \u0645\u0639\u0627\u062f\u0644",
+            "Topic": "ماترویدها",
+            "Name": "تعاریف معادل",
             "Supplementary Video": 59,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1282,8 +1318,8 @@
             "Content Id": 33,
             "Course": 2,
             "Video": 60,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Topic": "ماترویدها",
+            "Name": "اشتراک ماترویدها",
             "Supplementary Video": 61,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1295,8 +1331,8 @@
             "Content Id": 34,
             "Course": 2,
             "Video": 62,
-            "Topic": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
-            "Name": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc: \u0645\u0642\u062f\u0645\u0627\u062a \u0648 \u062a\u0639\u0627\u0631\u06cc\u0641",
+            "Topic": "توابع زیرپیمانه‌ای",
+            "Name": "توابع زیرپیمانه‌ای: مقدمات و تعاریف",
             "Supplementary Video": 63,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1308,8 +1344,8 @@
             "Content Id": 35,
             "Course": 2,
             "Video": 64,
-            "Topic": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
-            "Name": "\u0628\u06cc\u0634\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Topic": "توابع زیرپیمانه‌ای",
+            "Name": "بیشینه‌سازی توابع زیرپیمانه‌ای",
             "Supplementary Video": 65,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1321,8 +1357,8 @@
             "Content Id": 36,
             "Course": 3,
             "Video": 2,
-            "Topic": "\u0645\u0642\u062f\u0645\u0647",
-            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u0627\u06cc \u0628\u0631 \u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc",
+            "Topic": "مقدمه",
+            "Name": "مقدمه‌ای بر بهینه‌سازی ترکیبیاتی",
             "Supplementary Video": 3,
             "Alternative Supplementary Video": 4,
             "Prerequisite": 1,
@@ -1334,8 +1370,8 @@
             "Content Id": 37,
             "Course": 3,
             "Video": 19,
-            "Topic": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc \u0648 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
-            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u200c\u0627\u06cc \u0628\u0631 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Topic": "برنامه‌ریزی خطی و چندوجهی‌ها",
+            "Name": "مقدمه‌‌ای بر برنامه‌ریزی خطی",
             "Supplementary Video": 20,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1347,8 +1383,8 @@
             "Content Id": 38,
             "Course": 3,
             "Video": 66,
-            "Topic": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc \u0648 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
-            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627: \u062a\u0648\u0635\u06cc\u0641\u200c\u0647\u0627\u06cc \u0645\u0639\u0627\u062f\u0644",
+            "Topic": "برنامه‌ریزی خطی و چندوجهی‌ها",
+            "Name": "چندوجهی‌ها: توصیف‌های معادل",
             "Supplementary Video": 23,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1360,8 +1396,8 @@
             "Content Id": 39,
             "Course": 3,
             "Video": 67,
-            "Topic": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc \u0648 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
-            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627: \u0648\u062c\u0647\u200c\u0647\u0627",
+            "Topic": "برنامه‌ریزی خطی و چندوجهی‌ها",
+            "Name": "چندوجهی‌ها: وجه‌ها",
             "Supplementary Video": 26,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1373,8 +1409,8 @@
             "Content Id": 40,
             "Course": 3,
             "Video": 68,
-            "Topic": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc \u0648 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
-            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u200c\u0647\u0627: \u0631\u0623\u0633\u200c\u0647\u0627",
+            "Topic": "برنامه‌ریزی خطی و چندوجهی‌ها",
+            "Name": "چندوجهی‌‌ها: رأس‌ها",
             "Supplementary Video": 69,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1386,8 +1422,8 @@
             "Content Id": 41,
             "Course": 3,
             "Video": 27,
-            "Topic": "\u0645\u062f\u0644 \u0633\u0627\u0632\u06cc",
-            "Name": "\u0645\u062f\u0644\u200c \u0633\u0627\u0632\u06cc \u06f1",
+            "Topic": "مدل سازی",
+            "Name": "مدل‌ سازی ۱",
             "Supplementary Video": 28,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1399,8 +1435,8 @@
             "Content Id": 42,
             "Course": 3,
             "Video": 29,
-            "Topic": "\u0645\u062f\u0644 \u0633\u0627\u0632\u06cc",
-            "Name": "\u0645\u062f\u0644\u200c \u0633\u0627\u0632\u06cc \u06f2 ",
+            "Topic": "مدل سازی",
+            "Name": "مدل‌ سازی ۲ ",
             "Supplementary Video": 30,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1412,8 +1448,8 @@
             "Content Id": 43,
             "Course": 3,
             "Video": 5,
-            "Topic": "\u0645\u062f\u0644 \u0633\u0627\u0632\u06cc",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u060c \u0645\u0633\u06cc\u0631\u0647\u0627\u060c \u0628\u0631\u0634\u200c\u0647\u0627: \u0645\u062f\u0644\u200c\u0633\u0627\u0632\u06cc \u0648 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Topic": "مدل سازی",
+            "Name": "جریان‌ها، مسیرها، برش‌ها: مدل‌سازی و استفاده از برنامه‌ریزی خطی",
             "Supplementary Video": 6,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1425,8 +1461,8 @@
             "Content Id": 44,
             "Course": 3,
             "Video": 31,
-            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
-            "Name": "\u0627\u062b\u0628\u0627\u062a \u0635\u062d\u06cc\u062d \u0628\u0648\u062f\u0646 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627",
+            "Topic": "چندوجهی‌های صحیح",
+            "Name": "اثبات صحیح بودن چندوجهی‌ها",
             "Supplementary Video": 8,
             "Alternative Supplementary Video": 32,
             "Prerequisite": 1,
@@ -1438,8 +1474,8 @@
             "Content Id": 45,
             "Course": 3,
             "Video": 70,
-            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
-            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c \u062a\u0637\u0627\u0628\u0642\u200c\u0647\u0627 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Topic": "چندوجهی‌های صحیح",
+            "Name": "چندوجهی‌ تطابق‌ها در گراف‌های غیردوبخشی",
             "Supplementary Video": 71,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1451,8 +1487,8 @@
             "Content Id": 46,
             "Course": 3,
             "Video": 33,
-            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
-            "Name": "\u0645\u0627\u062a\u0631\u06cc\u0633\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062a\u06a9\u200c\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Topic": "چندوجهی‌های صحیح",
+            "Name": "ماتریس‌های تماماً تک‌پیمانه‌ای",
             "Supplementary Video": 34,
             "Alternative Supplementary Video": 11,
             "Prerequisite": 1,
@@ -1464,8 +1500,8 @@
             "Content Id": 47,
             "Course": 3,
             "Video": 35,
-            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
-            "Name": "\u0645\u0627\u062a\u0631\u06cc\u0633\u200c\u0647\u0627\u06cc \u0634\u0628\u06a9\u0647\u200c\u0627\u06cc\u060c \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0644\u0627\u06cc\u0647\u200c\u0627\u06cc \u0648 \u0628\u062f\u0648\u0646 \u062a\u0642\u0627\u0637\u0639",
+            "Topic": "چندوجهی‌های صحیح",
+            "Name": "ماتریس‌های شبکه‌ای، خانواده‌های لایه‌ای و بدون تقاطع",
             "Supplementary Video": 36,
             "Alternative Supplementary Video": 10,
             "Prerequisite": 1,
@@ -1477,8 +1513,8 @@
             "Content Id": 48,
             "Course": 3,
             "Video": 13,
-            "Topic": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d",
-            "Name": "\u062a\u0642\u0627\u0637\u0639\u200c\u0632\u062f\u0627\u06cc\u06cc",
+            "Topic": "چندوجهی‌های صحیح",
+            "Name": "تقاطع‌زدایی",
             "Supplementary Video": 14,
             "Alternative Supplementary Video": 15,
             "Prerequisite": 1,
@@ -1490,8 +1526,8 @@
             "Content Id": 49,
             "Course": 3,
             "Video": 37,
-            "Topic": "\u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062f\u0648\u06af\u0627\u0646-\u0635\u062d\u06cc\u062d",
-            "Name": "\u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062f\u0648\u06af\u0627\u0646-\u0635\u062d\u06cc\u062d",
+            "Topic": "سیستم‌های تماماً دوگان-صحیح",
+            "Name": "سیستم‌های تماماً دوگان-صحیح",
             "Supplementary Video": 38,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1503,8 +1539,8 @@
             "Content Id": 50,
             "Course": 3,
             "Video": 72,
-            "Topic": "\u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062f\u0648\u06af\u0627\u0646-\u0635\u062d\u06cc\u062d",
-            "Name": "\u0641\u0631\u0645\u0648\u0644 \u06a9\u0627\u0646\u06cc\u0646\u06af\u0647\u0627\u0645-\u0645\u0627\u0631\u0634",
+            "Topic": "سیستم‌های تماماً دوگان-صحیح",
+            "Name": "فرمول کانینگهام-مارش",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1516,8 +1552,8 @@
             "Content Id": 51,
             "Course": 3,
             "Video": 39,
-            "Topic": "\u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u0627\u064b \u062f\u0648\u06af\u0627\u0646-\u0635\u062d\u06cc\u062d",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u06cc \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Topic": "سیستم‌های تماماً دوگان-صحیح",
+            "Name": "جریان‌های زیرپیمانه‌ای",
             "Supplementary Video": 40,
             "Alternative Supplementary Video": 41,
             "Prerequisite": 1,
@@ -1529,8 +1565,8 @@
             "Content Id": 52,
             "Course": 3,
             "Video": 16,
-            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
-            "Name": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646",
+            "Topic": "روش اولیه-دوگان و تطابق غیردوبخشی",
+            "Name": "روش اولیه-دوگان",
             "Supplementary Video": 17,
             "Alternative Supplementary Video": 18,
             "Prerequisite": 1,
@@ -1542,8 +1578,8 @@
             "Content Id": 53,
             "Course": 3,
             "Video": 73,
-            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647",
+            "Topic": "روش اولیه-دوگان و تطابق غیردوبخشی",
+            "Name": "جریان با کمترین هزینه",
             "Supplementary Video": 74,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1555,8 +1591,8 @@
             "Content Id": 54,
             "Course": 3,
             "Video": 42,
-            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
-            "Name": "\u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc \u0628\u062f\u0648\u0646 \u0648\u0632\u0646",
+            "Topic": "روش اولیه-دوگان و تطابق غیردوبخشی",
+            "Name": "تطابق غیردوبخشی بدون وزن",
             "Supplementary Video": 43,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1568,8 +1604,8 @@
             "Content Id": 55,
             "Course": 3,
             "Video": 44,
-            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
-            "Name": "\u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631 \u062f\u0648\u0628\u062e\u0634\u06cc \u0648\u0632\u0646\u200c\u062f\u0627\u0631",
+            "Topic": "روش اولیه-دوگان و تطابق غیردوبخشی",
+            "Name": "تطابق غیر دوبخشی وزن‌دار",
             "Supplementary Video": 45,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1581,7 +1617,7 @@
             "Content Id": 56,
             "Course": 3,
             "Video": 75,
-            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Topic": "روش اولیه-دوگان و تطابق غیردوبخشی",
             "Name": "T-Join",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
@@ -1594,8 +1630,8 @@
             "Content Id": 57,
             "Course": 3,
             "Video": 76,
-            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646 \u0648 \u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0642\u0631\u06cc\u0628\u06cc: \u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646\u060c \u062c\u0646\u06af\u0644 \u0627\u0634\u062a\u0627\u06cc\u0646\u0631",
+            "Topic": "روش اولیه-دوگان و تطابق غیردوبخشی",
+            "Name": "الگوریتم‌های تقریبی: روش اولیه-دوگان، جنگل اشتاینر",
             "Supplementary Video": 77,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1607,8 +1643,8 @@
             "Content Id": 58,
             "Course": 3,
             "Video": 78,
-            "Topic": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0642\u0631\u06cc\u0628\u06cc: \u062f\u0631\u062e\u062a \u0627\u0634\u062a\u0627\u06cc\u0646\u0631 \u062c\u0627\u06cc\u0632\u0647-\u062c\u0645\u0639\u200c\u06a9\u0646",
+            "Topic": "روش گرد کردن",
+            "Name": "الگوریتم‌های تقریبی: درخت اشتاینر جایزه-جمع‌کن",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1620,8 +1656,8 @@
             "Content Id": 59,
             "Course": 3,
             "Video": 79,
-            "Topic": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0642\u0631\u06cc\u0628\u06cc: \u0628\u0631\u0634 \u0686\u0646\u062f\u0637\u0631\u0641\u0647",
+            "Topic": "روش گرد کردن",
+            "Name": "الگوریتم‌های تقریبی: برش چندطرفه",
             "Supplementary Video": 80,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1633,8 +1669,8 @@
             "Content Id": 60,
             "Course": 3,
             "Video": 46,
-            "Topic": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646",
-            "Name": "\u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631\u060c \u062f\u0631\u062e\u062a \u0641\u0631\u0627\u06af\u06cc\u0631 \u062f\u0631\u062c\u0647-\u0645\u062d\u062f\u0648\u062f \u06a9\u0645\u06cc\u0646\u0647",
+            "Topic": "روش گرد کردن",
+            "Name": "روش‌های مبتنی بر تکرار، درخت فراگیر درجه-محدود کمینه",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1646,8 +1682,8 @@
             "Content Id": 61,
             "Course": 3,
             "Video": 47,
-            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627",
-            "Name": "\u062a\u06a9\u0646\u06cc\u06a9 \u0634\u06a9\u0627\u0641\u062a\u0646",
+            "Topic": "برش‌ها",
+            "Name": "تکنیک شکافتن",
             "Supplementary Video": 40,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1659,8 +1695,8 @@
             "Content Id": 62,
             "Course": 3,
             "Video": 48,
-            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627",
-            "Name": "\u0628\u0631\u0634\u200c\u0647\u0627\u06cc \u06a9\u0645\u06cc\u0646\u0647 \u0633\u0631\u0627\u0633\u0631\u06cc \u0648 \u062a\u0631\u062a\u06cc\u0628 \u0645\u062c\u0627\u0648\u0631\u062a-\u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Topic": "برش‌ها",
+            "Name": "برش‌های کمینه سراسری و ترتیب مجاورت-بیشینه",
             "Supplementary Video": 49,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1672,8 +1708,8 @@
             "Content Id": 63,
             "Course": 3,
             "Video": 50,
-            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627",
-            "Name": "\u062f\u0631\u062e\u062a \u06af\u0648\u0645\u0648\u0631\u06cc-\u0647\u0648",
+            "Topic": "برش‌ها",
+            "Name": "درخت گوموری-هو",
             "Supplementary Video": 51,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1685,8 +1721,8 @@
             "Content Id": 64,
             "Course": 3,
             "Video": 81,
-            "Topic": "\u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u062a\u0627\u0645",
-            "Name": "\u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u062a\u0627\u0645",
+            "Topic": "گراف‌های تام",
+            "Name": "گراف‌های تام",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1698,8 +1734,8 @@
             "Content Id": 65,
             "Course": 3,
             "Video": 82,
-            "Topic": "\u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u062a\u0627\u0645",
-            "Name": "\u0642\u0636\u06cc\u0647 \u06af\u0631\u0627\u0641 \u062a\u0627\u0645",
+            "Topic": "گراف‌های تام",
+            "Name": "قضیه گراف تام",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1711,8 +1747,8 @@
             "Content Id": 66,
             "Course": 3,
             "Video": 52,
-            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
-            "Name": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062f\u0642\u06cc\u0642 \u0648 \u062a\u0642\u0631\u06cc\u0628\u06cc \u06a9\u0644\u0627\u0633\u06cc\u06a9",
+            "Topic": "مسئله فروشنده دوره‌گرد",
+            "Name": "مسئله فروشنده دوره‌گرد، الگوریتم‌های دقیق و تقریبی کلاسیک",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1724,8 +1760,8 @@
             "Content Id": 67,
             "Course": 3,
             "Video": 53,
-            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u062a\u0642\u0631\u06cc\u0628\u06cc \u0628\u0631\u0627\u06cc \u062a\u06cc\u200c\u0627\u0633\u200c\u067e\u06cc \u062c\u0647\u062a\u200c\u062f\u0627\u0631\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062c\u0633\u062a\u062c\u0648\u06cc \u0645\u062d\u0644\u06cc",
+            "Topic": "مسئله فروشنده دوره‌گرد",
+            "Name": "الگوریتم تقریبی برای تی‌اس‌پی جهت‌دار، الگوریتم‌های جستجوی محلی",
             "Supplementary Video": 54,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1737,8 +1773,8 @@
             "Content Id": 68,
             "Course": 3,
             "Video": 83,
-            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
-            "Name": "\u0645\u0633\u0626\u0644\u0647 \u062a\u06cc\u200c-\u0628\u0631\u0634 \u0641\u0631\u062f \u06a9\u0645\u06cc\u0646\u0647",
+            "Topic": "مسئله فروشنده دوره‌گرد",
+            "Name": "مسئله تی‌-برش فرد کمینه",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1750,8 +1786,8 @@
             "Content Id": 69,
             "Course": 3,
             "Video": 55,
-            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
-            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc \u062a\u06cc\u200c\u0627\u0633\u200c\u067e\u06cc\u060c \u0646\u0627\u0645\u0633\u0627\u0648\u06cc\u200c\u0647\u0627\u06cc \u0634\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Topic": "مسئله فروشنده دوره‌گرد",
+            "Name": "چندوجهی تی‌اس‌پی، نامساوی‌های شانه‌ای",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1763,8 +1799,8 @@
             "Content Id": 70,
             "Course": 3,
             "Video": 84,
-            "Topic": "\u0645\u0633\u0626\u0644\u0647 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u062f\u0648\u0631\u0647\u200c\u06af\u0631\u062f",
-            "Name": "\u0646\u0627\u0645\u0633\u0627\u0648\u06cc\u200c\u0647\u0627\u06cc \u0634\u0627\u0646\u0647\u200c\u0627\u06cc\u060c \u0646\u0627\u0645\u0633\u0627\u0648\u06cc\u200c\u0647\u0627\u06cc \u063a\u0646\u0686\u0647\u200c\u0627\u06cc",
+            "Topic": "مسئله فروشنده دوره‌گرد",
+            "Name": "نامساوی‌های شانه‌ای، نامساوی‌های غنچه‌ای",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1776,8 +1812,8 @@
             "Content Id": 71,
             "Course": 3,
             "Video": 56,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627: \u0645\u0642\u062f\u0645\u0627\u062a \u0648 \u062a\u0639\u0627\u0631\u06cc\u0641\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u062d\u0631\u06cc\u0635\u0627\u0646\u0647",
+            "Topic": "ماترویدها",
+            "Name": "ماترویدها: مقدمات و تعاریف، الگوریتم حریصانه",
             "Supplementary Video": 57,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1789,8 +1825,8 @@
             "Content Id": 72,
             "Course": 3,
             "Video": 58,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u062a\u0639\u0627\u0631\u06cc\u0641 \u0645\u0639\u0627\u062f\u0644",
+            "Topic": "ماترویدها",
+            "Name": "تعاریف معادل",
             "Supplementary Video": 59,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1802,8 +1838,8 @@
             "Content Id": 73,
             "Course": 3,
             "Video": 85,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u062f\u0648\u06af\u0627\u0646\u06cc\u060c \u0627\u0639\u0645\u0627\u0644",
+            "Topic": "ماترویدها",
+            "Name": "دوگانی، اعمال",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1815,8 +1851,8 @@
             "Content Id": 74,
             "Course": 3,
             "Video": 86,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Topic": "ماترویدها",
+            "Name": "چندوجهی‌های ماترویدها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1828,8 +1864,8 @@
             "Content Id": 75,
             "Course": 3,
             "Video": 60,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Topic": "ماترویدها",
+            "Name": "اشتراک ماترویدها",
             "Supplementary Video": 61,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1841,8 +1877,8 @@
             "Content Id": 76,
             "Course": 3,
             "Video": 87,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Topic": "ماترویدها",
+            "Name": "الگوریتم اشتراک ماترویدها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1854,8 +1890,8 @@
             "Content Id": 77,
             "Course": 3,
             "Video": 88,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u0627\u062c\u062a\u0645\u0627\u0639 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Topic": "ماترویدها",
+            "Name": "اجتماع ماترویدها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1867,8 +1903,8 @@
             "Content Id": 78,
             "Course": 3,
             "Video": 62,
-            "Topic": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
-            "Name": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc: \u0645\u0642\u062f\u0645\u0627\u062a \u0648 \u062a\u0639\u0627\u0631\u06cc\u0641",
+            "Topic": "توابع زیرپیمانه‌ای",
+            "Name": "توابع زیرپیمانه‌ای: مقدمات و تعاریف",
             "Supplementary Video": 63,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1880,8 +1916,8 @@
             "Content Id": 79,
             "Course": 3,
             "Video": 64,
-            "Topic": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
-            "Name": "\u0628\u06cc\u0634\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Topic": "توابع زیرپیمانه‌ای",
+            "Name": "بیشینه‌سازی توابع زیرپیمانه‌ای",
             "Supplementary Video": 65,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1893,8 +1929,8 @@
             "Content Id": 80,
             "Course": 3,
             "Video": 89,
-            "Topic": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
-            "Name": "\u067e\u0644\u06cc\u200c\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Topic": "توابع زیرپیمانه‌ای",
+            "Name": "پلی‌ماترویدها",
             "Supplementary Video": 90,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1906,8 +1942,8 @@
             "Content Id": 81,
             "Course": 3,
             "Video": 91,
-            "Topic": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
-            "Name": "\u06af\u0633\u062a\u0631\u0634\u200c\u0647\u0627\u06cc \u067e\u06cc\u0648\u0633\u062a\u0647",
+            "Topic": "توابع زیرپیمانه‌ای",
+            "Name": "گسترش‌های پیوسته",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1920,7 +1956,7 @@
             "Course": 4,
             "Video": 56,
             "Topic": "",
-            "Name": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627: \u0645\u0642\u062f\u0645\u0627\u062a \u0648 \u062a\u0639\u0627\u0631\u06cc\u0641\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u062d\u0631\u06cc\u0635\u0627\u0646\u0647",
+            "Name": "ماترویدها: مقدمات و تعاریف، الگوریتم حریصانه",
             "Supplementary Video": 57,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1933,7 +1969,7 @@
             "Course": 4,
             "Video": 58,
             "Topic": "",
-            "Name": "\u062a\u0639\u0627\u0631\u06cc\u0641 \u0645\u0639\u0627\u062f\u0644",
+            "Name": "تعاریف معادل",
             "Supplementary Video": 59,
             "Alternative Supplementary Video": 92,
             "Prerequisite": 1,
@@ -1946,7 +1982,7 @@
             "Course": 4,
             "Video": 85,
             "Topic": "",
-            "Name": "\u062f\u0648\u06af\u0627\u0646\u06cc\u060c \u0627\u0639\u0645\u0627\u0644",
+            "Name": "دوگانی، اعمال",
             "Supplementary Video": 93,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1959,7 +1995,7 @@
             "Course": 4,
             "Video": 94,
             "Topic": "",
-            "Name": "\u0646\u0645\u0627\u06cc\u0634 \u0647\u0646\u062f\u0633\u06cc \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627\u06cc \u06a9\u0645\u200c\u0631\u062a\u0628\u0647",
+            "Name": "نمایش هندسی ماترویدهای کم‌رتبه",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1972,7 +2008,7 @@
             "Course": 4,
             "Video": 95,
             "Topic": "",
-            "Name": "\u0647\u0645\u0628\u0646\u062f\u06cc",
+            "Name": "همبندی",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1985,7 +2021,7 @@
             "Course": 4,
             "Video": 96,
             "Topic": "",
-            "Name": "\u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u0631\u0648\u06cc \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "بهینه‌سازی روی ماترویدها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -1998,7 +2034,7 @@
             "Course": 4,
             "Video": 86,
             "Topic": "",
-            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c\u0647\u0627\u06cc \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "چندوجهی‌های ماترویدها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2011,7 +2047,7 @@
             "Course": 4,
             "Video": 60,
             "Topic": "",
-            "Name": "\u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "اشتراک ماترویدها",
             "Supplementary Video": 61,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2024,7 +2060,7 @@
             "Course": 4,
             "Video": 97,
             "Topic": "",
-            "Name": "\u0686\u0646\u062f\u0648\u062c\u0647\u06cc\u200c \u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "چندوجهی‌ اشتراک ماترویدها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2037,7 +2073,7 @@
             "Course": 4,
             "Video": 87,
             "Topic": "",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "الگوریتم اشتراک ماترویدها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2050,7 +2086,7 @@
             "Course": 4,
             "Video": 98,
             "Topic": "",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0648\u0632\u0646\u200c\u062f\u0627\u0631 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "الگوریتم اشتراک وزن‌دار ماترویدها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2063,7 +2099,7 @@
             "Course": 4,
             "Video": 88,
             "Topic": "",
-            "Name": "\u0627\u062c\u062a\u0645\u0627\u0639 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "اجتماع ماترویدها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2076,7 +2112,7 @@
             "Course": 4,
             "Video": 99,
             "Topic": "",
-            "Name": "\u0628\u0627\u0632\u06cc \u0634\u0627\u0646\u0648\u0646",
+            "Name": "بازی شانون",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2089,7 +2125,7 @@
             "Course": 4,
             "Video": 62,
             "Topic": "",
-            "Name": "\u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc: \u0645\u0642\u062f\u0645\u0627\u062a \u0648 \u062a\u0639\u0627\u0631\u06cc\u0641",
+            "Name": "توابع زیرپیمانه‌ای: مقدمات و تعاریف",
             "Supplementary Video": 63,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2102,7 +2138,7 @@
             "Course": 4,
             "Video": 64,
             "Topic": "",
-            "Name": "\u0628\u06cc\u0634\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u062a\u0648\u0627\u0628\u0639 \u0632\u06cc\u0631\u067e\u06cc\u0645\u0627\u0646\u0647\u200c\u0627\u06cc",
+            "Name": "بیشینه‌سازی توابع زیرپیمانه‌ای",
             "Supplementary Video": 65,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2115,7 +2151,7 @@
             "Course": 4,
             "Video": 89,
             "Topic": "",
-            "Name": "\u067e\u0644\u06cc\u200c\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Name": "پلی‌ماترویدها",
             "Supplementary Video": 90,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2128,7 +2164,7 @@
             "Course": 4,
             "Video": 91,
             "Topic": "",
-            "Name": "\u06af\u0633\u062a\u0631\u0634\u200c\u0647\u0627\u06cc \u067e\u06cc\u0648\u0633\u062a\u0647",
+            "Name": "گسترش‌های پیوسته",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2141,7 +2177,7 @@
             "Course": 4,
             "Video": 100,
             "Topic": "",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u062d\u0631\u06cc\u0635\u0627\u0646\u0647 \u067e\u06cc\u0648\u0633\u062a\u0647",
+            "Name": "الگوریتم حریصانه پیوسته",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2153,8 +2189,8 @@
             "Content Id": 100,
             "Course": 5,
             "Video": 101,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647 \u06f1: \u062a\u0639\u0627\u0631\u06cc\u0641 \u0648 \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627",
+            "Topic": "جریان بیشینه",
+            "Name": "جریان بیشینه ۱: تعاریف و الگوریتم‌ها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2166,8 +2202,8 @@
             "Content Id": 101,
             "Course": 5,
             "Video": 102,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647 \u06f2: \u0646\u0633\u062e\u0647\u200c\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 \u0648 \u06a9\u0627\u0631\u0628\u0631\u062f\u0647\u0627\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc",
+            "Topic": "جریان بیشینه",
+            "Name": "جریان بیشینه ۲: نسخه‌های مختلف و کاربردهای ترکیبیاتی",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2179,8 +2215,8 @@
             "Content Id": 102,
             "Course": 5,
             "Video": 103,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647 \u06f3: \u06a9\u0627\u0631\u0628\u0631\u062f\u0647\u0627",
+            "Topic": "جریان بیشینه",
+            "Name": "جریان بیشینه ۳: کاربردها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2192,8 +2228,8 @@
             "Content Id": 103,
             "Course": 5,
             "Video": 104,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
-            "Name": "\u062a\u0637\u0627\u0628\u0642 \u0648\u0632\u0646\u200c\u062f\u0627\u0631 \u062f\u0631 \u06af\u0631\u0627\u0641 \u062f\u0648\u0628\u062e\u0634\u06cc\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 push-relabel",
+            "Topic": "جریان بیشینه",
+            "Name": "تطابق وزن‌دار در گراف دوبخشی، الگوریتم push-relabel",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2205,8 +2241,8 @@
             "Content Id": 104,
             "Course": 5,
             "Video": 105,
-            "Topic": "\u0645\u062f\u0644\u200c\u0633\u0627\u0632\u06cc \u0648 \u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u060c \u0645\u0633\u06cc\u0631\u0647\u0627\u060c \u0628\u0631\u0634\u200c\u0647\u0627: \u0645\u062f\u0644\u200c\u0633\u0627\u0632\u06cc \u0648 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Topic": "مدل‌سازی و روش‌های مبتنی بر برنامه‌ریزی خطی",
+            "Name": "جریان‌ها، مسیرها، برش‌ها: مدل‌سازی و استفاده از برنامه‌ریزی خطی",
             "Supplementary Video": 6,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 106,
@@ -2218,8 +2254,8 @@
             "Content Id": 105,
             "Course": 5,
             "Video": 47,
-            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
-            "Name": "\u062a\u06a9\u0646\u06cc\u06a9 \u0634\u06a9\u0627\u0641\u062a\u0646",
+            "Topic": "برش در گراف‌های بدون جهت",
+            "Name": "تکنیک شکافتن",
             "Supplementary Video": 40,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2231,8 +2267,8 @@
             "Content Id": 106,
             "Course": 5,
             "Video": 48,
-            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
-            "Name": "\u0628\u0631\u0634\u200c\u0647\u0627\u06cc \u06a9\u0645\u06cc\u0646\u0647 \u0633\u0631\u0627\u0633\u0631\u06cc \u0648 \u062a\u0631\u062a\u06cc\u0628 \u0645\u062c\u0627\u0648\u0631\u062a-\u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Topic": "برش در گراف‌های بدون جهت",
+            "Name": "برش‌های کمینه سراسری و ترتیب مجاورت-بیشینه",
             "Supplementary Video": 49,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2244,8 +2280,8 @@
             "Content Id": 107,
             "Course": 5,
             "Video": 107,
-            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
-            "Name": "\u0646\u0645\u0627\u06cc\u0634 \u06a9\u0627\u06a9\u062a\u0648\u0633\u06cc",
+            "Topic": "برش در گراف‌های بدون جهت",
+            "Name": "نمایش کاکتوسی",
             "Supplementary Video": 108,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2257,8 +2293,8 @@
             "Content Id": 108,
             "Course": 5,
             "Video": 50,
-            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
-            "Name": "\u062f\u0631\u062e\u062a \u06af\u0648\u0645\u0648\u0631\u06cc-\u0647\u0648",
+            "Topic": "برش در گراف‌های بدون جهت",
+            "Name": "درخت گوموری-هو",
             "Supplementary Video": 51,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2270,8 +2306,8 @@
             "Content Id": 109,
             "Course": 5,
             "Video": 73,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647 \u06f1: \u0645\u0641\u0627\u0647\u06cc\u0645 \u0645\u0642\u062f\u0645\u0627\u062a\u06cc",
+            "Topic": "جریان با کمترین هزینه",
+            "Name": "جریان با کمترین هزینه ۱: مفاهیم مقدماتی",
             "Supplementary Video": 74,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 109,
@@ -2283,8 +2319,8 @@
             "Content Id": 110,
             "Course": 5,
             "Video": 110,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647 \u06f2: \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u0686\u0646\u062f\u062c\u0645\u0644\u0647\u200c\u0627\u06cc",
+            "Topic": "جریان با کمترین هزینه",
+            "Name": "جریان با کمترین هزینه ۲: الگوریتم‌های چندجمله‌ای",
             "Supplementary Video": 111,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2296,8 +2332,8 @@
             "Content Id": 111,
             "Course": 5,
             "Video": 112,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647 \u06f3: \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u0642\u0648\u06cc\u0627\u064b \u0686\u0646\u062f\u062c\u0645\u0644\u0647\u200c\u0627\u06cc",
+            "Topic": "جریان با کمترین هزینه",
+            "Name": "جریان با کمترین هزینه ۳: الگوریتم‌های قویاً چندجمله‌ای",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2309,8 +2345,8 @@
             "Content Id": 112,
             "Course": 5,
             "Video": 113,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0647\u0632\u06cc\u0646\u0647 \u06f4: \u0633\u06cc\u0645\u067e\u0644\u06a9\u0633 \u062c\u0631\u06cc\u0627\u0646",
+            "Topic": "جریان با کمترین هزینه",
+            "Name": "جریان با کمترین هزینه ۴: سیمپلکس جریان",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2322,8 +2358,8 @@
             "Content Id": 113,
             "Course": 5,
             "Video": 114,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc \u06f1: \u0645\u0642\u062f\u0645\u0627\u062a",
+            "Topic": "جریان چندکالایی",
+            "Name": "جریان چندکالایی ۱: مقدمات",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2335,8 +2371,8 @@
             "Content Id": 114,
             "Course": 5,
             "Video": 115,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc \u06f2: \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0645\u0633\u0637\u062d",
+            "Topic": "جریان چندکالایی",
+            "Name": "جریان چندکالایی ۲: گراف‌های مسطح",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2348,8 +2384,8 @@
             "Content Id": 115,
             "Course": 5,
             "Video": 116,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc \u06f3: \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u06af\u0631\u06af-\u06a9\u0646\u0645\u0627\u0646",
+            "Topic": "جریان چندکالایی",
+            "Name": "جریان چندکالایی ۳: الگوریتم گرگ-کنمان",
             "Supplementary Video": 117,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2361,8 +2397,8 @@
             "Content Id": 116,
             "Course": 5,
             "Video": 118,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc \u06f4: \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0622\u0648\u0631\u0628\u0648\u062e-\u0644\u06cc\u062a\u0648\u0646",
+            "Topic": "جریان چندکالایی",
+            "Name": "جریان چندکالایی ۴: الگوریتم آوربوخ-لیتون",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2374,8 +2410,8 @@
             "Content Id": 117,
             "Course": 6,
             "Video": 119,
-            "Topic": "\u0645\u0642\u062f\u0645\u0647",
-            "Name": "\u0631\u0648\u0634 \u062d\u0631\u06cc\u0635\u0627\u0646\u0647\u060c \u067e\u0648\u0634\u0634 \u0645\u062c\u0645\u0648\u0639\u0647\u200c\u0627\u06cc\u060c \u062a\u06cc\u200c\u0627\u0633\u200c\u067e\u06cc \u0648 \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u06f1.\u06f5 \u062a\u0642\u0631\u06cc\u0628",
+            "Topic": "مقدمه",
+            "Name": "روش حریصانه، پوشش مجموعه‌ای، تی‌اس‌پی و الگوریتم ۱.۵ تقریب",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2387,8 +2423,8 @@
             "Content Id": 118,
             "Course": 6,
             "Video": 120,
-            "Topic": "\u0645\u0642\u062f\u0645\u0647",
-            "Name": "\u06af\u0631\u062f \u06a9\u0631\u062f\u0646 \u0648 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u067e\u0648\u06cc\u0627\u060c PTAS\u060c FPTAS",
+            "Topic": "مقدمه",
+            "Name": "گرد کردن و برنامه‌ریزی پویا، PTAS، FPTAS",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2400,8 +2436,8 @@
             "Content Id": 119,
             "Course": 6,
             "Video": 121,
-            "Topic": "\u0645\u0642\u062f\u0645\u0647",
-            "Name": "\u062c\u0633\u062a\u062c\u0648\u06cc \u0645\u062d\u0644\u06cc",
+            "Topic": "مقدمه",
+            "Name": "جستجوی محلی",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2413,8 +2449,8 @@
             "Content Id": 120,
             "Course": 6,
             "Video": 122,
-            "Topic": "\u0645\u0642\u062f\u0645\u0647",
-            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u0627\u06cc \u0628\u0631 \u0631\u0648\u0634\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Topic": "مقدمه",
+            "Name": "مقدمه‌ای بر روشهای مبتنی بر برنامه‌ریزی خطی",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2426,8 +2462,8 @@
             "Content Id": 121,
             "Course": 6,
             "Video": 76,
-            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646",
-            "Name": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646\u060c \u062c\u0646\u06af\u0644 \u0627\u0634\u062a\u0627\u06cc\u0646\u0631",
+            "Topic": "روش اولیه-دوگان",
+            "Name": "روش اولیه-دوگان، جنگل اشتاینر",
             "Supplementary Video": 77,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2439,8 +2475,8 @@
             "Content Id": 122,
             "Course": 6,
             "Video": 123,
-            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646",
-            "Name": "\u0645\u0633\u0626\u0644\u0647 \u0645\u06a9\u0627\u0646\u200c\u06cc\u0627\u0628\u06cc \u062a\u0633\u0647\u06cc\u0644\u0627\u062a",
+            "Topic": "روش اولیه-دوگان",
+            "Name": "مسئله مکان‌یابی تسهیلات",
             "Supplementary Video": 124,
             "Alternative Supplementary Video": 125,
             "Prerequisite": 1,
@@ -2452,8 +2488,8 @@
             "Content Id": 123,
             "Course": 6,
             "Video": 126,
-            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646",
-            "Name": "\u0645\u0633\u0626\u0644\u0647 k-\u0645\u06cc\u0627\u0646\u0647",
+            "Topic": "روش اولیه-دوگان",
+            "Name": "مسئله k-میانه",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2465,8 +2501,8 @@
             "Content Id": 124,
             "Course": 6,
             "Video": 127,
-            "Topic": "\u0631\u0648\u0634 \u0627\u0648\u0644\u06cc\u0647-\u062f\u0648\u06af\u0627\u0646",
-            "Name": "\u0628\u0631\u0627\u0632\u0634 \u062f\u0648\u06af\u0627\u0646",
+            "Topic": "روش اولیه-دوگان",
+            "Name": "برازش دوگان",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2478,8 +2514,8 @@
             "Content Id": 125,
             "Course": 6,
             "Video": 128,
-            "Topic": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646",
-            "Name": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646\u060c \u0645\u0633\u0626\u0644\u0647 Max-SAT",
+            "Topic": "روش گرد کردن",
+            "Name": "روش گرد کردن، مسئله Max-SAT",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2491,8 +2527,8 @@
             "Content Id": 126,
             "Course": 6,
             "Video": 78,
-            "Topic": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646",
-            "Name": "\u062f\u0631\u062e\u062a \u0627\u0634\u062a\u0627\u06cc\u0646\u0631 \u062c\u0627\u06cc\u0632\u0647-\u062c\u0645\u0639\u200c\u06a9\u0646",
+            "Topic": "روش گرد کردن",
+            "Name": "درخت اشتاینر جایزه-جمع‌کن",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2504,8 +2540,8 @@
             "Content Id": 127,
             "Course": 6,
             "Video": 129,
-            "Topic": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646",
-            "Name": "\u06af\u0631\u062f \u06a9\u0631\u062f\u0646 \u0628\u0631\u0627\u06cc \u0645\u06a9\u0627\u0646\u200c\u06cc\u0627\u0628\u06cc \u062a\u0633\u0647\u06cc\u0644\u0627\u062a",
+            "Topic": "روش گرد کردن",
+            "Name": "گرد کردن برای مکان‌یابی تسهیلات",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2517,8 +2553,8 @@
             "Content Id": 128,
             "Course": 6,
             "Video": 130,
-            "Topic": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646",
-            "Name": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646 \u0644\u0648\u0644\u0647\u200c\u06a9\u0634\u06cc",
+            "Topic": "روش گرد کردن",
+            "Name": "روش گرد کردن لوله‌کشی",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2530,8 +2566,8 @@
             "Content Id": 129,
             "Course": 6,
             "Video": 46,
-            "Topic": "\u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631",
-            "Name": "\u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631\u060c \u062f\u0631\u062e\u062a \u0641\u0631\u0627\u06af\u06cc\u0631 \u062f\u0631\u062c\u0647-\u0645\u062d\u062f\u0648\u062f \u06a9\u0645\u06cc\u0646\u0647",
+            "Topic": "روش‌های مبتنی بر تکرار",
+            "Name": "روش‌های مبتنی بر تکرار، درخت فراگیر درجه-محدود کمینه",
             "Supplementary Video": 131,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2543,8 +2579,8 @@
             "Content Id": 130,
             "Course": 6,
             "Video": 132,
-            "Topic": "\u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631",
-            "Name": "\u0645\u0633\u0626\u0644\u0647 \u062a\u062e\u0635\u06cc\u0635 \u062a\u0639\u0645\u06cc\u0645\u200c\u06cc\u0627\u0641\u062a\u0647",
+            "Topic": "روش‌های مبتنی بر تکرار",
+            "Name": "مسئله تخصیص تعمیم‌یافته",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2556,8 +2592,8 @@
             "Content Id": 131,
             "Course": 6,
             "Video": 133,
-            "Topic": "\u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631",
-            "Name": "\u0637\u0631\u0627\u062d\u06cc \u0634\u0628\u06a9\u0647 \u062a\u062d\u0645\u0644\u200c\u067e\u0630\u06cc\u0631 \u062e\u0637\u0627",
+            "Topic": "روش‌های مبتنی بر تکرار",
+            "Name": "طراحی شبکه تحمل‌پذیر خطا",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2569,8 +2605,8 @@
             "Content Id": 132,
             "Course": 6,
             "Video": 134,
-            "Topic": "\u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062a\u06a9\u0631\u0627\u0631",
-            "Name": "\u06af\u0631\u062f \u06a9\u0631\u062f\u0646 \u062a\u06a9\u0631\u0627\u0631\u06cc \u062a\u0635\u0627\u062f\u0641\u06cc: \u062f\u0631\u062e\u062a \u0627\u0634\u062a\u0627\u06cc\u0646\u0631",
+            "Topic": "روش‌های مبتنی بر تکرار",
+            "Name": "گرد کردن تکراری تصادفی: درخت اشتاینر",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2582,8 +2618,8 @@
             "Content Id": 133,
             "Course": 6,
             "Video": 135,
-            "Topic": "\u0628\u0647\u200c\u0631\u0648\u0632 \u0631\u0633\u0627\u0646\u06cc \u0636\u0631\u0628\u06cc \u0648\u0632\u0646\u200c\u0647\u0627 \u0648 \u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u06cc \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
-            "Name": "\u0628\u0647\u200c\u0631\u0648\u0632 \u0631\u0633\u0627\u0646\u06cc \u0636\u0631\u0628\u06cc \u0648\u0632\u0646\u200c\u0647\u0627",
+            "Topic": "به‌روز رسانی ضربی وزن‌ها و جریان‌های چندکالایی",
+            "Name": "به‌روز رسانی ضربی وزن‌ها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2595,8 +2631,8 @@
             "Content Id": 134,
             "Course": 6,
             "Video": 116,
-            "Topic": "\u0628\u0647\u200c\u0631\u0648\u0632 \u0631\u0633\u0627\u0646\u06cc \u0636\u0631\u0628\u06cc \u0648\u0632\u0646\u200c\u0647\u0627 \u0648 \u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u06cc \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc: \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u06af\u0631\u06af-\u06a9\u0646\u0645\u0627\u0646",
+            "Topic": "به‌روز رسانی ضربی وزن‌ها و جریان‌های چندکالایی",
+            "Name": "جریان چندکالایی: الگوریتم گرگ-کنمان",
             "Supplementary Video": 117,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 136,
@@ -2608,8 +2644,8 @@
             "Content Id": 135,
             "Course": 6,
             "Video": 118,
-            "Topic": "\u0628\u0647\u200c\u0631\u0648\u0632 \u0631\u0633\u0627\u0646\u06cc \u0636\u0631\u0628\u06cc \u0648\u0632\u0646\u200c\u0647\u0627 \u0648 \u062c\u0631\u06cc\u0627\u0646\u200c\u0647\u0627\u06cc \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc: \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0622\u0648\u0631\u0628\u0648\u062e-\u0644\u06cc\u062a\u0648\u0646",
+            "Topic": "به‌روز رسانی ضربی وزن‌ها و جریان‌های چندکالایی",
+            "Name": "جریان چندکالایی: الگوریتم آوربوخ-لیتون",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2621,8 +2657,8 @@
             "Content Id": 136,
             "Course": 6,
             "Video": 79,
-            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627 \u0648 \u0645\u062a\u0631\u06cc\u06a9\u200c\u0647\u0627",
-            "Name": "\u0628\u0631\u0634 \u0686\u0646\u062f\u0637\u0631\u0641\u0647",
+            "Topic": "برش‌ها و متریک‌ها",
+            "Name": "برش چندطرفه",
             "Supplementary Video": 80,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2634,8 +2670,8 @@
             "Content Id": 137,
             "Course": 6,
             "Video": 137,
-            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627 \u0648 \u0645\u062a\u0631\u06cc\u06a9\u200c\u0647\u0627",
-            "Name": "\u0686\u0646\u062f-\u0628\u0631\u0634",
+            "Topic": "برش‌ها و متریک‌ها",
+            "Name": "چند-برش",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2647,8 +2683,8 @@
             "Content Id": 138,
             "Course": 6,
             "Video": 138,
-            "Topic": "\u0628\u0631\u0634\u200c\u0647\u0627 \u0648 \u0645\u062a\u0631\u06cc\u06a9\u200c\u0647\u0627",
-            "Name": "\u0645\u062a\u0631\u06cc\u06a9\u200c\u0647\u0627\u06cc \u062f\u0631\u062e\u062a\u06cc",
+            "Topic": "برش‌ها و متریک‌ها",
+            "Name": "متریک‌های درختی",
             "Supplementary Video": 139,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2660,8 +2696,8 @@
             "Content Id": 139,
             "Course": 7,
             "Video": 140,
-            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0645\u0642\u062f\u0645\u0627\u062a\u06cc",
-            "Name": "\u062c\u0633\u062a\u062c\u0648\u06cc \u0627\u0648\u0644\u200c-\u0633\u0637\u062d",
+            "Topic": "مباحث مقدماتی",
+            "Name": "جستجوی اول‌-سطح",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2673,8 +2709,8 @@
             "Content Id": 140,
             "Course": 7,
             "Video": 141,
-            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0645\u0642\u062f\u0645\u0627\u062a\u06cc",
-            "Name": "\u062c\u0633\u062a\u062c\u0648\u06cc \u0627\u0648\u0644\u200c-\u0639\u0645\u0642",
+            "Topic": "مباحث مقدماتی",
+            "Name": "جستجوی اول‌-عمق",
             "Supplementary Video": 142,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2686,8 +2722,8 @@
             "Content Id": 141,
             "Course": 7,
             "Video": 143,
-            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0645\u0642\u062f\u0645\u0627\u062a\u06cc",
-            "Name": "\u0632\u06cc\u0631\u062f\u0631\u062e\u062a \u0641\u0631\u0627\u06af\u06cc\u0631 \u06a9\u0645\u06cc\u0646\u0647",
+            "Topic": "مباحث مقدماتی",
+            "Name": "زیردرخت فراگیر کمینه",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2699,8 +2735,8 @@
             "Content Id": 142,
             "Course": 7,
             "Video": 144,
-            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0645\u0642\u062f\u0645\u0627\u062a\u06cc",
-            "Name": "\u06a9\u0648\u062a\u0627\u0647\u062a\u0631\u06cc\u0646 \u0645\u0633\u06cc\u0631 \u06f1",
+            "Topic": "مباحث مقدماتی",
+            "Name": "کوتاهترین مسیر ۱",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2712,8 +2748,8 @@
             "Content Id": 143,
             "Course": 7,
             "Video": 145,
-            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0645\u0642\u062f\u0645\u0627\u062a\u06cc",
-            "Name": "\u06a9\u0648\u062a\u0627\u0647\u062a\u0631\u06cc\u0646 \u0645\u0633\u06cc\u0631 \u06f2",
+            "Topic": "مباحث مقدماتی",
+            "Name": "کوتاهترین مسیر ۲",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2725,8 +2761,8 @@
             "Content Id": 144,
             "Course": 7,
             "Video": 146,
-            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0648\u06cc\u0698\u0647",
-            "Name": "\u062f\u0648\u0631 \u0628\u0627 \u06a9\u0645\u062a\u0631\u06cc\u0646 \u0645\u06cc\u0627\u0646\u06af\u06cc\u0646 \u0648\u0632\u0646 \u0648 \u062f\u0631\u062e\u062a \u06a9\u0645\u200c\u0639\u0645\u0642-\u0633\u0628\u06a9",
+            "Topic": "مباحث ویژه",
+            "Name": "دور با کمترین میانگین وزن و درخت کم‌عمق-سبک",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2738,8 +2774,8 @@
             "Content Id": 145,
             "Course": 7,
             "Video": 147,
-            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0648\u06cc\u0698\u0647",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u0633\u0631\u06cc\u0639\u200c\u062a\u0631 \u0628\u0631\u0627\u06cc \u0645\u0633\u0626\u0644\u0647 \u0632\u06cc\u0631\u062f\u0631\u062e\u062a \u0641\u0631\u0627\u06af\u06cc\u0631 \u06a9\u0645\u06cc\u0646\u0647",
+            "Topic": "مباحث ویژه",
+            "Name": "الگوریتم‌های سریع‌تر برای مسئله زیردرخت فراگیر کمینه",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2751,8 +2787,8 @@
             "Content Id": 146,
             "Course": 7,
             "Video": 42,
-            "Topic": "\u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
-            "Name": "\u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc \u0628\u062f\u0648\u0646 \u0648\u0632\u0646",
+            "Topic": "تطابق غیردوبخشی",
+            "Name": "تطابق غیردوبخشی بدون وزن",
             "Supplementary Video": 43,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2764,7 +2800,7 @@
             "Content Id": 147,
             "Course": 7,
             "Video": 75,
-            "Topic": "\u062a\u0637\u0627\u0628\u0642 \u063a\u06cc\u0631\u062f\u0648\u0628\u062e\u0634\u06cc",
+            "Topic": "تطابق غیردوبخشی",
             "Name": "T-Join",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
@@ -2777,8 +2813,8 @@
             "Content Id": 148,
             "Course": 7,
             "Video": 101,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647 \u06f1: \u062a\u0639\u0627\u0631\u06cc\u0641 \u0648 \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627",
+            "Topic": "جریان بیشینه",
+            "Name": "جریان بیشینه ۱: تعاریف و الگوریتم‌ها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2790,8 +2826,8 @@
             "Content Id": 149,
             "Course": 7,
             "Video": 102,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647 \u06f2: \u0646\u0633\u062e\u0647\u200c\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 \u0648 \u06a9\u0627\u0631\u0628\u0631\u062f\u0647\u0627\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc\u0627\u062a\u06cc",
+            "Topic": "جریان بیشینه",
+            "Name": "جریان بیشینه ۲: نسخه‌های مختلف و کاربردهای ترکیبیاتی",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2803,8 +2839,8 @@
             "Content Id": 150,
             "Course": 7,
             "Video": 103,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647 \u06f3: \u06a9\u0627\u0631\u0628\u0631\u062f\u0647\u0627",
+            "Topic": "جریان بیشینه",
+            "Name": "جریان بیشینه ۳: کاربردها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2816,8 +2852,8 @@
             "Content Id": 151,
             "Course": 7,
             "Video": 104,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0628\u06cc\u0634\u06cc\u0646\u0647",
-            "Name": "\u062a\u0637\u0627\u0628\u0642 \u0648\u0632\u0646\u200c\u062f\u0627\u0631 \u062f\u0631 \u06af\u0631\u0627\u0641 \u062f\u0648\u0628\u062e\u0634\u06cc\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 push-relabel",
+            "Topic": "جریان بیشینه",
+            "Name": "تطابق وزن‌دار در گراف دوبخشی، الگوریتم push-relabel",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2829,8 +2865,8 @@
             "Content Id": 152,
             "Course": 7,
             "Video": 47,
-            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
-            "Name": "\u062a\u06a9\u0646\u06cc\u06a9 \u0634\u06a9\u0627\u0641\u062a\u0646",
+            "Topic": "برش در گراف‌های بدون جهت",
+            "Name": "تکنیک شکافتن",
             "Supplementary Video": 40,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2842,8 +2878,8 @@
             "Content Id": 153,
             "Course": 7,
             "Video": 48,
-            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
-            "Name": "\u0628\u0631\u0634\u200c\u0647\u0627\u06cc \u06a9\u0645\u06cc\u0646\u0647 \u0633\u0631\u0627\u0633\u0631\u06cc \u0648 \u062a\u0631\u062a\u06cc\u0628 \u0645\u062c\u0627\u0648\u0631\u062a-\u0628\u06cc\u0634\u06cc\u0646\u0647",
+            "Topic": "برش در گراف‌های بدون جهت",
+            "Name": "برش‌های کمینه سراسری و ترتیب مجاورت-بیشینه",
             "Supplementary Video": 49,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2855,8 +2891,8 @@
             "Content Id": 154,
             "Course": 7,
             "Video": 148,
-            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0627\u0646\u0642\u0628\u0627\u0636 \u0628\u0627\u0632\u06af\u0634\u062a\u06cc",
+            "Topic": "برش در گراف‌های بدون جهت",
+            "Name": "الگوریتم انقباض بازگشتی",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2868,8 +2904,8 @@
             "Content Id": 155,
             "Course": 7,
             "Video": 107,
-            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
-            "Name": "\u0646\u0645\u0627\u06cc\u0634 \u06a9\u0627\u06a9\u062a\u0648\u0633\u06cc",
+            "Topic": "برش در گراف‌های بدون جهت",
+            "Name": "نمایش کاکتوسی",
             "Supplementary Video": 108,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2881,8 +2917,8 @@
             "Content Id": 156,
             "Course": 7,
             "Video": 50,
-            "Topic": "\u0628\u0631\u0634 \u062f\u0631 \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0628\u062f\u0648\u0646 \u062c\u0647\u062a",
-            "Name": "\u062f\u0631\u062e\u062a \u06af\u0648\u0645\u0648\u0631\u06cc-\u0647\u0648",
+            "Topic": "برش در گراف‌های بدون جهت",
+            "Name": "درخت گوموری-هو",
             "Supplementary Video": 51,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2894,8 +2930,8 @@
             "Content Id": 157,
             "Course": 7,
             "Video": 81,
-            "Topic": "\u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u062a\u0627\u0645",
-            "Name": "\u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u062a\u0627\u0645",
+            "Topic": "گراف‌های تام",
+            "Name": "گراف‌های تام",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2907,8 +2943,8 @@
             "Content Id": 158,
             "Course": 7,
             "Video": 114,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc : \u0645\u0642\u062f\u0645\u0627\u062a",
+            "Topic": "جریان چندکالایی",
+            "Name": "جریان چندکالایی : مقدمات",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2920,8 +2956,8 @@
             "Content Id": 159,
             "Course": 7,
             "Video": 115,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc : \u06af\u0631\u0627\u0641\u200c\u0647\u0627\u06cc \u0645\u0633\u0637\u062d",
+            "Topic": "جریان چندکالایی",
+            "Name": "جریان چندکالایی : گراف‌های مسطح",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2933,8 +2969,8 @@
             "Content Id": 160,
             "Course": 7,
             "Video": 118,
-            "Topic": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc",
-            "Name": "\u062c\u0631\u06cc\u0627\u0646 \u0686\u0646\u062f\u06a9\u0627\u0644\u0627\u06cc\u06cc : \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0622\u0648\u0631\u0628\u0648\u062e-\u0644\u06cc\u062a\u0648\u0646",
+            "Topic": "جریان چندکالایی",
+            "Name": "جریان چندکالایی : الگوریتم آوربوخ-لیتون",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2946,8 +2982,8 @@
             "Content Id": 161,
             "Course": 7,
             "Video": 149,
-            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0648\u06cc\u0698\u0647",
-            "Name": "\u0641\u0634\u0631\u062f\u0647\u200c\u0633\u0627\u0632\u06cc \u06af\u0631\u0627\u0641",
+            "Topic": "مباحث ویژه",
+            "Name": "فشرده‌سازی گراف",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2959,8 +2995,8 @@
             "Content Id": 162,
             "Course": 7,
             "Video": 150,
-            "Topic": "\u0645\u0628\u0627\u062d\u062b \u0648\u06cc\u0698\u0647",
-            "Name": "\u062a\u062c\u0632\u06cc\u0647 \u062f\u0631\u062e\u062a\u06cc",
+            "Topic": "مباحث ویژه",
+            "Name": "تجزیه درختی",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2972,8 +3008,8 @@
             "Content Id": 163,
             "Course": 7,
             "Video": 56,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627: \u0645\u0642\u062f\u0645\u0627\u062a \u0648 \u062a\u0639\u0627\u0631\u06cc\u0641\u060c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u062d\u0631\u06cc\u0635\u0627\u0646\u0647",
+            "Topic": "ماترویدها",
+            "Name": "ماترویدها: مقدمات و تعاریف، الگوریتم حریصانه",
             "Supplementary Video": 57,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -2985,8 +3021,8 @@
             "Content Id": 164,
             "Course": 7,
             "Video": 58,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u062a\u0639\u0627\u0631\u06cc\u0641 \u0645\u0639\u0627\u062f\u0644",
+            "Topic": "ماترویدها",
+            "Name": "تعاریف معادل",
             "Supplementary Video": 59,
             "Alternative Supplementary Video": 92,
             "Prerequisite": 1,
@@ -2998,8 +3034,8 @@
             "Content Id": 165,
             "Course": 7,
             "Video": 96,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u0631\u0648\u06cc \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Topic": "ماترویدها",
+            "Name": "بهینه‌سازی روی ماترویدها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3011,8 +3047,8 @@
             "Content Id": 166,
             "Course": 7,
             "Video": 60,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Topic": "ماترویدها",
+            "Name": "اشتراک ماترویدها",
             "Supplementary Video": 61,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3024,8 +3060,8 @@
             "Content Id": 167,
             "Course": 7,
             "Video": 87,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Topic": "ماترویدها",
+            "Name": "الگوریتم اشتراک ماترویدها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3037,8 +3073,8 @@
             "Content Id": 168,
             "Course": 7,
             "Video": 98,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0648\u0632\u0646\u200c\u062f\u0627\u0631 \u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
+            "Topic": "ماترویدها",
+            "Name": "الگوریتم اشتراک وزن‌دار ماترویدها",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3050,8 +3086,8 @@
             "Content Id": 169,
             "Course": 7,
             "Video": 99,
-            "Topic": "\u0645\u0627\u062a\u0631\u0648\u06cc\u062f\u0647\u0627",
-            "Name": "\u0628\u0627\u0632\u06cc \u0634\u0627\u0646\u0648\u0646",
+            "Topic": "ماترویدها",
+            "Name": "بازی شانون",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3064,7 +3100,7 @@
             "Course": 8,
             "Video": 151,
             "Topic": "",
-            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u0627\u06cc \u0628\u0631 \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062a\u0635\u0627\u062f\u0641\u06cc",
+            "Name": "مقدمه‌ای بر الگوریتم‌های تصادفی",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3077,7 +3113,7 @@
             "Course": 8,
             "Video": 152,
             "Topic": "",
-            "Name": "\u0646\u0627\u0645\u0633\u0627\u0648\u06cc\u200c\u0647\u0627\u06cc \u0645\u0627\u0631\u06a9\u0648\u0641 \u0648 \u0686\u0628\u06cc\u0634\u0641",
+            "Name": "نامساوی‌های مارکوف و چبیشف",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3090,7 +3126,7 @@
             "Course": 8,
             "Video": 153,
             "Topic": "",
-            "Name": "\u0646\u0627\u0645\u0633\u0627\u0648\u06cc \u0686\u0631\u0646\u0648\u0641",
+            "Name": "نامساوی چرنوف",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3103,7 +3139,7 @@
             "Course": 8,
             "Video": 154,
             "Topic": "",
-            "Name": "\u06a9\u0627\u0631\u0628\u0631\u062f \u0686\u0646\u062f\u062c\u0645\u0644\u0647\u200c\u0627\u06cc\u200c\u0647\u0627 \u062f\u0631 \u0637\u0631\u0627\u062d\u06cc\u200c \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645",
+            "Name": "کاربرد چندجمله‌ای‌ها در طراحی‌ الگوریتم",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3116,7 +3152,7 @@
             "Course": 8,
             "Video": 155,
             "Topic": "",
-            "Name": "\u0646\u0645\u0648\u0646\u0647\u200c\u06af\u06cc\u0631\u06cc \u062a\u0635\u0627\u062f\u0641\u06cc \u0648 \u0645\u0633\u0626\u0644\u0647 \u0628\u0633\u062a\u0627\u0631 \u0645\u062a\u0639\u062f\u06cc",
+            "Name": "نمونه‌گیری تصادفی و مسئله بستار متعدی",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3129,7 +3165,7 @@
             "Course": 8,
             "Video": 156,
             "Topic": "",
-            "Name": "\u0634\u0645\u0627\u0631\u0634 \u0648 \u0646\u0645\u0648\u0646\u0647\u200c\u06af\u06cc\u0631\u06cc \u062a\u0635\u0627\u062f\u0641\u06cc",
+            "Name": "شمارش و نمونه‌گیری تصادفی",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3142,7 +3178,7 @@
             "Course": 8,
             "Video": 157,
             "Topic": "",
-            "Name": "\u0634\u06a9\u0633\u062a\u0646 \u062a\u0642\u0627\u0631\u0646\u060c \u062c\u0648\u0627\u0628\u200c\u0647\u0627\u06cc \u06cc\u06a9\u062a\u0627\u060c \u0644\u0645 \u0627\u06cc\u0632\u0648\u0644\u0647\u200c\u0633\u0627\u0632\u06cc",
+            "Name": "شکستن تقارن، جواب‌های یکتا، لم ایزوله‌سازی",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3155,7 +3191,7 @@
             "Course": 8,
             "Video": 147,
             "Topic": "",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u0633\u0631\u06cc\u0639\u200c\u062a\u0631 \u0628\u0631\u0627\u06cc \u0645\u0633\u0626\u0644\u0647 \u0632\u06cc\u0631\u062f\u0631\u062e\u062a \u0641\u0631\u0627\u06af\u06cc\u0631 \u06a9\u0645\u06cc\u0646\u0647",
+            "Name": "الگوریتم‌های سریع‌تر برای مسئله زیردرخت فراگیر کمینه",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3168,7 +3204,7 @@
             "Course": 8,
             "Video": 158,
             "Topic": "",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u0628\u0631\u062e\u0637",
+            "Name": "الگوریتم‌های برخط",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3181,7 +3217,7 @@
             "Course": 8,
             "Video": 159,
             "Topic": "",
-            "Name": "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645\u200c\u0647\u0627\u06cc \u062c\u0648\u06cc\u0628\u0627\u0631\u06cc",
+            "Name": "الگوریتم‌های جویباری",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3194,7 +3230,7 @@
             "Course": 8,
             "Video": 122,
             "Topic": "",
-            "Name": "\u0645\u0642\u062f\u0645\u0647\u200c\u0627\u06cc \u0628\u0631 \u0631\u0648\u0634\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u062e\u0637\u06cc",
+            "Name": "مقدمه‌ای بر روشهای مبتنی بر برنامه‌ریزی خطی",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3207,7 +3243,7 @@
             "Course": 8,
             "Video": 128,
             "Topic": "",
-            "Name": "\u0631\u0648\u0634 \u06af\u0631\u062f \u06a9\u0631\u062f\u0646\u060c \u0645\u0633\u0626\u0644\u0647 Max-SAT",
+            "Name": "روش گرد کردن، مسئله Max-SAT",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3220,7 +3256,7 @@
             "Course": 8,
             "Video": 78,
             "Topic": "",
-            "Name": "\u062f\u0631\u062e\u062a \u0627\u0634\u062a\u0627\u06cc\u0646\u0631 \u062c\u0627\u06cc\u0632\u0647-\u062c\u0645\u0639\u200c\u06a9\u0646",
+            "Name": "درخت اشتاینر جایزه-جمع‌کن",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3233,7 +3269,7 @@
             "Course": 8,
             "Video": 133,
             "Topic": "",
-            "Name": "\u0637\u0631\u0627\u062d\u06cc \u0634\u0628\u06a9\u0647 \u062a\u062d\u0645\u0644\u200c\u067e\u0630\u06cc\u0631 \u062e\u0637\u0627",
+            "Name": "طراحی شبکه تحمل‌پذیر خطا",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3246,7 +3282,7 @@
             "Course": 8,
             "Video": 134,
             "Topic": "",
-            "Name": "\u06af\u0631\u062f \u06a9\u0631\u062f\u0646 \u062a\u06a9\u0631\u0627\u0631\u06cc \u062a\u0635\u0627\u062f\u0641\u06cc: \u062f\u0631\u062e\u062a \u0627\u0634\u062a\u0627\u06cc\u0646\u0631",
+            "Name": "گرد کردن تکراری تصادفی: درخت اشتاینر",
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
@@ -3259,7 +3295,7 @@
             "Course": 8,
             "Video": 138,
             "Topic": "",
-            "Name": "\u0645\u062a\u0631\u06cc\u06a9\u200c\u0647\u0627\u06cc \u062f\u0631\u062e\u062a\u06cc",
+            "Name": "متریک‌های درختی",
             "Supplementary Video": 139,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
