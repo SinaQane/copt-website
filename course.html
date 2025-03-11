@@ -63,8 +63,7 @@
 
                         const row = document.createElement('tr');
                         row.innerHTML = `
-                            <td>${video ? `<a href="${video["Video Link"]}" target="_blank">${video["Video Name"]}</a>` : ""}</td>
-                            <td>${content["Topic"] || ""}</td>
+                            <td>${video ? `<a href="${video["Video Link"]}" target="_blank">${content["Topic"] != "" ? content["Topic"] - content["Name"] : content["Name"]}</a>` : ""}</td>
                             <td>${supplementaryVideo && supplementaryVideo["Video Link"] != "" ? ( alternativeVideo && alternativeVideo["Video Link"] != "" ? `<a href="${supplementaryVideo["Video Link"]}" target="_blank">${supplementaryVideo["Video Name"]}</a> - <a href=" - ${alternativeVideo["Video Link"]}" target="_blank">${alternativeVideo["Video Name"]}</a>` : `<a href="${supplementaryVideo["Video Link"]}" target="_blank">${supplementaryVideo["Video Name"]}</a>`) : ""}</td>
                             <td>${prerequisite && prerequisite["Video Link"] != "" ? `<a href="${prerequisite["Video Link"]}" target="_blank">${prerequisite["Video Name"]}</a>` : ""}</td>
                             <td>${content["Comments"] || ""}</td>
