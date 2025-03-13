@@ -1007,6 +1007,96 @@
             "Video Id": 194,
             "Video Name": "DA - Session26 (LP4)",
             "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/LP4.mp4"
+        },
+        {
+            "Video Id": 195,
+            "Video Name": "DA - Extra (Online)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20Online.mp4"
+        },
+        {
+            "Video Id": 196,
+            "Video Name": "DA - Extra (MWU Experts)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20MWU%20Experts.mp4"
+        },
+        {
+            "Video Id": 197,
+            "Video Name": "DA - Extra (Randomized)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20Randomized.mp4"
+        },
+        {
+            "Video Id": 198,
+            "Video Name": "DA - Extra (Markov, Chebyshev)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20Markov%20Chebyshev.mp4"
+        },
+        {
+            "Video Id": 199,
+            "Video Name": "DA - Extra (Chernoff)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20Chernoff.mp4"
+        },
+        {
+            "Video Id": 200,
+            "Video Name": "DA - Extra (Polynomials)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20Polynomials.mp4"
+        },
+        {
+            "Video Id": 201,
+            "Video Name": "DA - Extra (Polling Transitive Closure)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20Polling%20Transitive%20Closure%20v2.mp4"
+        },
+        {
+            "Video Id": 202,
+            "Video Name": "DA - Extra (Counting Generation)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20Counting%20Generation.mp4"
+        },
+        {
+            "Video Id": 203,
+            "Video Name": "DA - Extra (Isolating)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20Isolating.mp4"
+        },
+        {
+            "Video Id": 204,
+            "Video Name": "DA - Extra (MST Advanced)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20MST%20Advanced.mp4"
+        },
+        {
+            "Video Id": 205,
+            "Video Name": "DA - Extra (FPT)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20FPT.mp4"
+        },
+        {
+            "Video Id": 206,
+            "Video Name": "DA - Extra (Treewidth)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20Treewidth.mp4"
+        },
+        {
+            "Video Id": 207,
+            "Video Name": "DA - Extra (Approx, Greedy)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20Approx%20Greedy.mp4"
+        },
+        {
+            "Video Id": 208,
+            "Video Name": "DA - Extra (Approx, PTAS)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20Approx%20PTAS.mp4"
+        },
+        {
+            "Video Id": 209,
+            "Video Name": "DA - Extra (Approx, LP)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20Approx%20LP.mp4"
+        },
+        {
+            "Video Id": 210,
+            "Video Name": "DA - Extra (Streaming)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20Streaming.mp4"
+        },
+        {
+            "Video Id": 211,
+            "Video Name": "DA - Extra (Spanner)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20Spanner.mp4"
+        },
+        {
+            "Video Id": 212,
+            "Video Name": "DA - Extra (CG)",
+            "Video Link": "https://filedn.com/lN1R77q9uUa77ABnA3tyI2y/Courses/Algorithm/algorithm%20session%20CG.mp4"
         }
     ],
     "Files": [
@@ -1039,6 +1129,26 @@
             "File Id": 6,
             "File Name": "board - copt Multicommodity Flow online Garg-Konemann",
             "File Link": "https://drive.google.com/file/d/1wqdTa-7d1UI9BjjUH-v-9Ejjci5aL3Bn/view?usp=sharing"
+        },
+        {
+            "File Id": 7,
+            "File Name": "Lecture Note - Data Structures",
+            "File Link": "https://drive.google.com/file/d/1eKDi4tk7rVL5BO-w2JgROaL7OoOM0nEO/view?usp=share_link"
+        },
+        {
+            "File Id": 8,
+            "File Name": "Lecture Note - Design of Algorithms",
+            "File Link": "https://drive.google.com/file/d/1PoIxkNQ4hW7IEqYsuMS6S8Vgu1PuVYMz/view?usp=share_link"
+        },
+        {
+            "File Id": 9,
+            "File Name": "Lecture Note - Theory of Computation",
+            "File Link": "https://drive.google.com/file/d/1yc4ZiH2vzl2TP8ih-jwOrwPCwaT-TFvB/view?usp=share_link"
+        },
+        {
+            "File Id": 10,
+            "File Name": "Lecture Note - Combinatorial Optimization",
+            "File Link": "https://drive.google.com/file/d/18_BmNpFq81n8vUIHKcqxk_ECdfn7B95m/view?usp=share_link"
         }
     ],
     "Content": [
@@ -1519,7 +1629,7 @@
             "Supplementary Video": 20,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
-            "Comments": "",
+            "Comments": "مدرس جلسه آنلاین: آیدین نیاپرست",
             "Resources": 1,
             "References": ""
         },
@@ -1545,7 +1655,7 @@
             "Supplementary Video": 26,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
-            "Comments": "",
+            "Comments": "مدرس جلسه آنلاین: آیدین نیاپرست",
             "Resources": 1,
             "References": ""
         },
@@ -1558,7 +1668,7 @@
             "Supplementary Video": 69,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
-            "Comments": "",
+            "Comments": "مدرس جلسه آنلاین: آیدین نیاپرست",
             "Resources": 1,
             "References": ""
         },
@@ -1740,7 +1850,7 @@
             "Supplementary Video": 43,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
-            "Comments": "",
+            "Comments": "مدرس جلسه آنلاین: آیدین نیاپرست",
             "Resources": 1,
             "References": ""
         },
@@ -1779,7 +1889,7 @@
             "Supplementary Video": 77,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
-            "Comments": "",
+            "Comments": "مدرس جلسه آنلاین: آیدین نیاپرست",
             "Resources": 1,
             "References": ""
         },
@@ -2143,7 +2253,7 @@
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
-            "Comments": "",
+            "Comments": "مدرس: هانی احمدزاده",
             "Resources": 1,
             "References": ""
         },
@@ -2169,7 +2279,7 @@
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
-            "Comments": "",
+            "Comments": "مدرس: هانی احمدزاده",
             "Resources": 1,
             "References": ""
         },
@@ -2494,7 +2604,7 @@
             "Supplementary Video": 1,
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
-            "Comments": "Network Simplex",
+            "Comments": "مدرس: هانی احمدزاده",
             "Resources": 1,
             "References": ""
         },
@@ -3808,6 +3918,253 @@
             "Alternative Supplementary Video": 1,
             "Prerequisite": 1,
             "Comments": "مدرس: هانی احمدزاده",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 214,
+            "Course": 0,
+            "Video": 19,
+            "Topic": "",
+            "Name": "روش حذفی فوریه، لم فارکاش، دوگانی",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 215,
+            "Course": 0,
+            "Video": 195,
+            "Topic": "",
+            "Name": "الگوریتم‌های برخط",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 216,
+            "Course": 0,
+            "Video": 196,
+            "Topic": "",
+            "Name": "مسئله خبرگان و روش به‌روزرسانی ضربی وزن‌ها",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 217,
+            "Course": 0,
+            "Video": 197,
+            "Topic": "",
+            "Name": "الگوریتم‌های تصادفی",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 218,
+            "Course": 0,
+            "Video": 198,
+            "Topic": "",
+            "Name": "نامساوی‌های مارکوف و چبیشف",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 219,
+            "Course": 0,
+            "Video": 199,
+            "Topic": "",
+            "Name": "نامساوی چرنوف",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 220,
+            "Course": 0,
+            "Video": 200,
+            "Topic": "",
+            "Name": "کاربرد چندجمله‌ای‌ها در طراحی‌ الگوریتم",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 221,
+            "Course": 0,
+            "Video": 201,
+            "Topic": "",
+            "Name": "نمونه‌گیری تصادفی و مسئله بستار متعدی",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 222,
+            "Course": 0,
+            "Video": 202,
+            "Topic": "",
+            "Name": "شمارش و نمونه‌گیری تصادفی",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 223,
+            "Course": 0,
+            "Video": 203,
+            "Topic": "",
+            "Name": "شکستن تقارن، جواب‌های یکتا، لم ایزوله‌سازی",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 224,
+            "Course": 0,
+            "Video": 204,
+            "Topic": "",
+            "Name": "الگوریتم‌های سریع‌تر برای مسئله زیردرخت فراگیر کمینه",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 225,
+            "Course": 0,
+            "Video": 205,
+            "Topic": "",
+            "Name": "الگوریتم‌های پارامتر-ثابت",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 226,
+            "Course": 0,
+            "Video": 206,
+            "Topic": "",
+            "Name": "تجزیه درختی",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 227,
+            "Course": 0,
+            "Video": 207,
+            "Topic": "",
+            "Name": "الگوریتم‌های تقریبی 1: روش حریصانه",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 228,
+            "Course": 0,
+            "Video": 208,
+            "Topic": "",
+            "Name": "الگوریتم‌های تقریبی 2: روش گرد کردن داده و برنامه‌ریزی پویا",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 229,
+            "Course": 0,
+            "Video": 209,
+            "Topic": "",
+            "Name": "الگوریتم‌های تقریبی 3: روش‌های مبتنی بر برنامه‌ریزی خطی",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 230,
+            "Course": 0,
+            "Video": 210,
+            "Topic": "",
+            "Name": "الگوریتم‌های جویباری",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 231,
+            "Course": 0,
+            "Video": 211,
+            "Topic": "",
+            "Name": "فشرده‌سازی گراف",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
+            "Resources": 1,
+            "References": ""
+        },
+        {
+            "Content Id": 232,
+            "Course": 0,
+            "Video": 212,
+            "Topic": "",
+            "Name": "هندسه محاسباتی",
+            "Supplementary Video": 1,
+            "Alternative Supplementary Video": 1,
+            "Prerequisite": 1,
+            "Comments": "مباحث منتخب الگوریتمی",
             "Resources": 1,
             "References": ""
         }
